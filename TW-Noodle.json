@@ -4,7 +4,7 @@
 "https://github.com/Leader-Tan/APK/raw/main/tw.jar;md5;58e7dde0c3dcb6f2d42d58b7f237b5cd",
 
 "lives":
-[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9sZWFkZXJ0di4wMDB3ZWJob3N0YXBwLmNvbS9UVkJveC9saXZlLU5ld3MudHh0"]}]}],
+[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0xlYWRlci1UYW4vQVBLL21haW4vbGl2ZS1OZXdzLnR4dA=="]}]}],
 
 "sites":
 [{"key":"csp_Nbys","name":"🍜 開心麵館 🍜 看大片、追劇、歡唱。開心的好地方 🍜","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
