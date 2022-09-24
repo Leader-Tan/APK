@@ -1,9 +1,8 @@
 //2022/09/23
 
 {
-	"spider": "https://leadertv.000webhostapp.com/TVBox/XC0915.jar;md5;2FB22ABD6898D2524496170B3ABECD6D",
-	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-	"lives": [{
+	"spider": "https://github.com/Leader-Tan/APK/raw/main/XC0915.jar;md5;2FB22ABD6898D2524496170B3ABECD6D",
+		"lives": [{
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
