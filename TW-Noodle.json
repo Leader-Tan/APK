@@ -1,7 +1,7 @@
 {
 // spider
 "spider":
-"https://leadertv.000webhostapp.com/TVBox/jar/tw.jar",
+"https://github.com/Leader-Tan/APK/raw/main/tw.jar",
 
 "lives":
 [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9sZWFkZXJ0di4wMDB3ZWJob3N0YXBwLmNvbS9UVkJveC9DSC9saXZlLU5ld3MuanNvbg=="]}]}],
