@@ -1,14 +1,14 @@
-//2022/09/29
+//2022/10/01
 
 
 {
-    "spider":"https://leadertv.000webhostapp.com/TVBox/jar/XC0926w.jar",
-//	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "spider":"https://github.com/Leader-Tan/APK/raw/TVBox/XC0926w.jar",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9sZWFkZXJ0di4wMDB3ZWJob3N0YXBwLmNvbS9UVkJveC9DSC9saXZlLmpzb24="]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0xlYWRlci1UYW4vQVBLL1RWQm94L2xpdmUuanNvbg=="]
 		}]
 	}],
 
