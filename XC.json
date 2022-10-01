@@ -2,7 +2,7 @@
 
 
 {
-    "spider":"https://github.com/Leader-Tan/APK/raw/TVBox/XC0926w.jar",
+//    "spider":"https://github.com/Leader-Tan/APK/raw/TVBox/XC0926w.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		"group": "redirect",
