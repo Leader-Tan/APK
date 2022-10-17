@@ -18,7 +18,8 @@
 {"key":"csp_Nbys","name":"👑泥視頻〔🇹🇼ᴴᴰ〕","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"唐人街",name:"🍁唐人街〔🇹🇼sᴅ〕",type:3,api:"csp_XPathFilter",searchable:1,quickSearch:1,filterable:1,ext:"https://leadertv.000webhostapp.com/TVBox/json/ia1034qc.json"},
 {"key":"csp_xpath_Gimy2","name":"🎭Gimy劇迷〔🇹🇼sᴅ〕","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/Gimy2.json"},
-
+{"key": "图图","name": "图图","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,jar:"https://agit.ai/66666/mao/raw/branch/master/jar/O.jar"},
+		
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
