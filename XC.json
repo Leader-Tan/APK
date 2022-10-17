@@ -14,10 +14,10 @@
 
 	"sites":[
 {"key":"csp_Leader","name":"🇹🇼 tv.at.tw™ 📡資源取得不易👣低調盡情享用 😊","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/bili.json"},
-{"key":"If101","name":"📀If101〔🇹🇼ᴴᴰ〕","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nbys","name":"👑泥視頻〔🇹🇼ᴴᴰ〕","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"唐人街",name:"🍁唐人街〔🇹🇼sᴅ〕",type:3,api:"csp_XPathFilter",searchable:1,quickSearch:1,filterable:1,ext:"https://leadertv.000webhostapp.com/TVBox/json/ia1034qc.json"},
-{"key":"csp_xpath_Gimy2","name":"🎭Gimy劇迷〔🇹🇼sᴅ〕","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/Gimy2.json"},
+{"key":"If101","name":"📀If101〔🇹🇼〕","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nbys","name":"👑泥視頻〔🇹🇼〕","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"唐人街",name:"🍁唐人街〔🇹🇼〕",type:3,api:"csp_XPathFilter",searchable:1,quickSearch:1,filterable:1,ext:"https://leadertv.000webhostapp.com/TVBox/json/ia1034qc.json"},
+{"key":"csp_xpath_Gimy2","name":"🎭Gimy劇迷〔🇹🇼〕","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/Gimy2.json"},
 {"key":"csp_AppTT","name":"👶图图影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name":"🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
 
