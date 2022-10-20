@@ -1,4 +1,4 @@
-//2022/10/19
+//2022/10/20
 
 
 {
@@ -15,12 +15,12 @@
 	"sites":[
 {"key":"唐人街","name":"🍜 開心麵館 🍜 看片、追劇、歡唱 🎤 開心的老地方 👍",type:0,api:"https://www.tangrenjie.tv/api.php/provide/vod/at/xml",searchable:1,quickSearch:0,filterable:[]},
 {"key":"csp_Nbys","name":"👑泥視頻","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Lezhu_spider","name":"🐷樂豬影院","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"Lezhu_spider","name":"🐷樂豬","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"小苹果","name":"🍎小蘋果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"👶圖圖","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Auete","name":"🐼Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},	
+{"key":"csp_Auete","name":"🐼奧利","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_厂长影视","name":"🔥廠長資源","type":3,"api":"csp_Czsapp"        ,"searchable":1,"quickSearch":1,"filterable":0,"jar":"https://leadertv.000webhostapp.com/TVBox/jar/ZL.jar"},
+{"key":"mtv_pc_厂长影视","name":"🔥廠長","type":3,"api":"csp_Czsapp"        ,"searchable":1,"quickSearch":1,"filterable":0,"jar":"https://github.com/Leader-Tan/APK/raw/main/ZL.jar"},
 {"key":"push_agent","name":"🚀推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"}
 	],
 
