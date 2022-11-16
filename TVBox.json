@@ -16,7 +16,7 @@
 {"key":"dr_豆瓣","name":"🔍豆瓣推薦熱片","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"},
 {"key":"csp_Nbys","name":"👙泥視頻〔🇹🇼ᴴᴰ〕","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"📀If101〔🇹🇼ᴴᴰ〕","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Xiaoh","name":"🛫小寶〔🇹🇼ᴴᴰ〕","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xiaoh","name":"🛫小寶〔🇹🇼ᴴᴰ〕","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,jar:"https://leadertv.000webhostapp.com/TVBox/jar/xo1112.jar"},
 {"key":"csp_trj","name":"🍁唐人街〔🇹🇼〕","type": 3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_Gimy2","name":"🎭Gimy劇迷〔🇹🇼〕","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/Gimy2.json"},
 
