@@ -13,8 +13,7 @@
 	}],
 
 	"sites":[
-{"key":"唐人街","name":"🍁唐人街",type:0,api:"https://www.tangrenjie.tv/api.php/provide/vod/at/xml",searchable:1,quickSearch:0,filterable:[]},
-{"key":"csp_trj","name":"🛫唐人街(墙外)","type": 3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_trj","name":"🍁唐人街","type": 3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"👑泥視頻","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_","name":"🐷樂豬","api": "csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"小苹果","name":"🍎小蘋果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
