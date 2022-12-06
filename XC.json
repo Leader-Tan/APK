@@ -1,7 +1,7 @@
 //2022/12/06
 
 {
-	"spider": "https://leadertv.000webhostapp.com/TVBox/jar/Yoursmile.jar",
+	"spider": "https://github.com/Leader-Tan/APK/raw/TVBox/Yoursmile.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "group": "redirect",
