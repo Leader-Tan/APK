@@ -12,7 +12,7 @@
 	    }],
 
 	"sites":[
-{"key":"T4_douban","name":"🇹🇼 tv.at.tw™ ♻資源取得不易👣低調盡情享用😊","type":4,"api":"http://1.116.152.82:1114/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_douban","name":"🇹🇼 tv.at.tw™ ♻資源取得不易👣低調盡情享用😊","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"👙泥視頻 🇹🇼","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"📀If101 🇹🇼","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xiaoh","name":"🧸小寶 🇹🇼","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,jar:"https://leadertv.000webhostapp.com/TVBox/jar/xo1112.jar"},
