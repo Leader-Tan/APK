@@ -4,17 +4,68 @@
 台視,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 台視,http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 
+台視新聞,http://tv.redrainl.site:9500/live.m3u8?c=11
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台視新聞,http://tv.redrainl.site:9500/live.m3u8?c=11
+
+中視新聞,http://tv.redrainl.site:9500/live.m3u8?c=02
 
 華視,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
 華視,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=MD3D4860867448608674&ct=19193&tsum=773d4005ddbc68ed16154cc49ba1fc76
 
+華視新聞,http://152.69.224.242:9500/jmsytb.m3u8?c=21 
 華視新聞,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 華視新聞,http://stream.dsichannel.com/hls/cts-news.m3u8
 
 鏡新聞,http://tv.redrainl.site:9500/live.m3u8?c=28
 
-寰宇新聞,http://tv.redrainl.site:9500/live.m3u8?c=22
+寰宇新聞台,http://tv.redrainl.site:9500/live.m3u8?c=22
+
+民視,http://tv.redrainl.site:9500/live.m3u8?c=01
+
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
+中天新聞,http://104.192.80.27:9500/live.m3u8?c=2 
+中天新聞,http://152.69.224.242:9500/jmsytb.m3u8?c=1 
+中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=03
+
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞台,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+TVBS新聞台,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+
+
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
+
+三立財經台,http://tv.redrainl.site:9500/live.m3u8?c=51
+
+新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
+
+亞洲新聞台,http://tv.redrainl.site:9500/live.m3u8?c=38
+
+日本放送協會,http://tv.redrainl.site:9500/live.m3u8?c=09
+
+全日本新聞網,http://tv.redrainl.site:9500/live.m3u8?c=29
+
+韓國文化放送,http://tv.redrainl.site:9500/live.m3u8?c=42
+
+半島電視台,http://tv.redrainl.site:9500/live.m3u8?c=34
+
+土耳其廣播電視台,http://tv.redrainl.site:9500/live.m3u8?c=35
+
+澳大利亞 ABC新聞,http://tv.redrainl.site:9500/live.m3u8?c=41
+
+ABC新聞,http://tv.redrainl.site:9500/live.m3u8?c=10
+
+France 24,http://tv.redrainl.site:9500/live.m3u8?c=13
+
+極限運動,http://tv.redrainl.site:9500/live.m3u8?c=07
+
+NASA Live,http://tv.redrainl.site:9500/live.m3u8?c=39
