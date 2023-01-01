@@ -1,5 +1,6 @@
 🇹🇼臺灣,#genre#
 
+台視,http://23.237.10.66:16344
 台視,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 
 台視新聞,http://tv.redrainl.site:9500/live.m3u8?c=11
@@ -41,31 +42,53 @@ TVBS新聞台,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE323377403233
 新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
 
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-Bloomberg,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-Bloomberg,https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 亞洲新聞台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-亞洲新聞台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亞洲新聞台,http://tv.redrainl.site:9500/live.m3u8?c=38
 
 日本放送協會,http://tv.redrainl.site:9500/live.m3u8?c=09
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 全日本新聞網,http://tv.redrainl.site:9500/live.m3u8?c=29
 
 韓國文化放送,http://tv.redrainl.site:9500/live.m3u8?c=42
 
 半島電視台,http://tv.redrainl.site:9500/live.m3u8?c=34
+半島電視台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 
 土耳其廣播電視台,http://tv.redrainl.site:9500/live.m3u8?c=35
 
 澳大利亞 ABC新聞,http://tv.redrainl.site:9500/live.m3u8?c=41
 
-ABC新聞,http://tv.redrainl.site:9500/live.m3u8?c=10
+ABC News,http://tv.redrainl.site:9500/live.m3u8?c=10
+ABC News,http://198.16.64.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+
+BBC News,http://198.16.64.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+
+CNBC,http://198.16.64.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
+
+Euro News,http://198.16.64.10:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
+
+Sky News,http://198.16.64.10:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
+
+Fox News,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 
 France 24,http://tv.redrainl.site:9500/live.m3u8?c=13
+France24,http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
+
+俄羅斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
+
+CGTN,http://23.237.10.66:16428
 
 極限運動,http://tv.redrainl.site:9500/live.m3u8?c=07
 
 NASA Live,http://tv.redrainl.site:9500/live.m3u8?c=39
+
+Astro OASIS,http://23.237.10.66:16471
+
+翡翠台,http://23.237.10.66:16410
+
+BMG Cafe Music,http://tv.redrainl.site:9500/live.m3u8?c=47
+BMG Channel Live,http://tv.redrainl.site:9500/live.m3u8?c=48
+BMG Channel,http://tv.redrainl.site:9500/live.m3u8?c=49
