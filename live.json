@@ -30,13 +30,13 @@
 
 寰宇新聞台,http://tv.redrainl.site:9500/live.m3u8?c=22
 
+民視,http://23.237.10.66:16334
 民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 民視,http://198.16.64.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
-民視,http://23.237.10.66:16334
 
+民視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=01
 民視新聞台,http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8?blog.ntnas.top
-民視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=01
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -158,6 +158,11 @@ ELEVEN2,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE164190421641
 
 🇭🇰香港,#genre#
 
+鳳凰衛視,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
+鳳凰衛視,http://198.16.64.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+
+鳳凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+鳳凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
 鳳凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 鳳凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 鳳凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -165,9 +170,8 @@ ELEVEN2,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE164190421641
 鳳凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 鳳凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
 鳳凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
-鳳凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-鳳凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
 
+鳳凰資訊,http://198.16.64.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
 鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 鳳凰資訊,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
@@ -178,10 +182,6 @@ ELEVEN2,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE164190421641
 鳳凰資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 鳳凰資訊,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 鳳凰資訊,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?blog.ntnas.top
-鳳凰資訊,http://198.16.64.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-
-鳳凰衛視,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
-鳳凰衛視,http://198.16.64.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 
 鳳凰香港台,http://198.16.64.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 
@@ -194,8 +194,10 @@ ELEVEN2,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE164190421641
 翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 翡翠台,http://23.237.10.66:16410
 
-香港開電視,http://livetv.dnsfor.me/channel.9.m3u8
+翡翠台(電視劇),http://23.237.10.66:16106
+
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+香港開電視,http://livetv.dnsfor.me/channel.9.m3u8
 
 香港 RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?blog.ntnas.top
 
@@ -213,9 +215,9 @@ BMG Channel,http://tv.redrainl.site:9500/live.m3u8?c=49
 
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 
+亞洲新聞台,http://tv.redrainl.site:9500/live.m3u8?c=38
 亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 亞洲新聞台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-亞洲新聞台,http://tv.redrainl.site:9500/live.m3u8?c=38
 亞洲新聞台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 日本放送協會,http://tv.redrainl.site:9500/live.m3u8?c=09
@@ -225,8 +227,8 @@ Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-
 
 韓國文化放送,http://tv.redrainl.site:9500/live.m3u8?c=42
 
-半島電視,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半島電視,http://tv.redrainl.site:9500/live.m3u8?c=34
+半島電視,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半島電視,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 
 土耳其廣播電視台,http://tv.redrainl.site:9500/live.m3u8?c=35
@@ -247,11 +249,13 @@ Sky News,http://198.16.64.10:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289
 Fox News,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
 
 France 24,http://tv.redrainl.site:9500/live.m3u8?c=13
-France24,http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
+France 24,http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
 
 俄羅斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
 
 CGTN,http://23.237.10.66:16428
+
+馬來西亞華語新聞,http://23.237.10.66:16406
 
 極限運動,http://tv.redrainl.site:9500/live.m3u8?c=07
 
