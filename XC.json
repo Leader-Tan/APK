@@ -1,6 +1,6 @@
-//2022/01/06
+//2023/01/07
 {
-	"spider": "https://github.com/Leader-Tan/APK/raw/TVBox/Yoursmile.jar",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "group": "redirect",
@@ -11,8 +11,7 @@
 	    }],
 
 	"sites":[
-{"key":"推薦熱片","name":"🇹🇼 tv.at.tw™ ♻資源取得不易👣低調盡情享用💯","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"haiwaikan","name":"🌏海外資源ᴴᴰ(🇹🇼)",type:0,api:"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",searchable:1,quickSearch:0,filterable:[]},
+{"key":"haiwaikan","name":"🇹🇼 tv.at.tw™ ♻資源取得不易👣低調盡情享用💯",type:0,api:"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",searchable:1,quickSearch:0,filterable:[]},
 {"key":"If101","name":"💿If101ᴴᴰ(🇹🇼)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"👙泥視頻ᴴᴰ(🇹🇼)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xiaoh","name":"📀小寶ᴴᴰ(🇹🇼)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,jar:"https://leadertv.000webhostapp.com/TVBox/jar/xo1112.jar"},
@@ -23,7 +22,7 @@
 {"key":"csp_xBPQ_dszb","name":"📺檸檬樹直播","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/LemonTV2.json"},
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 {"key":"SP360","name":"💘360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
