@@ -485,13 +485,13 @@ Discovery,http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B14629002
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-香港 RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?blog.ntnas.top
-香港 RTHK31,http://radius.8866.org:800/hls/89/index.m3u8
+RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?blog.ntnas.top
+RTHK31,http://radius.8866.org:800/hls/89/index.m3u8
 
-香港 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?blog.ntnas.top
-香港 RTHK32,http://radius.8866.org:800/hls/90/index.m3u8
+RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?blog.ntnas.top
+RTHK32,http://radius.8866.org:800/hls/90/index.m3u8
 
-香港 RTHK33,http://radius.8866.org:800/hls/91/index.m3u8
+RTHK33,http://radius.8866.org:800/hls/91/index.m3u8
 
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
