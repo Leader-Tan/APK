@@ -1,4 +1,4 @@
-//2022/01/15z
+//2022/01/16
 {
 	"spider": "https://github.com/Leader-Tan/APK/raw/TVBox/Yoursmile.jar",
 //	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
@@ -21,15 +21,15 @@
 {"key":"csp_xpath_Gimy2","name":"🎭Gimy劇迷(🇹🇼)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/Gimy2.json"},
 {"key":"快車資源","name":"🚓快車資源(🇹🇼)",type:0,api:"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",searchable:1,quickSearch:0,filterable:[]},
 {"key":"csp_xpath_獨播庫","name":"🎬獨播庫(🇹🇼)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/duboku.json"},
-{"key":"小談美食","name":"🍱小談美食","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/美食合集.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
-{"key":"小談教程","name":"👨‍🏫小談教程","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/软件教程.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
-{"key": "drpy_js_cokemv","name": "🦋cokemv(🇭🇰)","type": 3,"api": "https://leadertv.000webhostapp.com/TVBox/js/drpy.min.js","ext": "https://leadertv.000webhostapp.com/TVBox/js/cokemv.js"},
+{"key": "drpy_js_cokemv","name": "🦋Cokemv(🇭🇰)","type": 3,"api": "https://leadertv.000webhostapp.com/TVBox/js/drpy.min.js","ext": "https://leadertv.000webhostapp.com/TVBox/js/cokemv.js"},
 {"key": "csp_xBPQ_HOHO","name":"📹HOHO(🇭🇰)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/hoho.json"},
 {"key":"drpy_js_IMAX影视","name":"🎦iMAX影视(🇭🇰)","type":3,"api":"https://leadertv.000webhostapp.com/TVBox/js/drpy.min.js","ext":"https://leadertv.000webhostapp.com/TVBox/js/IMAX影视.js"},
+{"key":"小談美食","name":"🍱小談美食","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/美食合集.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
+{"key":"小談教程","name":"👨‍🏫小談教程","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/软件教程.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
 {"key":"drpy_js_骚火电影","name":"🔥骚火电影(🇨🇳)","type":3,"api":"https://leadertv.000webhostapp.com/TVBox/js/drpy.min.js","ext":"https://leadertv.000webhostapp.com/TVBox/js/骚火电影.js"},
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
+{"key":"dr_豆瓣","name":"🔍豆瓣荐片(搜)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 {"key":"SP360","name":"💘360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -74,7 +74,7 @@
 {"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 
-{"key":"csp_Gitcafe","name":"纸条（ts）","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
+{"key":"csp_Gitcafe","name":"纸条（4K）","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"Ddys","name":"低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"Dy555","name":"555（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"IKan","name":"爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
