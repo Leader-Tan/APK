@@ -20,7 +20,7 @@
 {"key":"drpy_js_愛壹帆","name":"⛵愛壹帆ᴴᴰ(🇹🇼)","type":3,"api":"https://leadertv.000webhostapp.com/TVBox/js/drpy.min.js","ext":"https://leadertv.000webhostapp.com/TVBox/js/爱壹帆.js"},
 {"key":"csp_xpath_Gimy2","name":"🎭Gimy劇迷(🇹🇼)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/Gimy2.json"},
 {"key":"快車資源","name":"🚓快車資源(🇹🇼)",type:0,api:"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",searchable:1,quickSearch:0,filterable:[]},
-{"key":"csp_xpath_獨播庫","name":"獨播庫(🇹🇼)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/duboku.json"},
+{"key":"csp_xpath_獨播庫","name":"🎬獨播庫(🇹🇼)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/duboku.json"},
 {"key":"小談美食","name":"🍱小談美食","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/美食合集.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
 {"key":"小談教程","name":"👨‍🏫小談教程","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/软件教程.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
 {"key": "drpy_js_cokemv","name": "🦋cokemv(🇭🇰)","type": 3,"api": "https://leadertv.000webhostapp.com/TVBox/js/drpy.min.js","ext": "https://leadertv.000webhostapp.com/TVBox/js/cokemv.js"},
@@ -128,7 +128,7 @@
 		"type": 1,
 		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="  
 	}, {
-		"name": "未知",
+		"name": "恭喜發財",
 		"type": 1,
 		"url": "http://45.248.10.163:4433/json.php?wap=0&url="
 	}, {
@@ -139,7 +139,7 @@
 			"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]
 		}    
 	}, {
-		"name": "未知2",
+		"name": "給你好看",
 		"type": 0,
 		"url": "https://h5.freejson.xyz/player/?url=",
 		"ext": {
