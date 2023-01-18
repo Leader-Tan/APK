@@ -12,8 +12,8 @@
 	    }],
 
 	"sites":[
-//{"key":"haiwaikan","name":"🇹🇼 tv.at.tw™ ♻資源取得不易👣低調盡情享用💯",type:0,api:"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",searchable:1,quickSearch:0,filterable:[]},
-{"key":"haiwaikan","name":"🇹🇼 tv.at.tw™ 🐇鴻兔大展🧧四季進財💰",type:0,api:"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",searchable:1,quickSearch:0,filterable:[]},
+{"key":"haiwaikan","name":"🇹🇼 tv.at.tw™ ♻資源取得不易👣低調盡情享用💯",type:0,api:"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",searchable:1,quickSearch:0,filterable:[]},
+//{"key":"haiwaikan","name":"🇹🇼 tv.at.tw™ 🐇鴻兔大展🧧四季進財💰",type:0,api:"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",searchable:1,quickSearch:0,filterable:[]},
 {"key":"If101","name":"👁️‍🗨️海外看ᴴᴰ(🇹🇼)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"👙泥視頻ᴴᴰ(🇹🇼)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xiaoh","name":"📀小寶影院ᴴᴰ(🇦🇺)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,jar:"https://leadertv.000webhostapp.com/TVBox/jar/xo1112.jar"},
@@ -72,9 +72,6 @@
 {"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-{"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"If101","name":"💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_trj","name":"🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Gitcafe","name":"纸条（4K）","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"Ddys","name":"低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
