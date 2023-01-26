@@ -13,7 +13,7 @@
 
 	"sites":[
 //{"key":"haiwaikan","name":"🇹🇼 tv.at.tw™ ♻資源取得不易👣低調盡情享用💯",type:0,api:"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",searchable:1,quickSearch:0,filterable:[]},
-{"key":"haiwaikan","name":"🇹🇼 tv.at.tw™ 🐰萬事如意迎新年🧧玉兔迎春旺全年💰",type:0,api:"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",searchable:1,quickSearch:0,filterable:[]},
+{"key":"haiwaikan","name":"🇹🇼 tv.at.tw™ 🐰開業大吉💰恭喜發財💰財源廣進💰福氣多多💰吉祥如意💰貴人相伴💰好運常在💰好事連連💰大展宏圖💰前程似錦🐰",type:0,api:"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",searchable:1,quickSearch:0,filterable:[]},
 {"key":"If101","name":"👁️‍🗨️海外看ᴴᴰ(🇹🇼)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"👙泥視頻ᴴᴰ(🇹🇼)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xiaoh","name":"📀小寶影院ᴴᴰ(🇦🇺)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,jar:"https://leadertv.000webhostapp.com/TVBox/jar/xo1112.jar"},
