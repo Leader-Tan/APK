@@ -23,7 +23,6 @@
 {"key":"快車資源","name":"🚓快車資源(🇺🇸)",type:0,api:"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",searchable:1,quickSearch:0,filterable:[]},
 {"key":"csp_xpath_獨播庫","name":"🎬獨播庫ᴴᴰ(🇸🇬)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/duboku.json"},
 
-{"key":"csp_SP293","name":"🚀293⁴ᴷ(🇨🇳)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/293.jar;md5;E7DC9DEDDBAD6457AEC946B7EFE8F483"},
 {"key":"js豆瓣","name":"🔍豆瓣荐片🔎","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"SP360","name":"💘360影视ᴴᴰ(🇨🇳)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"🍎小苹果ᴴᴰ(🇨🇳)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
