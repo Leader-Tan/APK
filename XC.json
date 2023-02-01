@@ -24,6 +24,7 @@
 {"key":"drpy_js_愛壹帆","name":"⛵愛壹帆ᴴᴰ💯","type":3,"api":"https://leadertv.000webhostapp.com/TVBox/js/drpy.min.js","ext":"https://leadertv.000webhostapp.com/TVBox/js/爱壹帆.js"},
 {"key":"csp_xpath_獨播庫","name":"🎬獨播庫ᴴᴰ💯","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/duboku.json"},
 {"key":"csp_xp_lezhutv","name":"🐷乐猪TV💯","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/lezhutv.json"},
+{"key":"csp_xp_vip1280","name":"🔰VIP电影💯","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/vip1280.json"},
 {"key":"js豆瓣","name":"🔍豆瓣荐片🔎","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
