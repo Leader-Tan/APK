@@ -14,14 +14,14 @@
 {"key":"tv.at.tw","name":"🇹🇼 tv.at.tw™ ✌資源取得不易👣低調盡情享用💯",type:0,api:"https://www.tangrenjie.tv/api.php/provide/vod/at/xml",searchable:1,quickSearch:0,filterable:[]},
 {"key":"小談美食","name":"🍱小談美食💯","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/美食合集.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
 {"key":"小談教程","name":"👨‍🏫小談教程💯","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/软件教程.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
-{"key":"csp_Nbys","name":"👙泥視頻ᴴᴰ(🇹🇼)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"If101","name":"👁️‍🗨️海外看ᴴᴰ(🇹🇼)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_trj","name":"🍁唐人街ᴴᴰ(🇺🇸)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Xiaoh","name":"📀小寶影院ᴴᴰ(🇦🇺)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,jar:"https://leadertv.000webhostapp.com/TVBox/jar/xo1112.jar"},
-{"key":"drpy_js_愛壹帆","name":"⛵愛壹帆ᴴᴰ(🇵🇹)","type":3,"api":"https://leadertv.000webhostapp.com/TVBox/js/drpy.min.js","ext":"https://leadertv.000webhostapp.com/TVBox/js/爱壹帆.js"},
-{"key":"csp_xpath_Gimy2","name":"🎭Gimy劇迷(🇹🇼)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/Gimy2.json"},
-{"key":"快車資源","name":"🚓快車資源(🇺🇸)",type:0,api:"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",searchable:1,quickSearch:0,filterable:[]},
-{"key":"csp_xpath_獨播庫","name":"🎬獨播庫ᴴᴰ(🇸🇬)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/duboku.json"},
+{"key":"csp_Nbys","name":"👙泥視頻ᴴᴰ💯","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"If101","name":"👁️‍🗨️海外看ᴴᴰ💯","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_trj","name":"🍁唐人街ᴴᴰ💯","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xiaoh","name":"📀小寶影院ᴴᴰ💯","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,jar:"https://leadertv.000webhostapp.com/TVBox/jar/xo1112.jar"},
+{"key":"csp_xpath_Gimy2","name":"🎭Gimy劇迷💯","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/Gimy2.json"},
+{"key":"快車資源","name":"🚓快車資源💯",type:0,api:"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",searchable:1,quickSearch:0,filterable:[]},
+{"key":"drpy_js_愛壹帆","name":"⛵愛壹帆ᴴᴰ💯","type":3,"api":"https://leadertv.000webhostapp.com/TVBox/js/drpy.min.js","ext":"https://leadertv.000webhostapp.com/TVBox/js/爱壹帆.js"},
+{"key":"csp_xpath_獨播庫","name":"🎬獨播庫ᴴᴰ💯","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/duboku.json"},
 
 {"key":"js豆瓣","name":"🔍豆瓣荐片🔎","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"SP360","name":"💘360影视ᴴᴰ(🇨🇳)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -55,8 +55,9 @@
 {"key":"csp_Anime1","name":"🌸动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ying","name":"🌸樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1}
-
+{"key":"Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/Blixs.json"},
+{"key": "戏 曲" ,"name": "🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/Blixq.json"}
 ],
 "parses": [{
 		"name": "Json聚合",
