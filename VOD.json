@@ -19,7 +19,7 @@
 {"key":"csp_trj","name":"🍁唐人街ᴴᴰ💯","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xiaoh","name":"📀小寶影院ᴴᴰ💯","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,jar:"https://leadertv.000webhostapp.com/TVBox/jar/xo1112.jar"},
 {"key":"csp_xpath_Gimy2","name":"🎭Gimy劇迷💯","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/Gimy2.json"},
-{"key":"快車資源","name":"🚓快車資源💯",type:0,api:"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",searchable:1,quickSearch:0,filterable:[]},
+{"key":"快車資源","name":"🚓快車資源💯","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"drpy_js_愛壹帆","name":"⛵愛壹帆ᴴᴰ💯","type":3,"api":"https://leadertv.000webhostapp.com/TVBox/js/drpy.min.js","ext":"https://leadertv.000webhostapp.com/TVBox/js/爱壹帆.js"},
 {"key":"csp_xpath_獨播庫","name":"🎬獨播庫💯","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/duboku.json"},
 {"key":"csp_xp_lezhutv","name":"🐷乐猪TVᴴᴰ💯","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/lezhutv.json"},
