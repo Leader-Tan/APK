@@ -26,7 +26,7 @@
 {"key":"csp_xp_vip1280","name":"🔰VIP电影💯","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/vip1280.json"},
 {"key":"csp_xml_天空資源","name":"⛅天空資源💯","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
-{"key":"csp_xml_無盡資源","name":"⛅無盡資源💯","type":1,"api":"https://api.qqaku.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml_無盡資源","name":"⛅無盡資源💯","type":1,"api":"https://wujinkk.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 {"key":"csp_xml_海外看資源","name":"👁️‍🗨️海外看資源💯","type":1,"api":"https://haiwaikan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
