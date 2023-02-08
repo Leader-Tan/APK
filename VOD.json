@@ -26,6 +26,7 @@
 {"key":"csp_xp_vip1280","name":"🔰VIP电影💯","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/vip1280.json"},
 {"key":"csp_xml_天空資源","name":"⛅天空資源💯","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_海外看資源","name":"👁️‍🗨️海外看資源💯","type":1,"api":"https://haiwaikan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"考拉直链","name":"考拉TV","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片🔎","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
