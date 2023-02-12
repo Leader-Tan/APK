@@ -10,7 +10,6 @@
 {"key":"csp_If101","name":"👁️‍🗨️海外看┃🇹🇼","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"👙泥視頻┃🇹🇼","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,jar:"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"},
 {"key":"csp_trj","name": "🍁唐人街┃🇹🇼","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Xiaoh","name":"📀小寶影院┃🇹🇼","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,jar:"https://leadertv.000webhostapp.com/TVBox/jar/xo1112.jar"},
 
 {"key":"js豆瓣","name":"🅱豆瓣┃搜片","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"csp_XYQ_lu1","name":"🅱电视┃直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/XYQ/电视直播.json"},
