@@ -8,7 +8,8 @@
 {"key":"tv.at.tw","name":"🇹🇼 tv.at.tw™ ✌資源取得不易👣低調盡情享用💯",type:0,api:"https://www.tangrenjie.tv/api.php/provide/vod/at/xml",searchable:1,quickSearch:0,filterable:[]},
 
 {"key":"csp_If101","name":"👁️‍🗨️海外看┃🇹🇼","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nbys","name":"👙泥視頻┃🇹🇼","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Nbys","name":"👙泥視頻┃🇹🇼","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
+{key:'csp_Nbys',name:'✌泥巴(🇹🇼專用)',type:3,api:'csp_Nbys',searchable:1,quickSearch:1,filterable:1,jar:'https://leadertv.000webhostapp.com/TVBox/jar/Nbys.jar'},
 {"key":"csp_trj","name": "🍁唐人街┃🇹🇼","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"js豆瓣","name":"🅱豆瓣┃搜片","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","ext":"http://ftyyy.tk/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
