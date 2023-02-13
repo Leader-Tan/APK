@@ -33,7 +33,6 @@ NASA Earth,http://158.101.151.82:9000/jmsytb.m3u8?c=24
 台視,http://23.237.10.66:16344
 台視,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 
-台視新聞,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/台视新闻.m3u8
 台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞,http://tv.redrainl.site:9500/live.m3u8?c=11
 台視新聞,https://git.io/JgkxY
@@ -49,7 +48,6 @@ NASA Earth,http://158.101.151.82:9000/jmsytb.m3u8?c=24
 台視新聞,https://epg.pm/stream/8655006acfa3857ec51f6427fa2ea9ca167b38fc53ae84d1645bc0ce8b4060ba.m3u8
 台視新聞,https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
 
-中視,https://leadertv.000webhostapp.com/tv/m3u8/CTV.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中視,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/.m3u8
 中視,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
@@ -57,7 +55,6 @@ NASA Earth,http://158.101.151.82:9000/jmsytb.m3u8?c=24
 中視,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中視,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 
-中視新聞,https://leadertv.000webhostapp.com/tv/m3u8/CTV-News.m3u8
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 中視新聞,http://tv.redrainl.site:9500/live.m3u8?c=02
@@ -73,7 +70,6 @@ NASA Earth,http://158.101.151.82:9000/jmsytb.m3u8?c=24
 中視經典,http://198.16.64.10:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 中視經典,http://198.16.64.10:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 
-中視菁釆,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u
 中視菁釆,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 
 華視,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
@@ -134,7 +130,6 @@ NASA Earth,http://158.101.151.82:9000/jmsytb.m3u8?c=24
 
 非凡新聞台,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 
-東森財經新聞,https://leadertv.000webhostapp.com/tv/m3u8/EBC-FncNews.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞,http://www.336699.live:1935/blocksix/4gtv-live019.stream/chunklist.m3u8
 東森財經新聞,http://123.51.230.108:18515/.m3u8
@@ -171,7 +166,6 @@ EF運通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 寰宇新聞台灣台,https://git.io/JgkpO
 寰宇新聞台灣台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 
-三立iNEWS,https://leadertv.000webhostapp.com/tv/m3u8/SET-iNews.m3u8
 三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立iNEWS,https://git.io/Jgkxj
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
@@ -183,7 +177,6 @@ EF運通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 
-民視新聞台,https://leadertv.000webhostapp.com/tv/m3u8/FTV-News.m3u8
 民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民視新聞台,http://tv.redrainl.site:9500/live.m3u8?c=1
@@ -203,7 +196,6 @@ EF運通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 東森新聞,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 東森新聞,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 
-中天新聞,https://leadertv.000webhostapp.com/tv/m3u8/CTI-News1.m3u8
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=03
@@ -214,8 +206,6 @@ EF運通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 中天新聞,http://50.7.220.74:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新聞,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 中天新聞,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-
-中天新聞2,https://leadertv.000webhostapp.com/tv/m3u8/CTI-News2.m3u8
 
 TVBS新聞台,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
@@ -280,8 +270,6 @@ TVBS亞洲,http://line.premiumpowers.net:80/Manuel/1234567/941621
 民視第一台,http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
 
 民視綜藝台,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
-
-緯來戲劇,
 
 緯來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 緯來日本,http://50.7.220.74:8278/videolandjapan/playlist.m3u8?tid=MB8B2776738827767388&ct=19346&tsum=297980dd94f05914892494c05c4105ec
@@ -861,6 +849,6 @@ Astro OASIS,http://23.237.10.66:16471
 
 🔞成人台,#genre#
 
-BiuBiu影院軟件/釆集站/自定義,https://epg.pw/stream/25e8501ab0b89ae24c5021681f9cc86a5f34a1bf2297365d7c3997e35b4b9fa2.ctv
+BiuBiu影院/釆集站/自定義,https://epg.pw/stream/25e8501ab0b89ae24c5021681f9cc86a5f34a1bf2297365d7c3997e35b4b9fa2.ctv
 
 所有密碼:158158,https://epg.pw/stream/25e8501ab0b89ae24c5021681f9cc86a5f34a1bf2297365d7c3997e35b4b9fa2.ctv
