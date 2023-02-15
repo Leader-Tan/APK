@@ -92,7 +92,7 @@
 {"key":"csp_xBPQ_ 六度","name":"🍀六度（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/六度.json"},
 {"key":"csp_xBPQ_爱看","name":"🍀爱看（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
 
-{"key":"bb","name":"🚷免費資源┃不穩勿噴┃持續更新","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"bb","name":"🚷免費資源┃不穩勿噴┃暫時開放🔞","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"色窩","name":"🔞成人┃色窩┃請到BiuBiu影院觀看","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"91麻豆","name":"🔞麻豆┃系統桌面>軟件>BiuBiu影院>採集站","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"cc","name":"🚨請勿相信影片中的任何廣告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
