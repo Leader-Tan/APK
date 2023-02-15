@@ -93,8 +93,8 @@
 {"key":"csp_xBPQ_爱看","name":"🍀爱看（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
 
 {"key":"bb","name":"🚷免費資源┃不穩勿噴┃持續更新","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"辣椒","name":"🔞成人┃請到BiuBiu影院觀看","type":1,"api":"https://apilj.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"樂播","name":"🔞系統桌面┃軟件>BiuBiu影院>採集站","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"辣椒","name":"🔞成人┃請到BiuBiu影院觀看","type":1,"api":"https://apilj.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
+{"key":"樂播","name":"🔞系統桌面┃軟件>BiuBiu影院>採集站","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":1},
 {"key":"cc","name":"🚨請勿相信影片中的任何廣告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
 ],
 "parses": [{
