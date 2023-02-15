@@ -69,7 +69,7 @@
 {"key":"bb","name":"🚷免費資源┃不穩勿噴","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"辣椒","name":"🔞成人┃限制級┃請到BiuBiu影院觀看🔞","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"樂播","name":"🔞首頁右上角⚃┃BiuBiu影院┃採集站","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"麻豆","name":"🔞開啟BiuBiu影院軟件┃採集站┃麻豆視頻","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"麻豆","name":"🔞首頁右上角🎛┃BiuBiu影院┃採集站","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"cc","name":"🚨請勿相信影片中的任何廣告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
 ],
 "parses": [{
