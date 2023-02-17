@@ -11,7 +11,7 @@
 	    }],
 
 	"sites":[
-{"key":"tv.at.tw","name":"🇹🇼網路資源✌取得不易💋低調享用💯",type:0,api:"https://www.tangrenjie.tv/api.php/provide/vod/at/xml",searchable:1,quickSearch:0,filterable:[]},
+{"key":"tv.at.tw","name":"🇹🇼網路採擷✌取得不易💋低調享用💯",type:0,api:"https://www.tangrenjie.tv/api.php/provide/vod/at/xml",searchable:1,quickSearch:0,filterable:[]},
 //{"key":"haiwaikan","name":"🇹🇼網路資源✌取得不易💋低調享用💯","type":1,"api":"https://haiwaikan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"小談美食","name":"🍱小談美食💯","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/美食合集.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
 {"key":"小談教程","name":"👨‍🏫小談教程💯","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/软件教程.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
