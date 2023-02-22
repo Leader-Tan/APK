@@ -1,9 +1,11 @@
 🇹🇼台灣,#genre#
 
+台视,http://2023.stream-link.org/playlist/ttv
 台视,http://107.151.203.111:2209/135/us50.php?id=tsk
 台视,http://23.237.10.66:16344
 台视,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 
+台视新闻,http://2023.stream-link.org/playlist/ttv_news
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台视新闻,http://tv.redrainl.site:9500/live.m3u8?c=11
 台视新闻,https://git.io/JgkxY
@@ -26,6 +28,7 @@
 中视,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中视,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 
+中视新闻,http://2023.stream-link.org/playlist/ctv_news
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 中视新闻,http://tv.redrainl.site:9500/live.m3u8?c=02
@@ -36,12 +39,14 @@
 中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=08
 中视新闻,http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
 
+华视,http://2023.stream-link.org/playlist/cts_zy
 华视,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 华视,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
 华视,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
 华视,http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 
+华视新闻,http://2023.stream-link.org/playlist/cts_news
 华视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 华视新闻,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 华视新闻,http://stream.dsichannel.com/hls/cts-news.m3u8
@@ -52,6 +57,7 @@
 镜新闻,https://ytm2.yuanhsing.cf/mnews.m3u8
 镜新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=19
 
+寰宇新闻,http://2023.stream-link.org/playlist/global_tw
 寰宇新闻,https://leadertv.000webhostapp.com/tv/m3u8/GlobalNewsTV.m3u8
 寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
@@ -72,8 +78,10 @@
 三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 
+三立Live,http://2023.stream-link.org/playlist/set_news
 三立Live,http://158.101.151.82:9000/jmsytb.m3u8?c=09
 
+民视新闻台,http://2023.stream-link.org/playlist/ftv_news
 民视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻台,http://tv.redrainl.site:9500/live.m3u8?c=1
@@ -85,6 +93,7 @@
 民视新闻台,http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 民视新闻台,https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
 
+东森新闻,http://2023.stream-link.org/playlist/ebc_news
 东森新闻,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
 东森新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=02
 东森新闻,http://50.7.168.234:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344&tsum=c7212737de5e023823ea68610d709c14
@@ -93,6 +102,7 @@
 东森新闻,http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 东森新闻,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 
+中天新闻,http://2023.stream-link.org/playlist/cti_news
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
@@ -104,6 +114,7 @@
 中天新闻,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 中天新闻,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 
+TVBS新闻台,http://2023.stream-link.org/playlist/tvbs_news
 TVBS新闻台,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 TVBS新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=03
@@ -120,6 +131,7 @@ TVBS新闻台,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MEFE528332245283
 TVBS新闻台,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 TVBS新闻台,http://line.premiumpowers.net:80/Manuel/1234567/941622
 
+TVBS,http://2023.stream-link.org/playlist/tvb
 TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS,http://158.101.151.82:9000/jmsytb.m3u8?c=04
 TVBS,http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
