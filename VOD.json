@@ -86,6 +86,8 @@
 {"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key": "戏 曲" ,"name": "🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
 
+{"key":"bb","name":"🚷免費資源┃不穩勿噴┃週六日🔞","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
+
 {"key":"(18+)91麻豆","name":"🔞91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"(18+)AIvin","name":"🔞AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":0,"quickSearch":0},
 {"key":"(18+)JAV名優","name":"🔞JAV名優","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":0,"quickSearch":0},
@@ -100,7 +102,6 @@
 {"key":"(18+)小姐姐資源","name":"🔞小姐姐資源","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"(18+)精工廠資源","name":"🔞精工廠資源","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml","searchable":0,"quickSearch":0},
 
-{"key":"bb","name":"🚷免費資源┃不穩勿噴","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"cc","name":"🚨請勿相信影片中的任何廣告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
 ],
 "parses": [{
