@@ -1,4 +1,4 @@
-//2023/03/08
+//感謝Yoursmile接口源碼┃2023/03/08
 
 {"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 "lives":[{"group":"redirect","channels": [{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9sZWFkZXJ0di4wMDB3ZWJob3N0YXBwLmNvbS90di9MaXZlLnR4dA=="]
@@ -81,7 +81,7 @@
 {"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key": "戏 曲" ,"name": "🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
 
-{"key":"bb","name":"🚷免費資源┃不穩勿噴┃感謝Yoursmile接口源","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"bb","name":"🚷免費資源┃不穩勿噴┃假日特供🔞","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"cc","name":"🚨請勿相信影片中的任何廣告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
 ],
 "parses": [{
