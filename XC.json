@@ -5,7 +5,7 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://raw.githubusercontent.com/Leader-Tan/APK/TVBox/live.json",
+		    "url": "https://leadertv.000webhostapp.com/tv/Live.txt",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
