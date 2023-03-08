@@ -1,14 +1,9 @@
 //2023/03/08
-{
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://leadertv.000webhostapp.com/tv/Live.txt",
-		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],
+
+{"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+"lives":[{"group":"redirect","channels": [{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9sZWFkZXJ0di4wMDB3ZWJob3N0YXBwLmNvbS90di9MaXZlLnR4dA=="]
+}]
+}],
 
 	"sites":[
 {"key":"tv.at.tw","name":"🇹🇼網路資源✌擷取不易💋低調享用💯",type:0,api:"https://www.tangrenjie.tv/api.php/provide/vod/at/xml",searchable:0,quickSearch:0,filterable:[]},
