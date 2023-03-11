@@ -1,11 +1,11 @@
-//感謝Yoursmile接口源碼┃2023/03/10
+//感謝Yoursmile接口源碼┃2023/03/12
 
 {"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 "lives":[{"group":"redirect","channels": [{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9sZWFkZXJ0di4wMDB3ZWJob3N0YXBwLmNvbS90di9MaXZlLnR4dA=="]
 }]
 }],
 	"sites":[
-{"key":"tv.at.tw","name":"🇹🇼網路資源✌擷取不易💋低調享用💯",type:0,api:"https://www.tangrenjie.tv/api.php/provide/vod/at/xml",searchable:0,quickSearch:0,filterable:[]},
+{"key":"tv.at.tw","name":"🇹🇼網路資源✌擷取不易💋低調享用💯",type:0,api:"https://www.tangrenjie.tv/api.php/provide/vod/at/xml",searchable:1,quickSearch:1,filterable:[]},
 {"key":"小談美食","name":"🍱小談美食💯","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/美食合集.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
 {"key":"小談教程","name":"👨‍🏫小談教程💯","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/软件教程.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
 
@@ -35,7 +35,7 @@
 {"key":"csp_555","name":"5️⃣️555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.bulei.cc"},
 {"key":"csp_AppMr","name":"👻明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
+{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
@@ -81,8 +81,8 @@
 {"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key": "戏 曲" ,"name": "🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
 
-{"key":"bb","name":"🚷免費資源┃不穩勿噴┃假日特供🔞","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"cc","name":"🚨請勿相信影片中的任何廣告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
+{"key":"bb","name":"🚷免費資源┃不穩勿噴┃直播換源","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"cc","name":"🚨數據源植入廣告暫無法刪除┃請勿相信影片中的任何廣告","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0}
 ],
 "parses": [{
 		"name": "Json聚合",
