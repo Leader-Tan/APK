@@ -85,7 +85,7 @@
 {"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key": "戏 曲" ,"name": "🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
 
-{"key":"bb","name":"🆓免費資源┃不穩勿噴🔞配置地址:https://ssur.cc/xxxxx🔞","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"bb","name":"🆓免費資源┃不穩勿噴🔞配置地址:https://ssur.cc/vod🔞","type":3,"api":"csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"cc直转点","name":"🚨數據源植入廣告暫無法刪除❌請勿相信影片中的任何廣告⛔","type":4,"api":"http://120.53.102.254/live?url=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ=","searchable":0,"quickSearch":0,"filterable":0}
 ],
 "parses": [{
