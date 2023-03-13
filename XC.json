@@ -18,7 +18,7 @@
 {"key":"csp_Hlsp","name":"♠黑料電影ᴴᴰ(🇹🇼)","type":3,"api":"csp_Hlsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/黑料电影.json"},
 {"key":"csp_xpath_Gimy2","name":"🎭Gimy劇迷(🇹🇼)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://leadertv.000webhostapp.com/TVBox/json/Gimy2.json"},
 
-{"key":"csp_xp_555","name":"5️⃣️555電影💯","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/555.json"},
+//{"key":"csp_xp_555","name":"5️⃣️555電影💯","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/555.json"},
 {"key":"csp_xp_lezhutv","name":"🐷樂豬TV💯","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/lezhutv.json"},
 {"key":"csp_xp_vip1280","name":"🔰VIP電影💯","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/vip1280.json"},
 {"key":"csp_xml_快車資源","name":"♻快車資源💯","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
