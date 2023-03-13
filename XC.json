@@ -1,11 +1,11 @@
-//感謝Yoursmile接口源碼┃2023/03/12
+//感謝Yoursmile接口源碼┃2023/03/13
 
 {"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 "lives":[{"group":"redirect","channels": [{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9sZWFkZXJ0di4wMDB3ZWJob3N0YXBwLmNvbS90di9MaXZlLnR4dA=="]
 }]
 }],
 	"sites":[
-{"key":"tv.at.tw","name":"🇹🇼網路資源✌擷取不易💋低調享用💯","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0},
+{"key":"tv.at.tw","name":"🇹🇼網路資源✌擷取不易💋低調享用💯",type:0,api:"https://www.tangrenjie.tv/api.php/provide/vod/at/xml",searchable:1,quickSearch:0,filterable:[]},
 {"key":"小談美食","name":"🍱小談美食💯","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/美食合集.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
 {"key":"小談教程","name":"👨‍🏫小談教程💯","type": 3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://leadertv.000webhostapp.com/TVBox/json/软件教程.json","jar":"https://leadertv.000webhostapp.com/TVBox/jar/Bili.jar"},
 
@@ -30,7 +30,6 @@
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
-{"key":"csp_Yht","name":"🍀野荷塘","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_555","name":"5️⃣️555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 {"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.bulei.cc"},
@@ -43,8 +42,9 @@
 {"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
+{"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.org"},
+{"key":"csp_ZxzjH3","name":"🏠在线H3","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
+{"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 {"key":"csp_Nkdy","name":"⏺耐看","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
 {"key":"csp_Bd","name":"☀️哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
