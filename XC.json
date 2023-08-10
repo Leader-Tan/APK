@@ -5,7 +5,7 @@
 }]
 }],
 	"sites":[
-{"key":"tv.at.tw","name":"🇹🇼網路資源✌擷取不易💋低調享用💯","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"tv.at.tw","name":"🇹🇼網路資源✌擷取不易💋低調享用💯","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Nbys","name":"👙泥視頻ᴴᴰ(🇹🇼)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 
