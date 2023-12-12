@@ -1,845 +1,452 @@
-📰News,#genre#
-Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-Bloomberg,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-Bloomberg,https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-CNBC,http://103.112.191.9:880/LAOSAT1086.m3u8
-CNBC,mitv://135.148.104.228:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
-
-NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-ABCNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-
-CBNNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-CBNNEWS,mitv://135.148.104.228:19806/697a642115f74499aafe783d34690381
-
-CNN,http://103.112.191.9:880/LAOSAT1087.m3u8
-CNN,mitv://135.148.104.228:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
-
-DW,http://103.112.191.9:880/LAOSAT1072.m3u8
-
-France24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-France24,mitv://135.148.104.228:19806/72d5e1665d3e4b729ff9dbd4325e8694
-
-NBCNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-
-半岛电视台,http://103.112.191.9:880/LAOSAT1021.m3u8
-
-NHK新闻信息台,http://103.112.191.9:880/LAOSAT1071.m3u8
-
-新唐人亚太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-
 🇨🇳央视,#genre#
-CCTV1,mitv://135.148.104.228:19806/f774c5f8f72d4e209390429188acd251
-CCTV2,mitv://135.148.104.228:19806/0ac8d786a0014639925eb3fd8aba2e4a
-CCTV3,mitv://135.148.104.228:19806/93e75aa9188847d48506d838ef24d3f5
-CCTV4,mitv://135.148.104.228:19806/60ab606c55e54f168f9f156a500ce451
-CCTV5,mitv://135.148.104.228:19806/98957b0750c14f18abda694462ab9904
-CCTV5+,mitv://135.148.104.228:19806/7b1fada6a2d74be0a549cc767b1f6d90
-CCTV6,mitv://135.148.104.228:19806/6ba86ebf6131449da50828be35158d55
-CCTV7,mitv://135.148.104.228:19806/8f46474e6a354df6b4637be4d654eef2
-CCTV8,mitv://135.148.104.228:19806/866876ac8def4fde915a51670ac9627d
-CCTV9,mitv://135.148.104.228:19806/285ffc4f61df4970a30856868692a805
-CCTV10,mitv://135.148.104.228:19806/33ae75f9da124cbe8fc7176887f81f5a
-CCTV11,mitv://135.148.104.228:19806/864f5b32dc894d4a9041b638f38a8c31
-CCTV12,mitv://135.148.104.228:19806/d7374afa2116482993d11ff156545963
-CCTV13,mitv://135.148.104.228:19806/63f9c5b21d58458895cdf6edb6011f27
-CCTV14,mitv://135.148.104.228:19806/b35180f2513844d6931ddd63f9a4da74
-CCTV15,mitv://135.148.104.228:19806/690dbc03c28d4e20a52e1999cdb44f76
-
-CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-CCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-CCTV5,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-CCTV7,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-CCTV8,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-CCTV9,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-CCTV10,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-CCTV12,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-CCTV13,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV14,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-CCTV15,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-
-CCTV1,http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
-
-CCTV4,http://cyz32.livehbindex.hbcatv.cn/live/5b0dff5235e94ba8bff8731427145289.m3u8?bitrate=2300&pt=5
-CCTV5,http://cyz32.livehbindex.hbcatv.cn/live/500000206cd748d58f41b13aa2754139.m3u8?bitrate=2300&pt=5
-CCTV6,http://cyz32.livehbindex.hbcatv.cn/live/50000020da6d4c40a2ca3b1bdc786016.m3u8?bitrate=2300&pt=5
-CCTV7,http://cyz32.livehbindex.hbcatv.cn/live/500000204daa45af99b5800a528fac21.m3u8?bitrate=2300&pt=5
-CCTV8,http://cyz32.livehbindex.hbcatv.cn/live/500000202d8c4f56ba03e623caa09f1b.m3u8?bitrate=2300&pt=5
-CCTV9,http://cyz32.livehbindex.hbcatv.cn/live/50000020edf54f6c92778d0ccdfcca30.m3u8?bitrate=2300&pt=5
-CCTV10,http://cyz32.livehbindex.hbcatv.cn/live/a66832f3323643189c3a0e91f9fad3e3.m3u8?bitrate=2300&pt=5
-CCTV11,http://cyz32.livehbindex.hbcatv.cn/live/5000002086444f0886ad7032ad8f756b.m3u8?bitrate=2300&pt=5
-CCTV12,http://cyz32.livehbindex.hbcatv.cn/live/fbe7688bc539461da71ff649e4ba1d75.m3u8?bitrate=2300&pt=5
-CCTV13,http://cyz32.livehbindex.hbcatv.cn/live/5000002081f5478882f00a0f9be4b01f.m3u8?bitrate=2300&pt=5
-CCTV14,http://cyz32.livehbindex.hbcatv.cn/live/8a22035194884b1eb5515aac434c313c.m3u8?bitrate=2300&pt=5
-CCTV15,http://cyz32.livehbindex.hbcatv.cn/live/50000020f44f4f4b8aa33925dba216df.m3u8?bitrate=2300&pt=5
-CCTV17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.m3u8?bitrate=2300&pt=5
-
-CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-CCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-CCTV5,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-CCTV7,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-CCTV8,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-CCTV9,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-CCTV10,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-CCTV12,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-CCTV13,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV14,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-CCTV15,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-
-CCTV1,http://183.196.25.171:808/hls/1/index.m3u8
-CCTV2,http://183.196.25.171:808/hls/2/index.m3u8
-CCTV3,http://183.196.25.171:808/hls/75/index.m3u8
-CCTV4,http://183.196.25.171:808/hls/4/index.m3u8
-CCTV5,http://183.196.25.171:808/hls/78/index.m3u8
-CCTV6,http://183.196.25.171:808/hls/76/index.m3u8
-CCTV7,http://183.196.25.171:808/hls/7/index.m3u8
-CCTV8,http://183.196.25.171:808/hls/77/index.m3u8
-CCTV9,http://183.196.25.171:808/hls/9/index.m3u8
-CCTV10,http://183.196.25.171:808/hls/10/index.m3u8
-CCTV11,http://183.196.25.171:808/hls/11/index.m3u8
-CCTV12,http://183.196.25.171:808/hls/12/index.m3u8
-CCTV13,http://183.196.25.171:808/hls/13/index.m3u8
-CCTV14,http://183.196.25.171:808/hls/14/index.m3u8
-CCTV15,http://183.196.25.171:808/hls/15/index.m3u8
-CCTV17,http://183.196.25.171:808/hls/93/index.m3u8
-
-CCTV1,http://api2.52tb.xyz/info?id=2&token=20230326xflvzc
-CCTV2,http://api2.52tb.xyz/info?id=3&token=20230326xflvzc
-CCTV3,http://api2.52tb.xyz/info?id=4&token=20230326xflvzc
-CCTV4,http://api2.52tb.xyz/info?id=5&token=20230326xflvzc
-CCTV5,http://api2.52tb.xyz/info?id=6&token=20230326xflvzc
-CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://api2.52tb.xyz/info?id=7&token=20230326xflvzc
-CCTV6,http://api2.52tb.xyz/info?id=8&token=20230326xflvzc
-CCTV7,http://api2.52tb.xyz/info?id=9&token=20230326xflvzc
-CCTV8,http://api2.52tb.xyz/info?id=10&token=20230326xflvzc
-CCTV9,http://api2.52tb.xyz/info?id=11&token=20230326xflvzc
-CCTV10,http://api2.52tb.xyz/info?id=12&token=20230326xflvzc
-CCTV11,http://api2.52tb.xyz/info?id=13&token=20230326xflvzc
-CCTV12,http://api2.52tb.xyz/info?id=14&token=20230326xflvzc
-CCTV13,http://api2.52tb.xyz/info?id=15&token=20230326xflvzc
-CCTV14,http://api2.52tb.xyz/info?id=16&token=20230326xflvzc
-CCTV16,http://api2.52tb.xyz/info?id=18&token=20230326xflvzc
-CCTV17,http://api2.52tb.xyz/info?id=19&token=20230326xflvzc
-
-CCTV1,http://60.208.16.27:1505/gudou.php?id=364&id=1402_4500
-CCTV2,http://60.208.16.27:1505/gudou.php?id=364&id=CCTV2HD_7000
-CCTV3,http://60.208.16.27:1505/gudou.php?id=364&id=1603
-CCTV4,http://60.208.16.27:1505/gudou.php?id=364&id=1604
-CCTV5,http://60.208.16.27:1505/gudou.php?id=364&id=1605
-CCTV5+,http://60.208.16.27:1505/gudou.php?id=364&id=1403
-CCTV6,http://60.208.16.27:1505/gudou.php?id=364&id=1606
-CCTV7,http://60.208.16.27:1505/gudou.php?id=364&id=1607
-CCTV8,http://60.208.16.27:1505/gudou.php?id=364&id=1608
-CCTV9,http://60.208.16.27:1505/gudou.php?id=364&id=CCTV9HD_7000
-CCTV10,http://60.208.16.27:1505/gudou.php?id=364&id=1610
-CCTV11,http://60.208.16.27:1505/gudou.php?id=364&id=CCTV-11HD_7500
-CCTV12,http://60.208.16.27:1505/gudou.php?id=364&id=CCTV12HD_7000
-CCTV13,http://60.208.16.27:1505/gudou.php?id=364&id=1613
-CCTV14,http://60.208.16.27:1505/gudou.php?id=364&id=CCTV14HD_7000
-CCTV15,http://60.208.16.27:1505/gudou.php?id=364&id=CCTV-15HD_7500
-CCTV16,http://60.208.16.27:1505/gudou.php?id=364&id=1617_4500
-CCTV16-4K,http://60.208.16.27:1505/gudou.php?id=364&id=4010
-CCTV17,http://60.208.16.27:1505/gudou.php?id=364&id=CCTV17HD
-
-CCTV1,http://103.112.191.9:880/LAOSAT1057.m3u8
-CCTV2,http://103.112.191.9:880/LAOSAT1058.m3u8
-CCTV3,http://103.112.191.9:880/LAOSAT1059.m3u8
-CCTV4,http://103.112.191.9:880/LAOSAT1060.m3u8
-CCTV5,http://103.112.191.9:880/LAOSAT1001.m3u8
-CCTV5+,http://103.112.191.9:880/LAOSAT1006.m3u8
-CCTV6,http://103.112.191.9:880/LAOSAT1007.m3u8
-CCTV7,http://103.112.191.9:880/LAOSAT1008.m3u8
-CCTV8,http://103.112.191.9:880/LAOSAT1008.m3u8
-CCTV9,http://103.112.191.9:880/LAOSAT1062.m3u8
-CCTV13,http://103.112.191.9:880/LAOSAT1063.m3u8
-CCTV 高尔夫.网球,http://103.112.191.9:880/LAOSAT1080.m3u8
-
-CCTV1,http://justatest.f3322.net:808/hls/1/index.m3u8
-CCTV2,http://justatest.f3322.net:808/hls/2/index.m3u8
-CCTV3,http://justatest.f3322.net:808/hls/3/index.m3u8
-CCTV5,http://justatest.f3322.net:808/hls/4/index.m3u8
-CCTV5+,http://justatest.f3322.net:808/hls/12/index.m3u8
-CCTV6,http://justatest.f3322.net:808/hls/5/index.m3u8
-CCTV7,http://justatest.f3322.net:808/hls/6/index.m3u8
-CCTV8,http://justatest.f3322.net:808/hls/7/index.m3u8
-CCTV9,http://justatest.f3322.net:808/hls/8/index.m3u8
-CCTV10,http://justatest.f3322.net:808/hls/9/index.m3u8
-CCTV12,http://justatest.f3322.net:808/hls/10/index.m3u8
-CCTV13,http://justatest.f3322.net:808/hls/34/index.m3u8
-CCTV14,http://justatest.f3322.net:808/hls/11/index.m3u8
-CCTV15,http://justatest.f3322.net:808/hls/36/index.m3u8
-CDTV-1,http://justatest.f3322.net:808/hls/38/index.m3u8
-CDTV-2,http://justatest.f3322.net:808/hls/39/index.m3u8
-CDTV-3,http://justatest.f3322.net:808/hls/40/index.m3u8
-CDTV-5,http://justatest.f3322.net:808/hls/37/index.m3u8
+CCTV1,mitv://generationnexxxt.com:19806/4d1986f4c31a431cb977822f62390a6f
+CCTV2,mitv://generationnexxxt.com:19806/4f6345e5f86944b5b495fc33310a43f3
+CCTV3,mitv://generationnexxxt.com:19806/8b3d1eb8e6634a0c94859770bbed7f87
+CCTV4,mitv://generationnexxxt.com:19806/f03b593ecd9444dda44e80828616f852
+CCTV5,mitv://generationnexxxt.com:19806/4e93defd7f3e4fcaab7924b2ed646a4c
+CCTV5+,mitv://generationnexxxt.com:19806/6532937d0004e05baf655f8f71295620
+CCTV6,mitv://generationnexxxt.com:19806/417e410840104cf8bd50480fcf2d7bf7
+CCTV7,mitv://generationnexxxt.com:19806/4d2b6da8adb1448baf405e8002bc5fbb
+CCTV8,mitv://generationnexxxt.com:19806/b462f54f65b9485a80b2d03759211c8c
+CCTV9,mitv://generationnexxxt.com:19806/ea289ce8dd7d4d608ffda9135971529b
+CCTV10,mitv://generationnexxxt.com:19806/d225d362316242c8955ad396e0693994
+CCTV11,mitv://generationnexxxt.com:19806/5560c2f5c1ba4285985de4905d2cde05
+CCTV12,mitv://generationnexxxt.com:19806/f8295a65174844ccba5c6b31a0f3498b
+CCTV13,mitv://generationnexxxt.com:19806/2e920dbf411243fbaf15ddcf1a276da2
+CCTV14,mitv://generationnexxxt.com:19806/51fd7b2c60ad4724b38677d452c3b3ca
+CCTV15,mitv://generationnexxxt.com:19806/25ddb0d118b44da8b3fb0138cbbced93
 
 🇨🇳卫视,#genre#
-北京卫视,mitv://135.148.104.228:19806/7150bcd07913426b8af394262341bb68
-天津卫视,mitv://135.148.104.228:19806/29b2eae7132b4df8ae6d99d3fcb5a5af
-河北卫视,mitv://135.148.104.228:19806/7b7c9f60693b406293ed5ea3e8effbca
-黑龙江卫视,mitv://135.148.104.228:19806/aa707c237a8b488e9438372488afd20b
-辽宁卫视,mitv://135.148.104.228:19806/cbfed3dbc3e14198858677adce8aa522
-东方卫视,mitv://135.148.104.228:19806/9f2f68784ddd4998b723bce328f15499
-江苏卫视,mitv://135.148.104.228:19806/adbfc9d8a24a4d03b5a6aed2d051f16b
-浙江卫视,mitv://135.148.104.228:19806/603f7c6b86ee4048b4da0f8e99577c1c
-江西卫视,mitv://135.148.104.228:19806/412f4a29691b4980be5e10e2e0283528
-山东卫视,mitv://135.148.104.228:19806/de05b55401f7441c8a41f613fc202a2e
-东南卫视,mitv://135.148.104.228:19806/1ca66ef76c0e4f9c9b98d078c45cbf54
-湖北卫视,mitv://135.148.104.228:19806/7f2eccb10f79493e80ff9f4c68bef7c9
-湖南卫视,mitv://135.148.104.228:19806/64c9fbff0002e89116d56b4678fc7d1b
-深圳卫视,mitv://135.148.104.228:19806/a470da00510647bc8dc078be8a331693
-广东卫视,mitv://135.148.104.228:19806/314b4032afbe4911b55b94235e7b1f25
-广西卫视,mitv://135.148.104.228:19806/373a6fcf00444cfaa4644a3c4f5bd927
-重庆卫视,mitv://135.148.104.228:19806/fc5528b603de46ef8f88e59b352e64ed
-云南卫视,mitv://135.148.104.228:19806/b6d23302db664d50b16534639b529791
-星空卫视,mitv://135.148.104.228:19806/28563539dfd04ac3b0bd7f138c645232
-大湾区卫视,mitv://135.148.104.228:19806/2628d73a5ff14038916ee8fc412164c9
-珠江台,mitv://135.148.104.228:19806/34cda0dbf79541d0baf49294fc93588b
-动漫秀场,mitv://135.148.104.228:19806/1b00c8eba9624626852599a2a8383aa4
-魅力足球,mitv://135.148.104.228:19806/ecd44a5fe8c94d12abd14d0762d6b838
-五星体育,mitv://135.148.104.228:19806/fcd8a30806df44ebb0e501596976da1d
-广东体育,mitv://135.148.104.228:19806/4fac79491b7842dabd3c86af4c10d110
-CHC动作电影,mitv://135.148.104.228:19806/855bc155c26d489698a02a890f1684a2
-广东影视,mitv://135.148.104.228:19806/4af60a88d62b4943b25cf1ea65d40ca8
-CHC高清电影,mitv://135.148.104.228:19806/78626ad4571f474fa6b5044c0d003d4e
-CHC家庭影院,mitv://135.148.104.228:19806/b08b5054487b4685b7ceb7d237154047
-
-延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
-农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
-
-安徽卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020d0ab40578faaa8a023ce4d5c.m3u8?bitrate=2300&pt=5
-兵团卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000200a7e4caf973012bf85f33406.m3u8?bitrate=2300&pt=5
-甘肃卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000206da44fde810a98a3d7848f82.m3u8?bitrate=2300&pt=5
-广东卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000206bc6413cb38dc9ca586ffe3f.m3u8?bitrate=2300&pt=5
-广西卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020731348f098457f0080cdf72c.m3u8?bitrate=2300&pt=5
-贵州卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000204b974d7f8ca5b13562b2d820.m3u8?bitrate=2300&pt=5
-海南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020741c4046820cd89d5ecbd401.m3u8?bitrate=2300&pt=5
-河北卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020d6be4c4ba70a4e3261b14544.m3u8?bitrate=2300&pt=5
-河南卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201d7c47a8b9b127d69fb816ac.m3u8?bitrate=2300&pt=5
-黑龙江卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020281749ed995f2824759051fa.m3u8?bitrate=2300&pt=5
-湖北卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020273747628129718a5717b2dd.m3u8?bitrate=2300&pt=5
-湖南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c9ea4ce4bf3cfbbb7f8b8bb7.m3u8?bitrate=2300&pt=5
-吉林卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000205c15461b956f19f9b6896ad6.m3u8?bitrate=2300&pt=5
-江西卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020728a439baf65ce94f8cf3e30.m3u8?bitrate=2300&pt=5
-辽宁卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002019d84b0ba201007677bbf28c.m3u8?bitrate=2300&pt=5
-内蒙古卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020eeba44449d4f4913a2897e4e.m3u8?bitrate=2300&pt=5
-宁夏卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000205dfa4e06bf7243e30e5182c8.m3u8?bitrate=2300&pt=5
-青海卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020abdd46bb8007f3d793b418f2.m3u8?bitrate=2300&pt=5
-山东卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002013f84d40a0393b8549e48805.m3u8?bitrate=2300&pt=5
-陕西卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002019984c0fa29ae0d57380da3a.m3u8?bitrate=2300&pt=5
-深圳卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020289041678b7585eb32637331.m3u8?bitrate=2300&pt=5
-四川卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020407a4a109f5dfc6f26dbf5eb.m3u8?bitrate=2300&pt=5
-天津卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020bbc84ee1afd7177a073393d7.m3u8?bitrate=2300&pt=5
-西藏卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020816449349b10593cfdde8311.m3u8?bitrate=2300&pt=5
-新疆卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201e484cbeb064a31201e3dd05.m3u8?bitrate=2300&pt=5
-云南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020a2f74b03928347fb0b02768b.m3u8?bitrate=2300&pt=5
-浙江卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002045414da0bcca7fb08fd34c8a.m3u8?bitrate=2300&pt=5
-东南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c18c4f03a2107aa78ced8fff.m3u8?bitrate=2300&pt=5
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
-北京卫视,http://api2.52tb.xyz/info?id=25&token=20230326xflvzc
-天津卫视,http://api2.52tb.xyz/info?id=26&token=20230326xflvzc
-东方卫视,http://api2.52tb.xyz/info?id=24&token=20230326xflvzc
-东南卫视,http://api2.52tb.xyz/info?id=29&token=20230326xflvzc
-河北卫视,http://api2.52tb.xyz/info?id=32&token=20230326xflvzc
-河南卫视,http://api2.52tb.xyz/info?id=31&token=20230326xflvzc
-浙江卫视,http://api2.52tb.xyz/info?id=22&token=20230326xflvzc
-江苏卫视,http://api2.52tb.xyz/info?id=23&token=20230326xflvzc
-安徽卫视,http://api2.52tb.xyz/info?id=33&token=20230326xflvzc
-广西卫视,http://api2.52tb.xyz/info?id=45&token=20230326xflvzc
-深圳卫视,http://api2.52tb.xyz/info?id=28&token=20230326xflvzc
-山东卫视,http://api2.52tb.xyz/info?id=30&token=20230326xflvzc
-湖北卫视,http://api2.52tb.xyz/info?id=34&token=20230326xflvzc
-湖南卫视,http://api2.52tb.xyz/info?id=21&token=20230326xflvzc
-四川卫视,http://api2.52tb.xyz/info?id=39&token=20230326xflvzc
-重庆卫视,http://api2.52tb.xyz/info?id=37&token=20230326xflvzc
-江西卫视,http://api2.52tb.xyz/info?id=35&token=20230326xflvzc
-贵州卫视,http://api2.52tb.xyz/info?id=36&token=20230326xflvzc
-海南卫视,http://api2.52tb.xyz/info?id=38&token=20230326xflvzc
-云南卫视,http://api2.52tb.xyz/info?id=42&token=20230326xflvzc
-甘肃卫视,http://api2.52tb.xyz/info?id=46&token=20230326xflvzc
-陕西卫视,http://api2.52tb.xyz/info?id=47&token=20230326xflvzc
-山西卫视,http://api2.52tb.xyz/info?id=48&token=20230326xflvzc
-宁夏卫视,http://api2.52tb.xyz/info?id=49&token=20230326xflvzc
-青海卫视,http://api2.52tb.xyz/info?id=50&token=20230326xflvzc
-新疆卫视,http://api2.52tb.xyz/info?id=51&token=20230326xflvzc
-西藏卫视,http://api2.52tb.xyz/info?id=52&token=20230326xflvzc
-吉林卫视,http://api2.52tb.xyz/info?id=40&token=20230326xflvzc
-辽宁卫视,http://api2.52tb.xyz/info?id=43&token=20230326xflvzc
-黑龙江卫视,http://api2.52tb.xyz/info?id=41&token=20230326xflvzc
-
-深圳卫视,http://60.208.16.27:1505/gudou.php?id=364&id=shenzhenHD_7000
-浙江卫视,http://60.208.16.27:1505/gudou.php?id=364&id=zhejiangHD_7000
-湖南卫视,http://60.208.16.27:1505/gudou.php?id=364&id=hunanHD_7000
-江苏卫视,http://60.208.16.27:1505/gudou.php?id=364&id=jiangsuHD_7000
-广东卫视,http://60.208.16.27:1505/gudou.php?id=364&id=1401
-北京卫视,http://60.208.16.27:1505/gudou.php?id=364&id=beijingHD_7000
-东方卫视,http://60.208.16.27:1505/gudou.php?id=364&id=dongfangHD_7000
-东南卫视,http://60.208.16.27:1505/gudou.php?id=364&id=dongnanweishiHD
-贵州卫视,http://60.208.16.27:1505/gudou.php?id=364&id=guizhouHD_7000
-海南卫视,http://60.208.16.27:1505/gudou.php?id=364&id=1451_4500
-河北卫视,http://60.208.16.27:1505/gudou.php?id=364&id=1426_4500
-黑龙江卫视,http://60.208.16.27:1505/gudou.php?id=364&id=heilongjiangHD_7000
-湖北卫视,http://60.208.16.27:1505/gudou.php?id=364&id=hubeiHD_7000
-江西卫视,http://60.208.16.27:1505/gudou.php?id=364&id=jiangxiHD_7000
-辽宁卫视,http://60.208.16.27:1505/gudou.php?id=364&id=liaoningHD_7000
-三沙卫视,http://60.208.16.27:1505/gudou.php?id=364&id=1453
-三沙卫视,http://60.208.16.27:1505/gudou.php?id=364&id=1453_4500
-山东卫视,http://60.208.16.27:1505/gudou.php?id=364&id=1416_4500
-陕西卫视,http://60.208.16.27:1505/gudou.php?id=364&id=1452_4500
-四川卫视,http://60.208.16.27:1505/gudou.php?id=364&id=sichuanHD_7000
-天津卫视,http://60.208.16.27:1505/gudou.php?id=364&id=1415_4500
-重庆卫视,http://60.208.16.27:1505/gudou.php?id=364&id=chongqingHD_7000
-
-湖南卫视,http://103.112.191.9:880/LAOSAT1064.m3u8
-浙江卫视,http://103.112.191.9:880/LAOSAT1010.m3u8
-东方卫视,http://103.112.191.9:880/LAOSAT1011.m3u8
-北京卫视,http://103.112.191.9:880/LAOSAT1065.m3u8
-天津卫视,http://103.112.191.9:880/LAOSAT1066.m3u8
-江苏卫视,http://103.112.191.9:880/LAOSAT1009.m3u8
-辽宁卫视,http://103.112.191.9:880/LAOSAT1014.m3u8
-广东卫视,http://103.112.191.9:880/LAOSAT1013.m3u8
-深圳卫视,http://103.112.191.9:880/LAOSAT1012.m3u8
-云南卫视,http://103.112.191.9:880/LAOSAT1067.m3u8
-
-湖南卫视,http://justatest.f3322.net:808/hls/13/index.m3u8
-江苏卫视,http://justatest.f3322.net:808/hls/14/index.m3u8
-浙江卫视,http://justatest.f3322.net:808/hls/15/index.m3u8
-东方卫视,http://justatest.f3322.net:808/hls/16/index.m3u8
-北京卫视,http://justatest.f3322.net:808/hls/17/index.m3u8
-深圳卫视,http://justatest.f3322.net:808/hls/18/index.m3u8
-广东卫视,http://justatest.f3322.net:808/hls/26/index.m3u8
-天津卫视,http://justatest.f3322.net:808/hls/24/index.m3u8
-山东卫视,http://justatest.f3322.net:808/hls/20/index.m3u8
-黑龙江卫视,http://justatest.f3322.net:808/hls/19/index.m3u8
-重庆卫视,http://justatest.f3322.net:808/hls/32/index.m3u8
-湖北卫视,http://justatest.f3322.net:808/hls/25/index.m3u8
-文化旅游,http://justatest.f3322.net:808/hls/31/index.m3u8
-影视文艺,http://justatest.f3322.net:808/hls/23/index.m3u8
-峨眉电影,http://justatest.f3322.net:808/hls/29/index.m3u8
-四川乡村,http://justatest.f3322.net:808/hls/35/index.m3u8
-金鹰卡通,http://justatest.f3322.net:808/hls/21/index.m3u8
-黄金剧场,http://justatest.f3322.net:808/hls/33/index.m3u8
+北京卫视,mitv://generationnexxxt.com:19806/f0f24637e0df4d40b0a1bf40f574c5a6
+天津卫视,mitv://generationnexxxt.com:19806/7f13c049ef944e54b08bd57ae0ea8d21
+河北卫视,mitv://generationnexxxt.com:19806/82785dc247ee46648020cf7bcba19536
+黑龙江卫视,mitv://generationnexxxt.com:19806/801a7d7ff63c4c21ae31b62cd64964de
+辽宁卫视,mitv://generationnexxxt.com:19806/039c855f80d8476f9930a3c33dc31717
+东方卫视,mitv://generationnexxxt.com:19806/12004e108a054455aafb8e6c6ca5e7ec
+江苏卫视,mitv://generationnexxxt.com:19806/ddef9db02b694792a8416d48d8381dca
+浙江卫视,mitv://generationnexxxt.com:19806/3b83fa0f65c4418bbe970f427117b4c3
+江西卫视,mitv://generationnexxxt.com:19806/aea380cd6a5f498b83ec8973e6dddc68
+山东卫视,mitv://generationnexxxt.com:19806/860dd8039d3a44c89b091566bc406ea9
+东南卫视,mitv://generationnexxxt.com:19806/b77664557ba74dfbae61638ddf90e8f6
+湖北卫视,mitv://generationnexxxt.com:19806/9324bae3c8bd445bb1c63838aab003c0
+湖南卫视,mitv://generationnexxxt.com:19806/232a93b8cef84dadbfd7df6432568f3d
+深圳卫视,mitv://generationnexxxt.com:19806/86ed1076199c4e4e9cb8395a6de0f3e9
+广东卫视,mitv://generationnexxxt.com:19806/0c350021540744c79a6c8770c5e8e4b1
+广西卫视,mitv://generationnexxxt.com:19806/29f493bd5af94cf9a14d9069bcb73c0f
+重庆卫视,mitv://generationnexxxt.com:19806/aad3d8d1af2a4151866cf04b3ead5f2b
+云南卫视,mitv://generationnexxxt.com:19806/a4f33e137f0d4b8e90d93bb1397788ca
+星空卫视,mitv://generationnexxxt.com:19806/0974b234503d4ff68a50865bd7d18d2a
+大湾区卫视,mitv://generationnexxxt.com:19806/28f1f24784374da5aa3a2aa2b6a99be0
+珠江台,mitv://generationnexxxt.com:19806/28360d273b8c49f0b6d3ac8a415c1ac4
+动漫秀场,mitv://generationnexxxt.com:19806/afca1596bd1a41abbc8433ad11fa51a7
+魅力足球,mitv://generationnexxxt.com:19806/61bcf24fc6eb4fd482d3519687e2aaf4
+五星体育,mitv://generationnexxxt.com:19806/dbb656a3a89340cfbe08007f521fccfd
+广东体育,mitv://generationnexxxt.com:19806/99a6d27c4aff4490aaf7cdeb53af3382
+私人影院,mitv://generationnexxxt.com:19806/70da0d32acc542c48e992a2dd380fd2f
+CHC动作电影,mitv://generationnexxxt.com:19806/74646040c8724e958f1c672acd2778a9
+广东影视,mitv://generationnexxxt.com:19806/3bc9117063ed430f8bb1ffc11507981f
+CHC高清电影,mitv://generationnexxxt.com:19806/6b199e78d5eb4c9c8d290143cbfd3edc
+CHC家庭影院,mitv://generationnexxxt.com:19806/8592ce7c9768432bbe63e084b04e6e58
 
 🇹🇼台灣,#genre#
-民视,mitv://135.148.104.228:19806/412a0c47c1014e7d85da7d2d38631eb7
-台视,mitv://135.148.104.228:19806/d12a80dfeb36488db100bbca6c6378e1
-大爱1台,mitv://135.148.104.228:19806/371fa10b16a84b5ca01f5bcd18ac7726
-中视,mitv://135.148.104.228:19806/38fd33fc8b9f45849cdf38d21665d66f
-霹雳台湾台,mitv://135.148.104.228:19806/f8d6f6269ac84073814f583a0e497af4
-华视,mitv://135.148.104.228:19806/36d7338b225248c2b1e321f9966cf104
-公视,mitv://135.148.104.228:19806/bdabc8d4fb5d453fbeac7932d22ee2e9
-好消息,mitv://135.148.104.228:19806/27df9a15c24441bea156f7e4a09bf4e1
-原住民,mitv://135.148.104.228:19806/2277fd45068f4f5da0222df79d2c1038
-客家电视台,mitv://135.148.104.228:19806/df32df429fb449168c3d09aec3bd3ea2
-国家地理频道,mitv://135.148.104.228:19806/229d40efa0c54fdc98f5ba46141ef079
-探索频道,mitv://135.148.104.228:19806/e7de8eb7942e4d72a52cd4467c7f7e68
-TLC旅游生活,mitv://135.148.104.228:19806/ff487bf8be7f4facbb509f701d40d61e
-动物星球,mitv://135.148.104.228:19806/eb0fe40f58424bdf955829bbc654742c
-CN卡通频道,mitv://135.148.104.228:19806/1f02f652a2c5480bad882a4df5ad7a24
-MOMO亲子台,mitv://135.148.104.228:19806/7b3f81d6149943a993aac85b352933ae
-东森幼幼台,mitv://135.148.104.228:19806/95ae4c4785374886a492b32082d9155d
-纬来综合台,mitv://135.148.104.228:19806/64c9fcbf0009d21c16d85b0c6f3d2fd4
-八大第一台,mitv://135.148.104.228:19806/097da20dd18c4fe39495cbed3910a7d8
-八大综合台,mitv://135.148.104.228:19806/6aea35c056e84f11bdc282d8096413ae
-三立台湾台,mitv://135.148.104.228:19806/3cbcfe3b84644fc484f81c48409639b4
-三立都会台,mitv://135.148.104.228:19806/4e8c2bdbdd5b49d7906ac772d17cddf6
-东森综合台,mitv://135.148.104.228:19806/9c5a936ac1d14f1bbd92eef89ddb37d8
-东森超视,mitv://135.148.104.228:19806/e0a4af30e50d406681af04e03bddb745
-中天综合台,mitv://135.148.104.228:19806/c007af4f0f124e27889e51f82f374290
-中天娱乐台,mitv://135.148.104.228:19806/c6f7f5e7de1b4f0a8a8dcf7226301034
-东森戏剧台,mitv://135.148.104.228:19806/b7e0047d39834145a0dd13a4dccb971d
-八大戏剧台,mitv://135.148.104.228:19806/098f02d6d36d4ac88e89e0be6d838a94
-TVBS欢乐台,mitv://135.148.104.228:19806/c0dceeb20d5d4676ad9c3a9143575f91
-纬来戏剧台,mitv://135.148.104.228:19806/bd1f0033caeb4acc8a8bb9590b2057d7
-高点综合台,mitv://135.148.104.228:19806/63b64386ac4643d7a32c7a17b9a33b95
-BBC World News,mitv://135.148.104.228:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
-CNBC,mitv://135.148.104.228:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
-Bloomberg TV,mitv://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
-HITS,mitv://135.148.104.228:19806/a65416c2039f4644aeef10da853fb928
-镜新闻,mitv://135.148.104.228:19806/6ef8600b028640f49ad6cd73fee386ae
-寰宇新闻台,mitv://135.148.104.228:19806/cfebef54166f47ff9658a5ddf9524886
-寰宇新闻台湾台,mitv://135.148.104.228:19806/24e327a606714508a6288bf277932408
-壹电视新闻台,mitv://135.148.104.228:19806/53313e17abe440299d05b00b8a3d91ba
-年代新闻,mitv://135.148.104.228:19806/c16976cf555b46b592f639c0b3d53a90
-东森新闻台,mitv://135.148.104.228:19806/8bc09abe58e944ca97b838dbce2b4455
-中天新闻台,mitv://135.148.104.228:19806/26ab4a8f123c4a3292451f072035a681
-民视新闻台,mitv://135.148.104.228:19806/5bb97363edbf4fdd95c408367a32c0f2
-三立新闻台,mitv://135.148.104.228:19806/876b79bacf0e40adbf0e4134db178c1d
-TVBS新闻台,mitv://135.148.104.228:19806/ccaccfce17074a428d1578a82c65b6b8
-TVBS,mitv://135.148.104.228:19806/1b811ad38b0f47a393d0a76155b2fd44
-东森财经新闻台,mitv://135.148.104.228:19806/3c7772c47dc6438a9f14cd6b6ac66d80
-非凡新闻台,mitv://135.148.104.228:19806/d1472f8b243542f29e2c00221691f99b
-卫视电影台,mitv://135.148.104.228:19806/1dfc2d3ccab34581b745d44173f73a68
-东森电影台,mitv://135.148.104.228:19806/8578aae119724436acb22453d7ae6c9e
-纬来电影台,mitv://135.148.104.228:19806/64c9fd700001d91916db0c7057e60192
-龙祥电影,mitv://135.148.104.228:19806/02356cbc048c48fdabe13c27c4681255
-HBO,mitv://135.148.104.228:19806/b79befcb39624435a90a4baa01621a22
-东森洋片台,mitv://135.148.104.228:19806/07bbe3a40fd648538146aaeff04c1646
-AXN,mitv://135.148.104.228:19806/1e1fb5802779465a9948e3a873933a3d
-好莱坞电影台,mitv://135.148.104.228:19806/296b827164ef43eb86e05259d74ac25f
-CINEMAX,mitv://135.148.104.228:19806/62e7d5ee3a9949b59ec779f14d81a5f1
-纬来育乐台,mitv://135.148.104.228:19806/64c9fdf30003d2cf16dd0ca540660793
-纬来体育台,mitv://135.148.104.228:19806/10f1c4edf602483e9c39fd88e79275e6
-ELEVEN体育1台,mitv://135.148.104.228:19806/cc190e8936f84d898e42b5c5733a80be
-ELEVEN体育2台,mitv://135.148.104.228:19806/71a6b555e26d4e5981fca9d4e0d85b8a
-JET综合台,mitv://135.148.104.228:19806/0de7e0af6d5540129975842f024c9120
-国兴卫视,mitv://135.148.104.228:19806/f8de417ded984c6f8f39b69e532bc7d2
-STAR World,mitv://135.148.104.228:19806/950ba87f7bb54787a1e98760c52c30f9
-Z频道,mitv://135.148.104.228:19806/8cf545799960472b8abc4eeccb636f63
-Animax,mitv://135.148.104.228:19806/05538d774bba44088da468c0bf02318f
-尼克儿童频道,mitv://135.148.104.228:19806/5394c44069c244bda8fc3bf5226ccffa
-八大娱乐台,mitv://135.148.104.228:19806/1a6cd650e63a44e0961b62b4c0bc97db
-三立iNEWS,mitv://135.148.104.228:19806/790c5a5209a4406ca35ea1c7b5bf5588
-龙华偶像,mitv://135.148.104.228:19806/2f215acb60454131811b7d8b5a32b5d8
-tvN,mitv://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
-France24,mitv://135.148.104.228:19806/72d5e1665d3e4b729ff9dbd4325e8694
-非凡商业台,mitv://135.148.104.228:19806/3e41baf7f11843c4a62ba39c22133f8b
-公视3台,mitv://135.148.104.228:19806/42d797edbcfe47baa6fc3bc49343fdbe
-大爱2台,mitv://135.148.104.228:19806/2d9a6a9b694341cebebedea787b4c627
-ELTV生活英语台,mitv://135.148.104.228:19806/d9fc96ab677e4518ac96adbc8a7a941a
-靖洋卡通Nice Bingo,mitv://135.148.104.228:19806/ece893d56b6a46e391c9fa222c29bbef
-靖天卡通台,mitv://135.148.104.228:19806/a09eb68e862e4012840ad543e0bce174
-达文西频道,mitv://135.148.104.228:19806/d30d60a3950347abadc5ab73db5f3e58
-Nick Jr.,mitv://135.148.104.228:19806/0c5a3d3568e84a6ba24c50fdf29e8b4f
-Mezzo Live,mitv://135.148.104.228:19806/80375e2d54ef488f830a5e10b31fe47c
-CLASSICA 古典乐,mitv://135.148.104.228:19806/8376bac949044fc4a7f7c30b8b9f6c35
-爱尔达体育1台,mitv://135.148.104.228:19806/fa59b91487ea4f42967c790281aa78a8
-爱尔达体育2台,mitv://135.148.104.228:19806/178bfd2a7d8c4957be40f6dfae8166fd
-爱尔达体育3台,mitv://135.148.104.228:19806/2cfe773161b9493c84d5f7559e009e93
-TRACE Sport Stars,mitv://135.148.104.228:19806/a77bb56208fb4ec196fdac96d5951ae6
-博斯高球,mitv://135.148.104.228:19806/2feb1bf447874dd791e226e6d5a662a8
-博斯高球二台,mitv://135.148.104.228:19806/7054eaf6653040fc835c9db23ce8a086
-博斯网球台,mitv://135.148.104.228:19806/d1cf1df177174953a88364f6c24ba324
-博斯魅力网,mitv://135.148.104.228:19806/ada821feefa0400fa1bfe419ff7111ee
-博斯无限台,mitv://135.148.104.228:19806/aa2cc409abbe4130a4e0698e57b232cb
-博斯无限二台,mitv://135.148.104.228:19806/264fe420f39940bc9c88501f0f54e317
-博斯运动,mitv://135.148.104.228:19806/90595e8292f8449daa700b91adcf442e
-博斯运动二台,mitv://135.148.104.228:19806/16b3fea0e9ff459a81c39e1cec3a0434
-智林体育台,mitv://135.148.104.228:19806/8e66aaaf5e2e4830a7a51b2a004fd3f9
-HBO强档巨献,mitv://135.148.104.228:19806/78d2e408309d4ace81dd7235c2327767
-HBO原创巨献,mitv://135.148.104.228:19806/d16248e49e28441b97e940971121d0c0
-国家地理高画质野生频道,mitv://135.148.104.228:19806/52aac1c7cbd747f5b51ca132d82dab97
-BBC Earth,mitv://135.148.104.228:19806/d5a1c17765134b3bb18769f372d02ce3
-Discovery Asia,mitv://135.148.104.228:19806/0720c66375a1460faf32dbc28fece276
-Discovery科学频道,mitv://135.148.104.228:19806/78cb7ca3151647e0bbe3ededcd97f65d
-DMAX,mitv://135.148.104.228:19806/55495992173d4f9ab89bdcb7b6d6bed6
-EVE,mitv://135.148.104.228:19806/049dc32a539c4864b6bd770816127a85
-历史频道,mitv://135.148.104.228:19806/aa67a6171da44b1a9587ccd7b8779d03
-罪案侦缉频道,mitv://135.148.104.228:19806/27b07a4a79ee4d73ae4d84d2c5d93cc2
-BBC Lifestyle,mitv://135.148.104.228:19806/bb44e00664ff4201b9e9d67cd66281a7
-Lifetime,mitv://135.148.104.228:19806/790d217f20f14c099d234a1dffe20c19
-KLT-靖天国际台,mitv://135.148.104.228:19806/49b0188190ea47b2831f70e84851c807
-HGTV居家乐活频道,mitv://135.148.104.228:19806/009c5eeef628443d9e18f89f0712db58
-Love Nature,mitv://135.148.104.228:19806/1138e7f99188489d80fe4b12516581a4
-美食星球,mitv://135.148.104.228:19806/3866164cb9514601bc6c7eb9a775aa23
-亚洲美食频道,mitv://135.148.104.228:19806/b4289d1b42684f90942c57e82c03d6b2
-亚洲旅游台,mitv://135.148.104.228:19806/a068d4f14c5e487aa0582feec88d4d45
-EYE TV旅游台,mitv://135.148.104.228:19806/d4459f83cffa4a798fcd1d0a0a6bbf52
-好消息2台,mitv://135.148.104.228:19806/2662fe0a2d7745c6b6991ecf37f0595d
-三立综合台,mitv://135.148.104.228:19806/2dd15a03c57c4128bd9cb88dfe71a405
-靖天信息台,mitv://135.148.104.228:19806/19dce3b38ad34de3a31078d60cc08013
-靖天综合台,mitv://135.148.104.228:19806/feed829f89654521b3d35b96145cab2e
-靖天育乐台,mitv://135.148.104.228:19806/252f3c3735964efca5f8233b76cafc79
-中视经典台,mitv://135.148.104.228:19806/bd4610e5f3c2408986ca142242352afa
-中视菁采台,mitv://135.148.104.228:19806/69e8c31e6e784d1c87482d2a7f400629
-TVBS精采台,mitv://135.148.104.228:19806/5aa17ae3d3ae4261bc1edaffe2061d69
-壹电视综合,mitv://135.148.104.228:19806/171b08b412454d40885eff7dba298a46
-纬来精采,mitv://135.148.104.228:19806/15cd99093b894d138868ff54f3331d4e
-ETtoday综合台,mitv://135.148.104.228:19806/b9f6268847b14a05b5a177658c8c8c26
-民视第一台,mitv://135.148.104.228:19806/a6c1d1f92d024027ad57a93ca7a60112
-民视台湾台,mitv://135.148.104.228:19806/96c3593643c442748d710262238a8606
-Nice TV靖天欢乐台,mitv://135.148.104.228:19806/417150a479e1450ca3a10d4ac8cb8d4c
-八大优频道,mitv://135.148.104.228:19806/b7510c0dec88464d87261d9747f25ce4
-三立戏剧台,mitv://135.148.104.228:19806/8ce463d515ab40d089cd92191ba951ab
-龙华戏剧,mitv://135.148.104.228:19806/0e8f56641b044c958403b96afa163025
-靖天戏剧台,mitv://135.148.104.228:19806/3c3c2947372348a0907a0322c390fb0e
-靖洋戏剧台,mitv://135.148.104.228:19806/469ce2a757bd4c79973710f6d992558a
-靖天日本台,mitv://135.148.104.228:19806/bddc48e81668453491a4172b90fbbe4c
-i-Fun动漫台,mitv://135.148.104.228:19806/d7b43ff2dcaa457b8f7e88e6beb22d42
-韩国娱乐台,mitv://135.148.104.228:19806/9ba35d81e9f64eacb199e34b6d7c9172
-星卫娱乐台,mitv://135.148.104.228:19806/9ab20603b38d41d9a9457f560f1ad674
-ROCK 动作,mitv://135.148.104.228:19806/c1cf541ed9864b6abe9448adeff199dc
-中视新闻台,mitv://135.148.104.228:19806/32625135017f4968877e7937fb020136
-华视新闻,mitv://135.148.104.228:19806/48e192a37e924bc0986bdc071b33400d
-NHK新闻信息台,mitv://135.148.104.228:19806/ab18005d98f84a79ab1ea38eb8e2c38e
-美亚电影台HD,mitv://135.148.104.228:19806/f1d93f4dcdb042a69134be2e3ae8abab
-龙华电影,mitv://135.148.104.228:19806/b0f1d3bd5cf34c3e8bb994186e3566b2
-星卫HD电影台,mitv://135.148.104.228:19806/65688f2989ab4c4f8592c53da8fe4229
-靖天映画,mitv://135.148.104.228:19806/cdeb00771aeb4f5485f808418e98df7b
-靖天电影台,mitv://135.148.104.228:19806/5a26af3685084069a9aae298e647bb60
-WARNER TV,mitv://135.148.104.228:19806/254bab3c8f8e491eb6d61fc2d091cf44
-Star Movies HD,mitv://135.148.104.228:19806/17852e55e50a4fc28ef5fabf0b2f703b
-AMC最爱电影,mitv://135.148.104.228:19806/7eacaf8a1f124a37b674f7a9028ec237
-HBO Family,mitv://135.148.104.228:19806/baf0edab22a1427b803dc74668c87201
-CatchPlay电影台,mitv://135.148.104.228:19806/710c238e7c95430195c7052f9a61c6f7
-CinemaWorld,mitv://135.148.104.228:19806/3e0e0a6237fc4ed3bcd400ce2c3dc201
-壹电视电影台,mitv://135.148.104.228:19806/edb678a953df4702858eed6ed2f660ed
-采昌影剧台,mitv://135.148.104.228:19806/4c7a9c804304469081ec05c78616a29c
-佛卫慈悲台,mitv://135.148.104.228:19806/ee8aa23a13754a54b4ee008341d0ecad
-EYE TV戏剧台,mitv://135.148.104.228:19806/adc2a4ea6a77409cb91369152f0baced
-台视新闻台,mitv://135.148.104.228:19806/b73a296fbd314b87b4133e437a2aa5d1
-台视财经台,mitv://135.148.104.228:19806/8106890430d24687b7f68c076dc8c40f
-纬来日本,mitv://135.148.104.228:19806/42d0dca1afd94db8b8f8168e6e57c9f9
-爱尔达影剧台,mitv://135.148.104.228:19806/ac2f700992734a578b38655b30fb5166
-民视,mitv://135.148.104.228:19806/51c14e46fed64b5e8292b00b125fa0d0
-三立台湾台,mitv://135.148.104.228:19806/c07e20975a754b12ba53a6a8258facbd
-影迷数字电影台,mitv://135.148.104.228:19806/29a732cdd53949d0ad318c2532b7b386
-卫视中文台,mitv://135.148.104.228:19806/64c36667000a24dffd1d135b02690646
-爱尔达体育1台,mitv://135.148.104.228:19806/64c898180005e46911672dba66d35903
-台视,mitv://135.148.104.228:19806/9017175c07ca4da58e735c8db9b99fa6
-大爱,mitv://135.148.104.228:19806/342807111d144a34a8177792aa713039
-中视,mitv://135.148.104.228:19806/b3363448b66d4ca68c44978a6e019a6b
-华视,mitv://135.148.104.228:19806/847cc64e9de047829eb0f48a2ca5bca7
-东森新闻台,mitv://135.148.104.228:19806/6696ee8482ca482aa501f886efbadad0
-MTV,mitv://135.148.104.228:19806/15683e7c18794b389ca5f5e6df4059bf
-
-民视,https://fsv4.yj011.net/sat/tv051.flv
-台视,https://fsv4.yj011.net/sat/tv071.flv
-中视,https://fsv4.yj011.net/sat/tv091.flv
-华视,https://fsv4.yj011.net/sat/tv111.flv
-TVBS新闻台,https://fsv4.yj011.net/sat/tv551.flv
-TVBS欢乐台,https://fsv4.yj011.net/sat/tv421.flv
-东森财经新闻台,https://fsv4.yj011.net/sat/tv571.flv
-纬来育乐台,https://fsv4.yj011.net/sat/tv701.flv
-纬来体育台,https://fsv4.yj011.net/sat/tv721.flv
-ELEVEN体育1台,https://fsv4.yj011.net/sat/tv731.flv
-ELEVEN体育2台,https://fsv4.yj011.net/sat/tv741.flv
-MOMO综合,https://fsv4.yj011.net/sat/tv761.flv
-纬来日本,https://fsv4.yj011.net/sat/tv771.flv
-博斯无限二台,https://fsv4.yj011.net/sat/md031.flv
-爱尔达体育2台,https://fsv4.yj011.net/sat/md051.flv
-爱尔达体育3台,https://fsv4.yj011.net/sat/md041.flv
-
-民视,rtmp://119.81.124.89/sat/tv051
-台视,rtmp://119.81.124.89/sat/tv071
-中视,rtmp://119.81.124.89/sat/tv091
-华视,rtmp://119.81.124.89/sat/tv111
-TVBS新闻台,rtmp://119.81.124.89/sat/tv551
-TVBS欢乐台,rtmp://119.81.124.89/sat/tv421
-东森财经新闻台,rtmp://119.81.124.89/sat/tv571
-纬来育乐台,rtmp://119.81.124.89/sat/tv701
-纬来体育台,rtmp://119.81.124.89/sat/tv721
-ELEVEN体育1台,rtmp://119.81.124.89/sat/tv731
-ELEVEN体育2台,rtmp://119.81.124.89/sat/tv741
-MOMO综合,rtmp://119.81.124.89/sat/tv761
-纬来日本,rtmp://119.81.124.89/sat/tv771
-博斯无限二台,rtmp://119.81.124.89/sat/md031
-爱尔达体育3台,rtmp://119.81.124.89/sat/md041
-爱尔达体育2台,rtmp://119.81.124.89/sat/md051
-
-民视,rtmp://219.80.97.77/sat/tv051
-台视,rtmp://219.80.97.77/sat/tv071
-中视,rtmp://219.80.97.77/sat/tv091
-华视,rtmp://219.80.97.77/sat/tv111
-TVBS新闻台,rtmp://219.80.97.77/sat/tv551
-TVBS欢乐台,rtmp://219.80.97.77/sat/tv421
-东森财经新闻台,rtmp://219.80.97.77/sat/tv571
-纬来育乐台,rtmp://219.80.97.77/sat/tv701
-纬来体育台,rtmp://219.80.97.77/sat/tv721
-ELEVEN体育1台,rtmp://219.80.97.77/sat/tv731
-ELEVEN体育2台,rtmp://219.80.97.77/sat/tv741
-MOMO综合,rtmp://219.80.97.77/sat/tv761
-纬来日本,rtmp://219.80.97.77/sat/tv771
-博斯无限二台,rtmp://219.80.97.77/sat/md031
-爱尔达体育3台,rtmp://219.80.97.77/sat/md041
-爱尔达体育2台,rtmp://219.80.97.77/sat/md051
-
-民视,http://seb.sason.top/ptv/ftv.php?id=ms
-民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
-民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
-民视第一台,http://seb.sason.top/ptv/ftv.php?id=dy
-民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
-民视综艺,http://seb.sason.top/ptv/ftv.php?id=zy
-民视影剧,http://seb.sason.top/ptv/ftv.php?id=yj
-
-东森电影台,http://103.112.191.9:880/LAOSAT1017.m3u8
-东森洋片台,http://103.112.191.9:880/LAOSAT1018.m3u8
-龙祥电影,http://103.112.191.9:880/LAOSAT1084.m3u8
-天映频道,http://103.112.191.9:880/LAOSAT1029.m3u8
-星卫HD电影台,http://103.112.191.9:880/LAOSAT1082.m3u8
-卫视电影台,http://103.112.191.9:880/LAOSAT1085.m3u8
-博斯高球,http://103.112.191.9:880/LAOSAT1081.m3u8
-Discovery Asia,http://103.112.191.9:880/LAOSAT1095.m3u8
-HBO,http://103.112.191.9:880/LAOSAT1089.m3u8
-CINEMAX,http://103.112.191.9:880/LAOSAT1031.m3u8
-CNN,http://103.112.191.9:880/LAOSAT1087.m3u8
-CNBC,http://103.112.191.9:880/LAOSAT1086.m3u8
-DW,http://103.112.191.9:880/LAOSAT1072.m3u8
-半岛电视台,http://103.112.191.9:880/LAOSAT1021.m3u8
-NHK新闻信息台,http://103.112.191.9:880/LAOSAT1071.m3u8
-
-东森新闻台,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net:80/tvcc/smt.php?id=ettvnews
-
-爱尔达体育1台,http://vp.ubvip1688.com:8080/vod/510FC806/main.m3u8
-爱尔达体育2台,http://vp.ubvip1688.com:8080/vod/C8DAB756/main.m3u8
-爱尔达体育3台,http://vp.ubvip1688.com:8080/vod/7B0F7DF8/main.m3u8
+民视,mitv://generationnexxxt.com:19806/0d8e5ffa3a974ca2b10e4ae2d814961f
+台视,mitv://generationnexxxt.com:19806/91b881fb976a4f9b96cd8cec98441cf4
+大爱,mitv://generationnexxxt.com:19806/976d171fed6749e595091fcbeefa9e4a
+中视,mitv://generationnexxxt.com:19806/d6655513893c400380afc02e56e39f31
+霹雳台湾台,mitv://generationnexxxt.com:19806/d7edf27d2196483d8abdc03038e7fe7f
+华视,mitv://generationnexxxt.com:19806/a4793094830843bfb60e6b5d8086e833
+公视,mitv://generationnexxxt.com:19806/2fc960d83c4043cb958049ef76b288c8
+好消息,mitv://generationnexxxt.com:19806/a6245be5491d44f7a3f69d12f34cb53d
+原住民电视台,mitv://generationnexxxt.com:19806/75d407cdb5bb4a64ab7aa7586c8d06ac
+客家电视台,mitv://generationnexxxt.com:19806/25a6ae52ef914f04baba16c62d6445df
+国家地理频道,mitv://generationnexxxt.com:19806/9a158bff9c484ea9a7a330a0ab741dd9
+探索频道,mitv://generationnexxxt.com:19806/4f5aaacf795c4044a007600077370d36
+TLC旅游生活,mitv://generationnexxxt.com:19806/7275b7ecb85241919f37885c38dd1618
+动物星球,mitv://generationnexxxt.com:19806/ca8007437a8048c194c2269fe2c1cea7
+CN卡通频道,mitv://generationnexxxt.com:19806/cb46e68d50034a629f68f9f297c73847
+MOMO亲子台,mitv://generationnexxxt.com:19806/258b83bbed4541388a18ff43314cb67d
+东森幼幼台,mitv://generationnexxxt.com:19806/bd0480322fa7431095b2de462f4e8d54
+纬来综合台,mitv://generationnexxxt.com:19806/1f7106c48a6a4961a7061a9592f08865
+八大第一台,mitv://generationnexxxt.com:19806/e62a748819bf42379efb8fd747b70574
+八大综合台,mitv://generationnexxxt.com:19806/0dba7c9cc20b4cd8a609a00e256f7f1d
+三立台湾台,mitv://generationnexxxt.com:19806/88c7d5e4a5d1497c9d01811a6d4941cf
+三立都会台,mitv://generationnexxxt.com:19806/dc989dc49bb14bc1beaa31460c16caaa
+东森综合台,mitv://generationnexxxt.com:19806/490712f7814148fe9e947cca0ffc8124
+超视,mitv://generationnexxxt.com:19806/c2ec4385159a45c2b8d6fe931c7b42b0
+中天综合台,mitv://generationnexxxt.com:19806/aa840e7fe7744cfba3d86fba0c504124
+中天娱乐台,mitv://generationnexxxt.com:19806/0de93b073d0b4d1280489b694aaa4b77
+东森戏剧台,mitv://generationnexxxt.com:19806/26784432b12e485d82cc20186dbbfb69
+八大戏剧台,mitv://generationnexxxt.com:19806/c6ac45cf26cd4f1f9f1e57628b0755c1
+TVBS欢乐台,mitv://generationnexxxt.com:19806/85ec662a44cd497bba078a4910915c06
+纬来戏剧台,mitv://generationnexxxt.com:19806/4192f78e2a2f497ab426a498a82b87c1
+高点综合台,mitv://generationnexxxt.com:19806/b95c46b5020c4db390c05ba127c1088a
+BBC World News,mitv://generationnexxxt.com:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
+CNBC,mitv://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
+Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
+壹电视新闻台,mitv://generationnexxxt.com:19806/b94160eddd6243d4b99f54e83dd7cf1d
+年代新闻,mitv://generationnexxxt.com:19806/d1ecbbc24e5c44b1b20431aa0a2f3781
+东森新闻台,mitv://generationnexxxt.com:19806/16e46670edea41b2982847edf537ebd1
+中天新闻台,mitv://generationnexxxt.com:19806/137bb441cd5443eabb3778980f70f81a
+民视新闻台,mitv://generationnexxxt.com:19806/677a8814b6024aeaad4f6a7fab2b33d2
+三立新闻台,mitv://generationnexxxt.com:19806/df4f3accab424715b965160be52a4415
+TVBS新闻台,mitv://generationnexxxt.com:19806/a4c0cf646fa24386a401bc7adc81e0d1
+TVBS,mitv://generationnexxxt.com:19806/ad7e48825c5e44c798ec1bdc60728ed6
+东森财经新闻台,mitv://generationnexxxt.com:19806/39edcf190f0a43389b13cc132408e882
+非凡新闻台,mitv://generationnexxxt.com:19806/da110687e83b447bb2793b40825e64c2
+卫视电影台,mitv://generationnexxxt.com:19806/16c37836ff6a45c0aca631a61006ebe1
+东森电影台,mitv://generationnexxxt.com:19806/3965b5160b2047bdbcc2e68ea0e5a3d0
+纬来电影台,mitv://generationnexxxt.com:19806/56c50e543424458e8061666db8b4fd05
+龙祥电影,mitv://generationnexxxt.com:19806/28bd5eb24ba54da0beb8d0c75a009851
+HBO,mitv://generationnexxxt.com:19806/19159b08cadc4923b6796bd9e8b799f4
+东森洋片台,mitv://generationnexxxt.com:19806/3cea7ad5e17544ad95ce056201fee27e
+AXN,mitv://generationnexxxt.com:19806/f72f3d18a965417b9ddcf9436b904777
+好莱坞电影台,mitv://generationnexxxt.com:19806/2b19ad12c5ff4bafa3521af6342e137c
+CINEMAX,mitv://generationnexxxt.com:19806/feb73144bbe648b187cb3f6fdd5c8bb0
+纬来育乐台,mitv://generationnexxxt.com:19806/cdeca14f329d4104a23ef9d7b58f0093
+纬来体育台,mitv://generationnexxxt.com:19806/2da79041d24a4a19818f2c659a781a80
+ELEVEN体育1台,mitv://generationnexxxt.com:19806/a8f85bd670d2477b9ed0186e75db85a5
+JET综合台,mitv://generationnexxxt.com:19806/5bec17c3fd694885b7e2c6994f6d8fa7
+国兴卫视,mitv://generationnexxxt.com:19806/12482ef6290a4dbc8914a7b68269631d
+STAR World,mitv://generationnexxxt.com:19806/e7d404edd2e04c10a7b5ce1ab8afe458
+Z频道,mitv://generationnexxxt.com:19806/c60e79608dc64f9b96c9f7a7bb3ecfcd
+Animax,mitv://generationnexxxt.com:19806/8d3b5c33d4d24ea0b431f1bce66b62ee
+尼克儿童频道,mitv://generationnexxxt.com:19806/450a512b23db40c8ac97f0e889d234fa
+八大娱乐台,mitv://generationnexxxt.com:19806/0628445eeaeb42579403a915c79b7e29
+三立iNEWS,mitv://generationnexxxt.com:19806/6af96d4db5654ec78441d3a38742140a
+龙华偶像,mitv://generationnexxxt.com:19806/87ca14ae1c8e4c30a926d5984766ee4f
+tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
+非凡商业台,mitv://generationnexxxt.com:19806/f440f5c034864e73b1d2d30acd00ebd2
+公视3台,mitv://generationnexxxt.com:19806/718990d1a07f431f8fcd7a43b5b8b1a0
+大爱2台,mitv://generationnexxxt.com:19806/b200d9558c0f419b87ff86fae6d0cb58
+ELTV生活英语台,mitv://generationnexxxt.com:19806/b97092da1ee54f10b68542b88ad5d331
+靖洋卡通Nice Bingo,mitv://generationnexxxt.com:19806/ab690e0abb6b4593abb6e3e5724d7858
+靖天卡通台,mitv://generationnexxxt.com:19806/8a11ce8b3ba249e6a844f4f245e3e754
+Nick Jr.,mitv://generationnexxxt.com:19806/06f2f49aed124aceaf40a3da7d8d9c43
+Mezzo Live,mitv://generationnexxxt.com:19806/f117b68dba9d4c4587aff25c5dc3fc4e
+CLASSICA 古典乐,mitv://generationnexxxt.com:19806/942986639d954f6a8ac5f16e36f6eb68
+爱尔达体育1台(备),mitv://generationnexxxt.com:19806/cc92dd1a43954541ad4b500d15884da1
+爱尔达体育2台,mitv://generationnexxxt.com:19806/d119f369b4f9433f919a09695ac26cd5
+TRACE Sport Stars,mitv://generationnexxxt.com:19806/2ae50e03b0d04d11a7593f85f6a8a290
+博斯高球,mitv://generationnexxxt.com:19806/641ed535228b4be3a4bce28b3e3b5d94
+博斯高球二台,mitv://generationnexxxt.com:19806/c62155e551d54f9899e0b1f7e413c417
+博斯网球台,mitv://generationnexxxt.com:19806/318cdc298ae74042afe24b64b5159a1d
+博斯魅力网,mitv://generationnexxxt.com:19806/84a2e97f85dc4a6485cb5da50cb90b4f
+博斯无限台,mitv://generationnexxxt.com:19806/448cf9fd3fc340b0aec9eb443235cdef
+博斯无限二台,mitv://generationnexxxt.com:19806/b374c797b47f4ac6a2cc0a95e1a2d69d
+博斯运动,mitv://generationnexxxt.com:19806/14145c690fe246579ed01fb3e85be2b6
+ELEVEN体育2台,mitv://generationnexxxt.com:19806/99f44ff018e84575bc7a5224998774ea
+智林体育台,mitv://generationnexxxt.com:19806/657b847112e447109498cc1e6a6e64d4
+博斯运动二台,mitv://generationnexxxt.com:19806/77aabfad0cc242a8b4f6e32eb7034f07
+HBO强档巨献,mitv://generationnexxxt.com:19806/0ecccbea531248378fa60f60826923f1
+HBO原创巨献,mitv://generationnexxxt.com:19806/4e2ea5731cb04b76a59c1939bb821d0f
+国家地理高画质野生频道,mitv://generationnexxxt.com:19806/fd8e9de8089240fc97240e123bc9aa3c
+BBC Earth,mitv://generationnexxxt.com:19806/2c1737e1bc3344cd8453339f119f15aa
+Discovery Asia,mitv://generationnexxxt.com:19806/60548506780342399fc3216acd65723d
+Discovery科学频道,mitv://generationnexxxt.com:19806/622cf5fa071247f3be958a3884bd9530
+DMAX,mitv://generationnexxxt.com:19806/53c3f4e093634a7bb105c2b2973ea6f2
+EVE,mitv://generationnexxxt.com:19806/fe53e133a96446e4a72710d3690b346e
+历史频道,mitv://generationnexxxt.com:19806/9c29abe7ea884e3eb586d6e54f3bd298
+罪案侦缉频道,mitv://generationnexxxt.com:19806/6523d24fee4d41588237e6caf9a36ac9
+BBC Lifestyle,mitv://generationnexxxt.com:19806/312946b683c34d91b03a8f2926b9168d
+Lifetime,mitv://generationnexxxt.com:19806/1c5737226cdc402eb8bd93cf14adaedd
+KLT-靖天国际台,mitv://generationnexxxt.com:19806/0b71a12e292148cb874b2d39b45ba220
+HGTV居家乐活频道,mitv://generationnexxxt.com:19806/b401ca15c732432a8824ac22523e14f0
+Love Nature,mitv://generationnexxxt.com:19806/99b767894aab43a9825b747519e78e06
+美食星球,mitv://generationnexxxt.com:19806/202a3e4b7b5049a2a7f03a4bbe82cf5c
+亚洲美食频道,mitv://generationnexxxt.com:19806/b68232690f6140b8ab81d61d003ea52c
+亚洲旅游台,mitv://generationnexxxt.com:19806/badd1a75a24f40668420cbd081753c5a
+EYE TV旅游台,mitv://generationnexxxt.com:19806/63cabccb1e494cac8366f39fe8b45171
+好消息2台,mitv://generationnexxxt.com:19806/faf56c20e5ca4c9497405021a6a9a18a
+三立综合台,mitv://generationnexxxt.com:19806/b2aeda00c37e40a8b3eebe3aa8ca0866
+靖天资讯台,mitv://generationnexxxt.com:19806/6950fc0c617c44148cff89e3421bf24f
+靖天综合台,mitv://generationnexxxt.com:19806/48a4110216934d94afc2c9ffa449c360
+靖天育乐台,mitv://generationnexxxt.com:19806/034419873c4a4401b41b5d56d81aa3d4
+中视经典台,mitv://generationnexxxt.com:19806/9c5e4e2b5f1a45d8b2df98de4f8f1935
+中视菁采台,mitv://generationnexxxt.com:19806/242dfd41df12419b99bec93fb3132fab
+TVBS精采台,mitv://generationnexxxt.com:19806/b5c39f17278745d19b5c3f6ae6235f0e
+壹电视综合,mitv://generationnexxxt.com:19806/f1f0b7b3649440a0acd2327dfa8391aa
+纬来精采,mitv://generationnexxxt.com:19806/ae767794b23d47bea40a512a9ddb7b94
+ETtoday综合台,mitv://generationnexxxt.com:19806/bc64cf9458c546928136673456c9253a
+民视第一台,mitv://generationnexxxt.com:19806/5877487a17db4c5aac61008530265bfe
+民视台湾台,mitv://generationnexxxt.com:19806/38290043fa274b4aa2b6e829ec6f8cb4
+Nice TV靖天欢乐台,mitv://generationnexxxt.com:19806/71df734a1f7b4f37bf6562e99fb8b4da
+八大优频道,mitv://generationnexxxt.com:19806/721faa003e8449eebd230111b58cf921
+三立戏剧台,mitv://generationnexxxt.com:19806/1fa45d44fabe45aeae4ac34756718a1f
+龙华戏剧,mitv://generationnexxxt.com:19806/8749e738795e4aa3b1bce510b1f0d135
+靖天戏剧台,mitv://generationnexxxt.com:19806/9ada056568584318b30dfdceae2d5f07
+靖洋戏剧台,mitv://generationnexxxt.com:19806/058962690c6d4e719602f431ff72c389
+靖天日本台,mitv://generationnexxxt.com:19806/6871f19bfb6c4b97b9f1750ba5ea1066
+i-Fun动漫台,mitv://generationnexxxt.com:19806/2c8f3da2285a4047a529842d37200801
+韩国娱乐台,mitv://generationnexxxt.com:19806/306221c72a9549d080e753dec91e1ea6
+星卫娱乐台,mitv://generationnexxxt.com:19806/5e57842483ed40ba85f674a00ab04a40
+ROCK Extreme,mitv://generationnexxxt.com:19806/afb09728b50a489aa7be7a04baffd969
+中视新闻台,mitv://generationnexxxt.com:19806/ae337782a3944755a2a123d85c700046
+寰宇新闻台,mitv://generationnexxxt.com:19806/18f6b70f542b4ec98f40a5b73d04cf0e
+华视新闻,mitv://generationnexxxt.com:19806/1dada49b59f944f9a03a86ae8e2b74f1
+NHK新闻资讯台,mitv://generationnexxxt.com:19806/85ef2ea456d24fdaa628a8e3caaf65da
+美亚电影台HD,mitv://generationnexxxt.com:19806/a3587ff68e0a4c2db447ec1df83d6034
+龙华电影,mitv://generationnexxxt.com:19806/7955054e033946d38e710d0591875398
+星卫HD电影台,mitv://generationnexxxt.com:19806/da8f3e37f0a74e9cb885ca2739e5115c
+靖天映画,mitv://generationnexxxt.com:19806/5e4967e888bc4ff1a84f9ec75a3dde34
+靖天电影台,mitv://generationnexxxt.com:19806/e27c512da9ef4fbba3c4a121faaebe8e
+WARNER TV,mitv://generationnexxxt.com:19806/8856d46c139045eaba847c5c6adcf2ca
+Star Movies HD,mitv://generationnexxxt.com:19806/7174f95a9e564b7e8e9c1ece71233934
+AMC最爱电影,mitv://generationnexxxt.com:19806/006fb4e617964fdda31cc13d63ebee17
+HBO Family,mitv://generationnexxxt.com:19806/be3a8333e6dd4ae1863c4e1057aabb12
+CatchPlay电影台,mitv://generationnexxxt.com:19806/a7586e7ffd3c4680b88b4ca06a7c1679
+CinemaWorld,mitv://generationnexxxt.com:19806/e17999efb2844dc0b8e860d7267a41f7
+壹电视电影台,mitv://generationnexxxt.com:19806/dce8973a02cc487aa5a04546c7118617
+采昌影剧台,mitv://generationnexxxt.com:19806/fd7f54bf76a648bbafdfecb2b64cdc86
+佛卫慈悲台,mitv://generationnexxxt.com:19806/017f3ceaa16243a4a832508f790cf4fa
+TechStorm,mitv://generationnexxxt.com:19806/475911981b00420eabc20f1949aa57b5
+EYE TV戏剧台,mitv://generationnexxxt.com:19806/1303a13101c748c587c5f1e9de6d2e8c
+台视新闻台,mitv://generationnexxxt.com:19806/a4e713f88e1043fa865a89e175a2801f
+寰宇新闻台湾台,mitv://generationnexxxt.com:19806/449c3f62f16446ed9a2cc35ed108aa25
+台视财经台,mitv://generationnexxxt.com:19806/1d9d746573584ac6ac17f69f26b8ab5c
+纬来日本,mitv://generationnexxxt.com:19806/e8195a2ca17c40fc82f3d934345e159a
+爱尔达影剧台,mitv://generationnexxxt.com:19806/6a85efe32a6d4921bfa108da40883dab
+民视(备),mitv://generationnexxxt.com:19806/630acd5dfa274639adf35c25fbf9f8ce
+三立台湾台(备),mitv://generationnexxxt.com:19806/e89ae15ff24c4c6ba5afae892d9c6c36
+影迷数位电影台,mitv://generationnexxxt.com:19806/cae90b7b4be64e1a9a0c0c99717d3900
+卫视中文台,mitv://generationnexxxt.com:19806/28d1e27b41a84d5e850631c5973d745f
+爱尔达体育1台,mitv://generationnexxxt.com:19806/28684e0c52fc42bf874e4d0911fdd3fa
+爱尔达体育3台,mitv://generationnexxxt.com:19806/22ff96f1b77d440498f0baadda0e4b67
+台视(备),mitv://generationnexxxt.com:19806/a31e41d4530c422aa369fc1373d1bc16
+爱尔达体育4台,mitv://generationnexxxt.com:19806/b4e578f0faf9416a958e7a21568660bd
+中视(备),mitv://generationnexxxt.com:19806/1d7dadb637d442cdbe35dac3cb72a5f2
+华视(备),mitv://generationnexxxt.com:19806/ec6908cb6c1e45aa88b2ef9264a8c84b
+东森新闻台(备),mitv://generationnexxxt.com:19806/1bed152d248b4055bfcf5681d4a0894a
+镜新闻,mitv://generationnexxxt.com:19806/4f7d3eebb2ef4ec6b78b0efcb70e349e
+MTV,mitv://generationnexxxt.com:19806/34931fb299de47eea24fddab10b92d9d
+东森购物1台,mitv://generationnexxxt.com:19806/4f4b03a21e704ff5881ba420118bf499
+东森购物2台,mitv://generationnexxxt.com:19806/e9ae54be7d5c46c587731b6f55d5f1bc
 
 🇭🇰港澳,#genre#
-港台电视31,mitv://135.148.104.228:19806/bb366f445cec4722b21fdd69fb052834
-港台电视32,mitv://135.148.104.228:19806/cf1a2072c9d94514ba98c4b37895daf4
-HOY TV,mitv://135.148.104.228:19806/793006c6727f44169d4e77a35ab8f880
-﻿翡翠台,mitv://135.148.104.228:19806/64c39a720008c517fde85df515ce35f0
-J2,mitv://135.148.104.228:19806/fd76c6fe901545c5b39543824e25c80b
-无线新闻台,mitv://135.148.104.228:19806/64ccaf8e000305e12162d1ee131d2c75
-无线新闻台,mitv://135.148.104.228:19806/64c4f67a000c5ece0337de2f345d4462
-无线财经体育信息台,mitv://135.148.104.228:19806/7a492b815c2a43fe97a9f6275006ae50
-ViuTVsix,mitv://135.148.104.228:19806/2e3d6f5fdc314dc692370efb15318b1f
-ViuTV,mitv://135.148.104.228:19806/2db4c9b6a8be42b9864ff2fbac8ab938
-凤凰中文台,mitv://135.148.104.228:19806/64c36a5f0004e71afd2c92c363640e6c
-凤凰信息台,mitv://135.148.104.228:19806/c25ff00d1f62473190819062e87bb70d
-凤凰香港台,mitv://135.148.104.228:19806/eba2c91eb6c54e51b78036d9412a355c
-TVB星河(粤),mitv://135.148.104.228:19806/8c81917b79d247f3a60857411973d9a5
-澳门-MACAU,mitv://135.148.104.228:19806/807fa44b817a41c2a2451cf431ac7c67
-澳门莲花,mitv://135.148.104.228:19806/93b9e506af054ad497b97a1e139e603e
-now新闻台,mitv://135.148.104.228:19806/56aca5e712214663825c77b7ae979522
-凤凰电影台,mitv://135.148.104.228:19806/615c4957580a449bb6a9a679cf0d35ea
-HKC 18,mitv://135.148.104.228:19806/140377dc9e0848678d614d451d69af9e
-戏曲台,mitv://135.148.104.228:19806/6abfd8db65344e3884e66adde0fe31c1
-TVB娱乐新闻台,mitv://135.148.104.228:19806/86fe6741d7da4c59919680e5d9857450
-翡翠台,mitv://135.148.104.228:19806/64c4800500000e16016921fb51e72207
-千禧经典台,mitv://135.148.104.228:19806/82237250e487405d87030dd69457ddd8
-Thrill,mitv://135.148.104.228:19806/9b9e791106d14b60a3444a17301ade7e
-明珠台,mitv://135.148.104.228:19806/c5f11f27251e4a9e839e5cea739eb213
-HKC直播新闻台,mitv://135.148.104.228:19806/3c0ab06703bd4e329585520fcdc7dadf
-18台,mitv://135.148.104.228:19806/3fb4bcf94b124e15961f49dcde926da9
-now财经台,mitv://135.148.104.228:19806/64ca0163000e9db216ea7ce45cf337fd
-美亚电影台(粤语),mitv://135.148.104.228:19806/15f49aa0548f44eeaa6248f635df05cc
-Hands Up,mitv://135.148.104.228:19806/e78b4e2900154414a93f2ccd57a18d04
-粤语片台,mitv://135.148.104.228:19806/887df0bf0d8d492d95b9c2fdf6cc9694
-亚洲剧台,mitv://135.148.104.228:19806/ddd1f7ef6ccc486eb861a1215115d7d2
-功夫台,mitv://135.148.104.228:19806/4c3f27dd7eb44be289557ccfb7c410b3
-HOY信息台,mitv://135.148.104.228:19806/277e07151c874174b35d4d3ce7d772a2
-黄金翡翠台,mitv://135.148.104.228:19806/aa014240bbec4e91990ca9a7f57875fd
+港台電視31,mitv://generationnexxxt.com:19806/d835e6df671e45959e5f6a3ddda8240f
+港台电视32,mitv://generationnexxxt.com:19806/ce472e4565d64967a26dc0e324e3562b
+HOY TV,mitv://generationnexxxt.com:19806/d0d8616f74ce4bf4a39e2f77263d7f37
+﻿翡翠台(备),mitv://generationnexxxt.com:19806/4e931fde611844538ff36f3786674877
+J2,mitv://generationnexxxt.com:19806/938bbc09df624f818c1a4be69fe85394
+无线新闻台(备),mitv://generationnexxxt.com:19806/124d3efb143c492d90ef370ab431d0c4
+无线新闻台,mitv://generationnexxxt.com:19806/4c102052fb2f4941b8c4f58d1815fd41
+无线财经体育资讯台,mitv://generationnexxxt.com:19806/7d017020d24e49baab877ee81e20bc03
+ViuTVsix,mitv://generationnexxxt.com:19806/ed3512992cf440eab36c980df0ddd13f
+ViuTV,mitv://generationnexxxt.com:19806/ca130121271845f08e3f971ec528c882
+凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰资讯台,mitv://generationnexxxt.com:19806/16e3188b61da4ea39d3d6a9ea6b4f1a3
+凤凰香港台,mitv://generationnexxxt.com:19806/95b1e8bc23c74ec39913f0d36ad25d42
+TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
+澳门-MACAU,mitv://generationnexxxt.com:19806/9fcdacf753604b869c7eaf19416c2d03
+澳门莲花,mitv://generationnexxxt.com:19806/56df04d9351a42c79a08b58b1b09505c
+now新闻台,mitv://generationnexxxt.com:19806/1b121b35c0fa4ab2af770c760b92bc7a
+HKC 18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
+戏曲台,mitv://generationnexxxt.com:19806/871860cf869e471e918797abd540fe56
+TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa2b373
+翡翠台,mitv://generationnexxxt.com:19806/32ecc6865352438b956be0a2a2fa2485
+千禧经典台,mitv://generationnexxxt.com:19806/8695a8b7d5e24fb5b31d3bf1ea8a264d
+Thrill,mitv://generationnexxxt.com:19806/036e41fe2d524d7abd93f5f62b642080
+明珠台,mitv://generationnexxxt.com:19806/e12be90765124726ac2f13a3de6edf02
+香港国际财经台,mitv://generationnexxxt.com:19806/060ddfd9cfa94432993b23f53e8b2ff4
+18台,mitv://generationnexxxt.com:19806/8143a3d9d5f24ecd845a4dd236879549
+now财经台,mitv://generationnexxxt.com:19806/10723db13cf54757a055c70c4b183bdc
+美亚电影台(粤语),mitv://generationnexxxt.com:19806/6d79d92b5a134c7e815eb13c742400c1
+Hands Up,mitv://generationnexxxt.com:19806/411d19c74016481eb0ab743c22523102
+粤语片台,mitv://generationnexxxt.com:19806/6532937e0007e298af65644262e156f0
+亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
+功夫台,mitv://generationnexxxt.com:19806/13d08d7212504d1a8b8b9d6e6706147a
+HOY资讯台,mitv://generationnexxxt.com:19806/adab1948a61e45e4a9cf45f73a069957
+黄金翡翠台,mitv://generationnexxxt.com:19806/9d6e1fc70a814bb4ad2f1a7b9ee6611a
 
-翡翠台,http://27.46.125.40:800/hls/80/index.m3u8
-J2,http://27.46.125.40:800/hls/81/index.m3u8
-无线新闻台,http://27.46.125.40:800/hls/82/index.m3u8
-无线财经体育信息台,http://27.46.125.40:800/hls/83/index.m3u8
-明珠台,http://27.46.125.40:800/hls/84/index.m3u8
-ViuTVsix,http://27.46.125.40:800/hls/85/index.m3u8
-ViuTV,http://27.46.125.40:800/hls/86/index.m3u8
+🇲🇾malɛjsia,#genre#
+TV1,mitv://generationnexxxt.com:19806/9e0eceaf93854a4eb3d9ae2dcf60141c
+TV2,mitv://generationnexxxt.com:19806/a3f71a80564c4deda0a57a4ba6ed2175
+TV3,mitv://generationnexxxt.com:19806/71eab7f7f53d4d86aad166f9abfb07aa
+NTV7,mitv://generationnexxxt.com:19806/dc5475f589ad4cfd85eff53cabf2f6ff
+八度空间,mitv://generationnexxxt.com:19806/4241359c2efb4ae6a0e3706ef76477a3
+TV9,mitv://generationnexxxt.com:19806/43198b03521c499298a8749199447964
+Astro Oasis HD,mitv://generationnexxxt.com:19806/4012d7c552f84a11a89b3b38555ddf01
+Astro Citra HD,mitv://generationnexxxt.com:19806/6229bc11a701453a8abe9d8f03a948f5
+Al-Hijrah,mitv://generationnexxxt.com:19806/49066d0fc6e5413a9083dbb7ec41f50c
+SUN TV,mitv://generationnexxxt.com:19806/8b63b02659e34d1bb1a0b7255ccdc20c
+爱奇艺,mitv://generationnexxxt.com:19806/18ecea276f6b49e2a6ab9f567d1f0511
+Astro小太阳,mitv://generationnexxxt.com:19806/e15474cab1e9478e8804f173e50a3933
+Astro AEC(备),mitv://generationnexxxt.com:19806/ca26402e9130497684ae7111c68a67bb
+Astro双星,mitv://generationnexxxt.com:19806/2ddc37cfa52248f88b678af3bf814f02
+天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
+翡翠台(华丽台),mitv://generationnexxxt.com:19806/4ca2b62e4dd94ae9b523456d84428b39
+Astro AOD HD 311,mitv://generationnexxxt.com:19806/190ff522878f454381273fbe2ec6ae6a
+中天亚洲台,mitv://generationnexxxt.com:19806/32caa156f6c34c7f96095f49def81bfe
+TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
+天映经典,mitv://generationnexxxt.com:19806/0d801de19d074f69acd76de0967585bf
+Astro欢喜台,mitv://generationnexxxt.com:19806/b80367bd1d8f4ed5ac3875d22af40cb5
+KBS World,mitv://generationnexxxt.com:19806/5a2d7593eddb4939bd568c30ad7fb8f5
+TVS,mitv://generationnexxxt.com:19806/8a613b76028f4a4f9d86550a81fc0625
+tvN Movies HD,mitv://generationnexxxt.com:19806/7ad63818eea64677beb87cf16459919f
+Astro Awani,mitv://generationnexxxt.com:19806/5f8c4af20b1a4dcc9f897200cebd2a93
+CGTN,mitv://generationnexxxt.com:19806/fd57714f6d7844fba72dde1fdc11b902
+BBC World News,mitv://generationnexxxt.com:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
+CNBC,mitv://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
+Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+Astro Ceria,mitv://generationnexxxt.com:19806/b3f53402401e49ff886522b1ca81179d
+Boomerang,mitv://generationnexxxt.com:19806/a7d1c6858f5845589fe59fea2e3a61a2
+KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
+HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
+Astro Arena,mitv://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
+Astro SuperSport,mitv://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
+Astro SuperSport 2,mitv://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
+Astro SuperSport 3,mitv://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
+Astro SuperSport 4,mitv://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
+beIN Sports 3,mitv://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
+WWE,mitv://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
+Sky News,mitv://generationnexxxt.com:19806/004e34fc27b949339dc56c7dfc272f76
+八度空间(备),mitv://generationnexxxt.com:19806/8796cd8daa694ec8a4dbe9a03d0e5c30
+Nat Geo Wild,mitv://generationnexxxt.com:19806/0b98cfecbfe84fbf97566be470554831
+tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+Drama Sangat,mitv://generationnexxxt.com:19806/e4de6d06d88d436ba353c705058a9689
+Berita RTM,mitv://generationnexxxt.com:19806/8480d3a4e32947dc968d4932d26c921f
+France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
+SPOTV,mitv://generationnexxxt.com:19806/60ad67b765414b32882a24ce6c63808a
+beIN Sports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
+TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa2b373
+Astro AEC,mitv://generationnexxxt.com:19806/adac5b0d86a64dd9bbbb9f78bc1bf97a
+Awesome TV,mitv://generationnexxxt.com:19806/7fb3a33fb0a642f9beeddf5b4985ff10
+BOO,mitv://generationnexxxt.com:19806/d130590131f442788e035a405d9e090f
+千禧经典台,mitv://generationnexxxt.com:19806/8695a8b7d5e24fb5b31d3bf1ea8a264d
+ABC Australia,mitv://generationnexxxt.com:19806/65159e6a0003ce6d3e47fc21533740b0
+Eurosport HD,mitv://generationnexxxt.com:19806/65159769000b9a153e2ca23c14c042d2
+Astro SuperSport 5,mitv://generationnexxxt.com:19806/d41f257d25e54a0aa09227bde87eccf5
+Star Vijay,mitv://generationnexxxt.com:19806/797e12d3297144e1a393b57846778d54
+Zee Tamil,mitv://generationnexxxt.com:19806/289039bf3e9a41088eb85329d603dc17
+TVBS亚洲,mitv://generationnexxxt.com:19806/52b66c4260b24e4683a9dac1cbba2d4d
+HITS Movies,mitv://generationnexxxt.com:19806/3378871c64764b95b54499b6bc7f618d
+beIN Sports 2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
+Golf Channel,mitv://generationnexxxt.com:19806/64c9fed20006029d16e0744a41d351cd
 
-凤凰中文台,http://103.112.191.9:880/LAOSAT1068.m3u8
-凤凰中文台,http://103.112.191.9:880/LAOSAT1015.m3u8
-TVB星河,http://103.112.191.9:880/LAOSAT1092.m3u8
-星空卫视,http://103.112.191.9:880/LAOSAT1016.m3u8
-澳门莲花,http://103.112.191.9:880/LAOSAT1069.m3u8
-CGTN,http://103.112.191.9:880/LAOSAT1074.m3u8
-ABCA,http://103.112.191.9:880/LAOSAT1093.m3u8
+🇸🇬Singapore,#genre#
+天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
+中天亚洲台,mitv://generationnexxxt.com:19806/32caa156f6c34c7f96095f49def81bfe
+TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
+天映经典,mitv://generationnexxxt.com:19806/0d801de19d074f69acd76de0967585bf
+KBS World,mitv://generationnexxxt.com:19806/5a2d7593eddb4939bd568c30ad7fb8f5
+CGTN,mitv://generationnexxxt.com:19806/fd57714f6d7844fba72dde1fdc11b902
+BBC World News,mitv://generationnexxxt.com:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
+CNBC,mitv://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
+Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+Boomerang,mitv://generationnexxxt.com:19806/a7d1c6858f5845589fe59fea2e3a61a2
+HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
+beIN Sports 3,mitv://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
+Mediacorp 5,mitv://generationnexxxt.com:19806/7ecf2b27c2554eef87bb4b3603e82a4f
+Mediacorp 8,mitv://generationnexxxt.com:19806/02b0b2bfe7974369b811f418dcd4eddf
+Suria,mitv://generationnexxxt.com:19806/9ea5cf9604c545c88d5a634f5450204b
+Vasantham,mitv://generationnexxxt.com:19806/c59b3a242b644ec2ba2d3398ad14189b
+CNA,mitv://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
+Mediacorp U,mitv://generationnexxxt.com:19806/1c7cdb0005764374ab173154f8418848
+Nat Geo Wild,mitv://generationnexxxt.com:19806/0b98cfecbfe84fbf97566be470554831
+Euronews,mitv://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
+Fight Sports,mitv://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
+GEM,mitv://generationnexxxt.com:19806/76f6e10887894d07bd5b225cc895e2a5
+Fox News,mitv://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
+beIN Sports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
+HGTV居家乐活频道,mitv://generationnexxxt.com:19806/b401ca15c732432a8824ac22523e14f0
+东森亚洲卫视,mitv://generationnexxxt.com:19806/8a43d9cb067b47aaa8fd5f550930be0c
+Thrill,mitv://generationnexxxt.com:19806/036e41fe2d524d7abd93f5f62b642080
+TVBS亚洲,mitv://generationnexxxt.com:19806/52b66c4260b24e4683a9dac1cbba2d4d
+NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
+beIN Sports 2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
 
-明珠台,http://lu1.cc/c/tv/php/gudou.php?id=mzt
+🇯🇵にほん,#genre#
+NHK-G综合,mitv://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
+NHK-E教育,mitv://generationnexxxt.com:19806/797e091247a14ad2a918c9cb2e95cca3
+日本テレビ,mitv://generationnexxxt.com:19806/e83c93ef5c914ed3826fe7856b81acf0
+TBSテレビ,mitv://generationnexxxt.com:19806/9376bfbc1275463dadf7d89cf5eebf6c
+テレビ東京,mitv://generationnexxxt.com:19806/df391d094cf243bda2d71eea2543f6a3
+フジテレビ,mitv://generationnexxxt.com:19806/54dd404db8674941a08958b36acf24a7
+読売テレビ,mitv://generationnexxxt.com:19806/67e4cf369c3041ae9df1aca8b83fecf8
+関西テレビ,mitv://generationnexxxt.com:19806/bfb58a0f01504914883d882ee3082053
+KBS京都,mitv://generationnexxxt.com:19806/729ad31db2414a458905bbadb735bbae
+毎日放送,mitv://generationnexxxt.com:19806/ccac43e2944e468b91bcba848d34c3fd
+朝日放送,mitv://generationnexxxt.com:19806/b9fd3c1349444e5d8e73b51b2fd298f9
+テレビ大阪,mitv://generationnexxxt.com:19806/ad58b2a5a3554960a7cab3825097b6e6
+BS-1,mitv://generationnexxxt.com:19806/bb73b7a100954eb0a941586c172b75da
+BS日テレ,mitv://generationnexxxt.com:19806/15653a24109f412d8c13623fe3d8cbce
+BS朝日,mitv://generationnexxxt.com:19806/823835bf82b648b7b949cd6b10b9465f
+BS-TBS,mitv://generationnexxxt.com:19806/3158a94fbe3c43d0938fdbb5c727e3d7
+BS11,mitv://generationnexxxt.com:19806/a4be116db92743e1ac8dc4d6a86ebed1
+BSフジ,mitv://generationnexxxt.com:19806/ecd5225855164918853748cdf29fa61a
+WOWOWプライム,mitv://generationnexxxt.com:19806/b6120a213ab04f9f830e9435530eb905
+WOWOWライブ,mitv://generationnexxxt.com:19806/ff616330600e438d97cf03101ae7c3a1
+WOWOWシネマ,mitv://generationnexxxt.com:19806/e30a2709ee2c492495621bdd54db7294
+スター・チャンネル1,mitv://generationnexxxt.com:19806/8869813c1bfc46b3ba00e21e2cb35474
+スター・チャンネル2,mitv://generationnexxxt.com:19806/0293a4ec77f745f4be8700e6f3d8830f
+スター・チャンネル3,mitv://generationnexxxt.com:19806/0a8db2b6767948c1b4e1e7b86ac4c658
+BSアニマックス,mitv://generationnexxxt.com:19806/242df12175db458eaa4b56885dfe1ee3
+J Sports 1,mitv://generationnexxxt.com:19806/3bf47ad3b3514230bd24efe7178aee5e
+J Sports 2,mitv://generationnexxxt.com:19806/1dec0300cce54ba5853fd5aadc349595
+J Sports 3,mitv://generationnexxxt.com:19806/1a9fd30d67f8480490d1fe07440658b5
+J Sports 4,mitv://generationnexxxt.com:19806/f7915841f9c04692b3c336849b8ed00c
+BS12,mitv://generationnexxxt.com:19806/9a0e8e3bc32341738cd921467307e93e
+ゴルフネットワークHD,mitv://generationnexxxt.com:19806/df0994ae49fd4d138304ebcd700a9d1c
+時代劇専門チャンネル,mitv://generationnexxxt.com:19806/aaa4c8da4b0f4146a58012b64a9d1c06
+Music Japan TV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
+キッズステーションHD,mitv://generationnexxxt.com:19806/434d7c2079e341609cba49f816c81cf5
+ディスカバリーチャンネル,mitv://generationnexxxt.com:19806/c198ef50712d485d95ebf9c20935cfdb
+ナショナルジオグラフィック,mitv://generationnexxxt.com:19806/415d6f2939a74d34b80a151a959b1733
+日テレNEWS 24,mitv://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
+旅チャンネル,mitv://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
 
-🇲🇾馬來西亞,#genre#
-TV1,mitv://135.148.104.228:19806/6ed0226aee704cb6ba7b0faf1088407f
-TV2,mitv://135.148.104.228:19806/69d668a50a2c4d55bc1adfbdf2f29bf7
-TV3,mitv://135.148.104.228:19806/fa74ead583154a9692291aeb75eb5bb2
-NTV7,mitv://135.148.104.228:19806/e8957c5d3f8845cb939db883be072101
-八度空间,mitv://135.148.104.228:19806/2e2b2c26f8e54bbbb79581b30bb9816e
-TV9,mitv://135.148.104.228:19806/c941b205cbac44c093ccb803f4a3e41a
-Astro Oasis HD,mitv://135.148.104.228:19806/a95390cc70a94c80bbfdd92bbc4242a2
-Astro Warna HD,mitv://135.148.104.228:19806/d1826f8e64ac414e8caeece2d66d5cda
-Astro Citra HD,mitv://135.148.104.228:19806/62384e6e37cc4794a98c563e0632b568
-Al-Hijrah,mitv://135.148.104.228:19806/60bd24b215194e9da92d1351e8fd8d87
-SUN TV,mitv://135.148.104.228:19806/3ed2665a56e145ddb274a80554eb9424
-爱奇艺,mitv://135.148.104.228:19806/5aef0df8fc5b4e56b185158d8833951f
-Astro小太阳,mitv://135.148.104.228:19806/42484e48715c4d92a6b98afa3e640f42
-Astro AEC,mitv://135.148.104.228:19806/cd1cf3c664a44822898e14d8025f2fc1
-Astro双星,mitv://135.148.104.228:19806/7203f95771fc422e91a0b1385d90918b
-天映频道,mitv://135.148.104.228:19806/4b5e8ec28cf24208baa663599d6cc1f5
-翡翠台(华丽台),mitv://135.148.104.228:19806/441f455bd3c04c628bf607b2e35f538e
-Astro AOD HD 311,mitv://135.148.104.228:19806/9050c1d0fefc4576aa6339fc2f338385
-中天亚洲台,mitv://135.148.104.228:19806/0ca9f16b087d4fe8bd97852c47a222b7
-TVB星河(粤),mitv://135.148.104.228:19806/8c81917b79d247f3a60857411973d9a5
-天映经典,mitv://135.148.104.228:19806/c7cf6992ae514b7e9a92164e4cac30e2
-Astro欢喜台,mitv://135.148.104.228:19806/808f3ef554f34e559f91e005ef819803
-KBS World,mitv://135.148.104.228:19806/64c365ec000c405afd1b337051f04b9d
-TVS,mitv://135.148.104.228:19806/fc5a120a8cc0426d8d5c6bd316b8eed7
-tvN Movies HD,mitv://135.148.104.228:19806/e44fe8b971a04543a11e412959693f7a
-Astro Awani,mitv://135.148.104.228:19806/3a1a9a23587140a7bbc5734b00c03f52
-CGTN,mitv://135.148.104.228:19806/ab925b53dccb41ed850b9797e4b8732c
-BBC World News,mitv://135.148.104.228:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
-CNBC,mitv://135.148.104.228:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
-Bloomberg TV,mitv://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
-Astro Ceria,mitv://135.148.104.228:19806/b3f53402401e49ff886522b1ca81179d
-Boomerang,mitv://135.148.104.228:19806/a7d1c6858f5845589fe59fea2e3a61a2
-KIX,mitv://135.148.104.228:19806/3f7be3ad31504c9fa358e3fe583fac0a
-HITS,mitv://135.148.104.228:19806/a65416c2039f4644aeef10da853fb928
-Astro Arena,mitv://135.148.104.228:19806/c046c74b43184a9bac5b0e402944aca5
-Astro SuperSport,mitv://135.148.104.228:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-Astro SuperSport 2,mitv://135.148.104.228:19806/6edae31caab6475cad76175fca389922
-Astro SuperSport 3,mitv://135.148.104.228:19806/5b9b9986c20244908be60c3f18a3e435
-Astro SuperSport 4,mitv://135.148.104.228:19806/c7f1be20958243f68c943016c446501e
-beIN Sports 3,mitv://135.148.104.228:19806/83bd4463c62048dea6aafba5e1a81b23
-WWE,mitv://135.148.104.228:19806/32e0838eeab84b3a96297dcceca27f5a
-Sky News,mitv://135.148.104.228:19806/004e34fc27b949339dc56c7dfc272f76
-八度空间,mitv://135.148.104.228:19806/daa79ab2d5c64092b7868388c9fe3d2d
-Nat Geo Wild,mitv://135.148.104.228:19806/0b98cfecbfe84fbf97566be470554831
-tvN,mitv://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
-Drama Sangat,mitv://135.148.104.228:19806/62fe800319224400936810eafea81f2d
-Berita RTM,mitv://135.148.104.228:19806/d32a93840f444bd28b48f63b86f1a863
-France24,mitv://135.148.104.228:19806/72d5e1665d3e4b729ff9dbd4325e8694
-SPOTV,mitv://135.148.104.228:19806/60ad67b765414b32882a24ce6c63808a
-beIN Sports,mitv://135.148.104.228:19806/eefa5931a750470d8a3267932e36c644
-TVB娱乐新闻台,mitv://135.148.104.228:19806/86fe6741d7da4c59919680e5d9857450
-Astro AEC,mitv://135.148.104.228:19806/42b050d4e8534ad0b1b3ede5b2aab501
-Awesome TV,mitv://135.148.104.228:19806/e19a1abfd23241e8b7c6a2f2bb55283b
-BOO,mitv://135.148.104.228:19806/bae5e94ab17846f09ab44d39ce6b162d
-千禧经典台,mitv://135.148.104.228:19806/82237250e487405d87030dd69457ddd8
-ABC Australia,mitv://135.148.104.228:19806/94fa84e314d745669761bf70b2bac7e5
-Eurosport HD,mitv://135.148.104.228:19806/e76ddd61163e48bf8eda214d7d7ee91c
-Astro SuperSport 5,mitv://135.148.104.228:19806/d41f257d25e54a0aa09227bde87eccf5
-Star Vijay,mitv://135.148.104.228:19806/ea27ce5e4bfa4cb68f563ed400d3fe36
-Zee Tamil,mitv://135.148.104.228:19806/289039bf3e9a41088eb85329d603dc17
-TVBS亚洲,mitv://135.148.104.228:19806/3ee34cdd82744fb39ef758059e7d2704
-Astro AOD 352,mitv://135.148.104.228:19806/44c2369ea99a4be599c77f77d421d12c
-Astro AOD 354,mitv://135.148.104.228:19806/a4ecc595c3894c5bacfe3b7ae937f8c1
-Astro Tutor TV SK,mitv://135.148.104.228:19806/6491b419e7d24800b24e26538504db28
-Astro Tutor TV SPM,mitv://135.148.104.228:19806/f7ec2dd165db439f92d38fedb7bb3b37
-HITS Movies,mitv://135.148.104.228:19806/873a153ee838437fa797e4b3c401d958
-beIN Sports 2,mitv://135.148.104.228:19806/0d857c6ac77d4cd58f0153c47a6804d5
-Golf Channel,mitv://135.148.104.228:19806/64c9fed20006029d16e0744a41d351cd
+🇰🇷한국,#genre#
+Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
+KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
+KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
+KBS Drama,mitv://generationnexxxt.com:19806/10263d570592484e864bf42334ba5a2f
+KBS Joy,mitv://generationnexxxt.com:19806/0a9a842f13284e848e7aa72af382c176
+SBS,mitv://generationnexxxt.com:19806/c8f25b3b0185407792640de06e8781df
+SBS Biz,mitv://generationnexxxt.com:19806/a99ade867d304779a5ac84ab89228575
+JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
+EBS,mitv://generationnexxxt.com:19806/257252e5e0f749beb160af97e36d15d1
+YTN,mitv://generationnexxxt.com:19806/37e575278e574bc9a9fc598c733de125
+Mnet,mitv://generationnexxxt.com:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb
+tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+OCN,mitv://generationnexxxt.com:19806/0fae247ef984444d9149e2c20be2c8b3
+OCN Movies,mitv://generationnexxxt.com:19806/328994e1d61946198d921e2fe2bbc1a0
+TV Chosun,mitv://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e
+MBC,mitv://generationnexxxt.com:19806/36faab63fc2e4983b559a7e8f2002e30
+MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
+Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
+SPOTV,mitv://generationnexxxt.com:19806/d270398d5c9d4358a1fab94773d6b8d1
+JTBC GOLF,mitv://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c
 
-🇸🇬新加坡,#genre#
-天映频道,mitv://135.148.104.228:19806/4b5e8ec28cf24208baa663599d6cc1f5
-中天亚洲台,mitv://135.148.104.228:19806/0ca9f16b087d4fe8bd97852c47a222b7
-TVB星河(粤),mitv://135.148.104.228:19806/8c81917b79d247f3a60857411973d9a5
-天映经典,mitv://135.148.104.228:19806/c7cf6992ae514b7e9a92164e4cac30e2
-KBS World,mitv://135.148.104.228:19806/64c365ec000c405afd1b337051f04b9d
-CGTN,mitv://135.148.104.228:19806/ab925b53dccb41ed850b9797e4b8732c
-BBC World News,mitv://135.148.104.228:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
-CNBC,mitv://135.148.104.228:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
-Bloomberg TV,mitv://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
-Boomerang,mitv://135.148.104.228:19806/a7d1c6858f5845589fe59fea2e3a61a2
-HITS,mitv://135.148.104.228:19806/a65416c2039f4644aeef10da853fb928
-beIN Sports 3,mitv://135.148.104.228:19806/83bd4463c62048dea6aafba5e1a81b23
-Mediacorp 5,mitv://135.148.104.228:19806/7ecf2b27c2554eef87bb4b3603e82a4f
-Mediacorp 8,mitv://135.148.104.228:19806/02b0b2bfe7974369b811f418dcd4eddf
-Suria,mitv://135.148.104.228:19806/9ea5cf9604c545c88d5a634f5450204b
-Vasantham,mitv://135.148.104.228:19806/c59b3a242b644ec2ba2d3398ad14189b
-CNA,mitv://135.148.104.228:19806/52b67f21b37b4764a87c33dd46844fdb
-Mediacorp U,mitv://135.148.104.228:19806/1c7cdb0005764374ab173154f8418848
-Nat Geo Wild,mitv://135.148.104.228:19806/0b98cfecbfe84fbf97566be470554831
-Euronews,mitv://135.148.104.228:19806/5b3289dff2154e2c8e166cc3f081f326
-Fight Sports,mitv://135.148.104.228:19806/7375a5f151c047b294a8e8c6ddad178d
-GEM,mitv://135.148.104.228:19806/76f6e10887894d07bd5b225cc895e2a5
-Fox News,mitv://135.148.104.228:19806/e9305a82b75c42f5901c0594e063e999
-beIN Sports,mitv://135.148.104.228:19806/eefa5931a750470d8a3267932e36c644
-HGTV居家乐活频道,mitv://135.148.104.228:19806/009c5eeef628443d9e18f89f0712db58
-东森亚洲卫视,mitv://135.148.104.228:19806/8a43d9cb067b47aaa8fd5f550930be0c
-Thrill,mitv://135.148.104.228:19806/9b9e791106d14b60a3444a17301ade7e
-TVBS亚洲,mitv://135.148.104.228:19806/3ee34cdd82744fb39ef758059e7d2704
-NBA,mitv://135.148.104.228:19806/6fcac440f84e4d6b8a6ebeed5d393dba
-beIN Sports 2,mitv://135.148.104.228:19806/0d857c6ac77d4cd58f0153c47a6804d5
+🇹🇭ประเทศไทย,#genre#
+Channel 5,mitv://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
+NBT,mitv://generationnexxxt.com:19806/4977f52edbae4d41b28fa28fb4bb8eb7
+TNN 16,mitv://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
+JKN 18,mitv://generationnexxxt.com:19806/5fa4254f665e421688ac293bd1dd1d59
+Voice TV,mitv://generationnexxxt.com:19806/565ee6db091d4f5eb249d8cfd88ff392
+Nation TV,mitv://generationnexxxt.com:19806/9006192061234d3abc002c9df98617a3
+Workpoint TV,mitv://generationnexxxt.com:19806/e3dcbf98790f47a6ae10aa0e6b92d3a3
+true4U,mitv://generationnexxxt.com:19806/70d07d9bf1594d1aafa109803f097fd5
+GMM 25,mitv://generationnexxxt.com:19806/7202eeef804f4338bcd118210a39a66b
+Channel 8,mitv://generationnexxxt.com:19806/3564da7fb0ea488cba5f0179145e0394
+Mono 29,mitv://generationnexxxt.com:19806/a8da70ef841f4aa29be21f4123b1e0a6
+MCOT,mitv://generationnexxxt.com:19806/84419b9f1d144bd687913e3739c10011
+ONE,mitv://generationnexxxt.com:19806/bbed53ec33024bafae4696ba4d589e2c
+Thairath TV,mitv://generationnexxxt.com:19806/c1db5ee1e01048bc9f7319cda9a530c6
+Channel 3,mitv://generationnexxxt.com:19806/9f2ed619044e4208b64ba52f7a8c0a80
+Amarin TV,mitv://generationnexxxt.com:19806/74f013c77d3b43bf875702f7177dba68
+Channel 7,mitv://generationnexxxt.com:19806/377bbd391f744a86a07d3d46e28db730
+PPTV,mitv://generationnexxxt.com:19806/46ff90c62cbb4bdfbccd3033a9268dcb
+Boomerang,mitv://generationnexxxt.com:19806/98ded4efebe2480fa7538e6bec832b7a
+Thai Parliament TV,mitv://generationnexxxt.com:19806/139a4607a0d24095a17ff2745cb2141d
+Thai PBS,mitv://generationnexxxt.com:19806/aeb8c0b2981e4f0fb69383eea64f5deb
+News 1,mitv://generationnexxxt.com:19806/4d7a0f009ed44250b371cf1a3b10c4b3
+Channel 4050,mitv://generationnexxxt.com:19806/03f62b6c560745a69e3580aaa3a32294
+TVB Thai,mitv://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
+Bluesky,mitv://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
+Top News,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
 
-🇯🇵日本,#genre#
-NHK-G综合,mitv://135.148.104.228:19806/810050ee3b224cffbff84c07e53c499a
-NHK-E教育,mitv://135.148.104.228:19806/797e091247a14ad2a918c9cb2e95cca3
-日本テレビ,mitv://135.148.104.228:19806/e83c93ef5c914ed3826fe7856b81acf0
-TBSテレビ,mitv://135.148.104.228:19806/9376bfbc1275463dadf7d89cf5eebf6c
-テレビ东京,mitv://135.148.104.228:19806/df391d094cf243bda2d71eea2543f6a3
-フジテレビ,mitv://135.148.104.228:19806/54dd404db8674941a08958b36acf24a7
-読売テレビ,mitv://135.148.104.228:19806/67e4cf369c3041ae9df1aca8b83fecf8
-関西テレビ,mitv://135.148.104.228:19806/bfb58a0f01504914883d882ee3082053
-KBS京都,mitv://135.148.104.228:19806/729ad31db2414a458905bbadb735bbae
-毎日放送,mitv://135.148.104.228:19806/ccac43e2944e468b91bcba848d34c3fd
-朝日放送,mitv://135.148.104.228:19806/b9fd3c1349444e5d8e73b51b2fd298f9
-テレビ大阪,mitv://135.148.104.228:19806/ad58b2a5a3554960a7cab3825097b6e6
-BS-1,mitv://135.148.104.228:19806/bb73b7a100954eb0a941586c172b75da
-BS日テレ,mitv://135.148.104.228:19806/15653a24109f412d8c13623fe3d8cbce
-BS朝日,mitv://135.148.104.228:19806/823835bf82b648b7b949cd6b10b9465f
-BS-TBS,mitv://135.148.104.228:19806/3158a94fbe3c43d0938fdbb5c727e3d7
-BS11,mitv://135.148.104.228:19806/a4be116db92743e1ac8dc4d6a86ebed1
-BSフジ,mitv://135.148.104.228:19806/ecd5225855164918853748cdf29fa61a
-WOWOWプライム,mitv://135.148.104.228:19806/b6120a213ab04f9f830e9435530eb905
-WOWOWライブ,mitv://135.148.104.228:19806/ff616330600e438d97cf03101ae7c3a1
-WOWOWシネマ,mitv://135.148.104.228:19806/e30a2709ee2c492495621bdd54db7294
-スター・チャンネル1,mitv://135.148.104.228:19806/8869813c1bfc46b3ba00e21e2cb35474
-スター・チャンネル2,mitv://135.148.104.228:19806/0293a4ec77f745f4be8700e6f3d8830f
-スター・チャンネル3,mitv://135.148.104.228:19806/0a8db2b6767948c1b4e1e7b86ac4c658
-BSアニマックス,mitv://135.148.104.228:19806/242df12175db458eaa4b56885dfe1ee3
-J Sports 1,mitv://135.148.104.228:19806/3bf47ad3b3514230bd24efe7178aee5e
-J Sports 2,mitv://135.148.104.228:19806/1dec0300cce54ba5853fd5aadc349595
-J Sports 3,mitv://135.148.104.228:19806/1a9fd30d67f8480490d1fe07440658b5
-J Sports 4,mitv://135.148.104.228:19806/f7915841f9c04692b3c336849b8ed00c
-BS12,mitv://135.148.104.228:19806/9a0e8e3bc32341738cd921467307e93e
-ゴルフネットワークHD,mitv://135.148.104.228:19806/df0994ae49fd4d138304ebcd700a9d1c
-时代剧専门チャンネル,mitv://135.148.104.228:19806/aaa4c8da4b0f4146a58012b64a9d1c06
-Music Japan TV,mitv://135.148.104.228:19806/7bbfd7a0233d4861943f8488dc21e075
-キッズステーションHD,mitv://135.148.104.228:19806/434d7c2079e341609cba49f816c81cf5
-ディスカバリーチャンネル,mitv://135.148.104.228:19806/c198ef50712d485d95ebf9c20935cfdb
-ナショナルジオグラフィック,mitv://135.148.104.228:19806/415d6f2939a74d34b80a151a959b1733
-日テレNEWS 24,mitv://135.148.104.228:19806/c7154b60dd934b43a1e42a0fc1b38734
-旅チャンネル,mitv://135.148.104.228:19806/bab71e3fb519479ea64543d006b8089f
-
-🇰🇷韓國,#genre#
-Arirang,mitv://135.148.104.228:19806/853704c2f9a442e7a1532038f14d8d00
-KBS1,mitv://135.148.104.228:19806/28676e413f2a477ababeae97e87ef855
-KBS2,mitv://135.148.104.228:19806/fa378d3829f643d2a87c4c754bbae507
-KBS Drama,mitv://135.148.104.228:19806/10263d570592484e864bf42334ba5a2f
-KBS Joy,mitv://135.148.104.228:19806/0a9a842f13284e848e7aa72af382c176
-SBS,mitv://135.148.104.228:19806/c8f25b3b0185407792640de06e8781df
-SBS Biz,mitv://135.148.104.228:19806/a99ade867d304779a5ac84ab89228575
-JTBC,mitv://135.148.104.228:19806/4e234cda667b42a8bc3081db3b08bfce
-EBS,mitv://135.148.104.228:19806/257252e5e0f749beb160af97e36d15d1
-YTN,mitv://135.148.104.228:19806/37e575278e574bc9a9fc598c733de125
-Mnet,mitv://135.148.104.228:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb
-tvN,mitv://135.148.104.228:19806/5653c9fb655842ee99b4590ff903efe7
-OCN,mitv://135.148.104.228:19806/0fae247ef984444d9149e2c20be2c8b3
-OCN Movies,mitv://135.148.104.228:19806/328994e1d61946198d921e2fe2bbc1a0
-TV Chosun,mitv://135.148.104.228:19806/f2bbdada428d45c298a039f3bdf0f12e
-MBC,mitv://135.148.104.228:19806/36faab63fc2e4983b559a7e8f2002e30
-MBN,mitv://135.148.104.228:19806/09dbf5da37f9450c9bca9c7dabadf2bd
-Tooniverse,mitv://135.148.104.228:19806/3c1da427c435451fa526abe4d1c5d446
-SPOTV,mitv://135.148.104.228:19806/d270398d5c9d4358a1fab94773d6b8d1
-JTBC GOLF,mitv://135.148.104.228:19806/7c397fb18c154c5f91e41a48fd3ab95c
-
-🇹🇭泰國,#genre#
-Channel 3,http://103.112.191.9:880/LAOSAT1045.m3u8
-Channel 5,http://103.112.191.9:880/LAOSAT1055.m3u8
-Channel 7,http://103.112.191.9:880/LAOSAT1046.m3u8
-Channel 9,http://103.112.191.9:880/LAOSAT1047.m3u8
-ONE,http://103.112.191.9:880/LAOSAT1048.m3u8
-Workpoint TV,http://103.112.191.9:880/LAOSAT1050.m3u8
-GMM 25,http://103.112.191.9:880/LAOSAT1049.m3u8
-Mono 29,http://103.112.191.9:880/LAOSAT1051.m3u8
-True 4U,http://103.112.191.9:880/LAOSAT1002.m3u8
-Thai Parliament TV,http://103.112.191.9:880/LAOSAT1004.m3u8
-Thai PBS,http://103.112.191.9:880/LAOSAT1056.m3u8
-Thairath TV,http://103.112.191.9:880/LAOSAT1023.m3u8
-Amarin TV,http://103.112.191.9:880/LAOSAT1035.m3u8
-TNN 2,http://103.112.191.9:880/LAOSAT1019.m3u8
-TNN 16,http://103.112.191.9:880/LAOSAT1022.m3u8
-JKN 18,http://103.112.191.9:880/LAOSAT1003.m3u8
-News 1,http://103.112.191.9:880/LAOSAT1024.m3u8
-
-🇱🇦寮國,#genre#
+🇱🇦ປະເທດລາວ,#genre#
 LNVT 1,http://103.112.191.9:880/LAOSAT1038.m3u8
 LNTV 3,http://103.112.191.9:880/LAOSAT1039.m3u8
 LAO PSTV,http://103.112.191.9:880/LAOSAT1040.m3u8
@@ -850,31 +457,31 @@ Vientiane ,http://103.112.191.9:880/LAOSAT1043.m3u8
 LAOSAT TV,http://103.112.191.9:880/LAOSAT1044.m3u8
 Lao ESTV,http://103.112.191.9:880/LAOSAT1042.m3u8
 
-🇺🇸北美,#genre#
-CNBC,mitv://135.148.104.228:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
-Bloomberg TV,mitv://135.148.104.228:19806/885bb543b9cb4bbeb5bcfe518fb90780
-ESPN,mitv://135.148.104.228:19806/2436baa9e481444fa785298d5931bdba
-600TV,mitv://135.148.104.228:19806/64c36a1900089f29fd2b824d6b4b65c1
-CBSN,mitv://135.148.104.228:19806/697a642115f74499aafe783d34690381
-Fox News,mitv://135.148.104.228:19806/e9305a82b75c42f5901c0594e063e999
-NBA,mitv://135.148.104.228:19806/6fcac440f84e4d6b8a6ebeed5d393dba
-新时代1(西部),mitv://135.148.104.228:19806/a3d06a9ecf30410582ad64ed15cdf6fd
-新时代2,mitv://135.148.104.228:19806/9bec2c434de742be96f4dcaeb6eb7c8f
-新时代1(东部),mitv://135.148.104.228:19806/28d014f7982c4041ab7197218b9c1284
-城市电视,mitv://135.148.104.228:19806/a18fbea7eddd4079b3e2e684d19df5c4
-Fox News,mitv://135.148.104.228:19806/5cdbb62f542843da8d140520a0a966bc
-BBC World News,mitv://135.148.104.228:19806/416eca57b45148398865fc4dabf40b72
-CNN USA,mitv://135.148.104.228:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
-CBC News,mitv://135.148.104.228:19806/7fbe49af6e5a4041ad124362351e4b20
-MSNBC,mitv://135.148.104.228:19806/27c4d56058c44a4e9c41a98a99a7bc13
-CTV News,mitv://135.148.104.228:19806/c48d5139ac954dbaa49a8b0e23af6e16
-Business News Network,mitv://135.148.104.228:19806/dc5be6cec9ba4284900e5670cbcae0bb
-CP24,mitv://135.148.104.228:19806/6186394bd1ff4b8b9757d542a9ca2e4b
-The Weather Network,mitv://135.148.104.228:19806/c556ed82dcc2453dabd398273651d952
-The Weather Channel,mitv://135.148.104.228:19806/499917ffa94444328d65744d929c1eb3
-KOMO 4 TV,mitv://135.148.104.228:19806/d09839dc0ae84712bb24938c634626fe
+🇺🇸US&CA,#genre#
+CNBC,mitv://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
+Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
+600TV,mitv://generationnexxxt.com:19806/64c36a1900089f29fd2b824d6b4b65c1
+CBSN,mitv://generationnexxxt.com:19806/697a642115f74499aafe783d34690381
+Fox News,mitv://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
+NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
+新时代1(西部),mitv://generationnexxxt.com:19806/a3d06a9ecf30410582ad64ed15cdf6fd
+新时代2,mitv://generationnexxxt.com:19806/65013e4c0002afeaeeb07d8a59ff6121
+新时代1(东部),mitv://generationnexxxt.com:19806/28d014f7982c4041ab7197218b9c1284
+城市电视,mitv://generationnexxxt.com:19806/a18fbea7eddd4079b3e2e684d19df5c4
+Fox News,mitv://generationnexxxt.com:19806/5cdbb62f542843da8d140520a0a966bc
+BBC World News,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
+CNN USA,mitv://generationnexxxt.com:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
+CBC News,mitv://generationnexxxt.com:19806/7fbe49af6e5a4041ad124362351e4b20
+MSNBC,mitv://generationnexxxt.com:19806/27c4d56058c44a4e9c41a98a99a7bc13
+CTV News,mitv://generationnexxxt.com:19806/c48d5139ac954dbaa49a8b0e23af6e16
+Business News Network,mitv://generationnexxxt.com:19806/dc5be6cec9ba4284900e5670cbcae0bb
+CP24,mitv://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
+The Weather Network,mitv://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
+The Weather Channel,mitv://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
+KOMO 4 TV,mitv://generationnexxxt.com:19806/fab26bb6a6f942f2bf0b415dd9970c67
 
-🇧🇷巴西,#genre#
+🇧🇷Brasil,#genre#
 TV Globo,http://45.58.126.146:14008
 TV Globo,http://45.58.126.146:14011
 TV Globo,http://45.58.126.146:14014
@@ -961,610 +568,325 @@ Combat! ,http://45.58.126.146:14668
 BBB,http://45.58.126.146:14710
 Futebol ,http://45.58.126.146:14714
 
-⛷哈爾濱,#genre#
-哈尔滨新闻,http://stream.hrbtv.net/xwzh/sd/live.m3u8
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
-哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
+⛄️黑龙江,#genre#
+黑龙江卫视,http://120.8.135.86:10010/hls/29/index.m3u8
+黑龙江卫视,http://justatest.f3322.net:808/hls/19/index.m3u8
+黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8?zheild
+黑龙江文体,http://39.134.65.145/PLTV/88888888/224/3221226012/1.m3u8?zheild
+黑龙江文体,http://39.134.65.151/PLTV/88888888/224/3221225965/1.m3u8?zheild
+黑龙江新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8?zheild
+黑龙江新闻法治,http://39.134.65.149/PLTV/88888888/224/3221225992/1.m3u8?zheild
+黑龙江新闻法治,http://39.134.65.151/PLTV/88888888/224/3221225992/1.m3u8?zheild
+黑龙江公共农业,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8?zheild
+黑龙江公共农业,http://39.134.65.147/PLTV/88888888/224/3221225998/1.m3u8?zheild
+黑龙江公共农业,http://39.134.65.151/PLTV/88888888/224/3221225998/1.m3u8?zheild
+黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
+黑龙江影视,http://39.134.65.145/PLTV/88888888/224/3221225971/1.m3u8?zheild
+黑龙江影视,http://39.134.65.151/PLTV/88888888/224/3221225971/1.m3u8?zheild
+黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8?zheild
+黑龙江都市,http://39.134.65.145/PLTV/88888888/224/3221225990/1.m3u8?zheild
+黑龙江都市,http://39.134.65.151/PLTV/88888888/224/3221225990/1.m3u8?zheild
+黑龙江少儿,http://39.134.65.151/PLTV/88888888/224/3221226002/1.m3u8?zheild
+黑龙江少儿,http://39.134.65.145/PLTV/88888888/224/3221226002/1.m3u8?zheild
+哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
+哈尔滨新闻综合,http://39.134.65.151/PLTV/88888888/224/3221225684/1.m3u8?zheild
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
+哈尔滨影视,http://39.134.65.151/PLTV/88888888/224/3221225700/1.m3u8?zheild
+哈尔滨影视,http://39.134.65.149/PLTV/88888888/224/3221225700/1.m3u8?zheild
+哈尔滨资讯,http://39.134.65.149/PLTV/88888888/224/3221225697/1.m3u8?zheild
+哈尔滨资讯,http://39.134.65.151/PLTV/88888888/224/3221225697/1.m3u8?zheild
+哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+哈尔滨生活,http://39.134.65.151/PLTV/88888888/224/3221225698/1.m3u8?zheild
+哈尔滨生活,http://39.134.65.149/PLTV/88888888/224/3221225698/1.m3u8?zheild
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
+哈尔滨娱乐,http://39.134.65.151/PLTV/88888888/224/3221225699/1.m3u8
+哈尔滨娱乐,http://39.134.65.149/PLTV/88888888/224/3221225699/1.m3u8?zheild
+大庆新闻综合,http://39.134.65.151/PLTV/88888888/224/3221225736/1.m3u8?zheild
+大庆新闻综合,http://39.134.65.149/PLTV/88888888/224/3221225736/1.m3u8?zheild
+大庆公共,http://39.134.65.149/PLTV/88888888/224/3221225734/1.m3u8?zheild
+大庆公共,http://39.134.65.151/PLTV/88888888/224/3221225734/1.m3u8?zheild
+伊春综合,http://live.yichuntv.com/e5d7b4b95cf849d79fa3964431dca1f3/h264_800k_ts/index.m3u8?type=flv2hls_m3u8?zheild
+伊春综合,http://live.yichuntv.com/live/e5d7b4b95cf849d79fa3964431dca1f3?fmt=h264_800k_flv;{User-Agent@0151?zheild}
+伊春公共,http://live.yichuntv.com/1501fae792774811b2cd1366a078e666/h264_800k_ts/index.m3u8?type=flv2hls_m3u8?zheild
+伊春公共,http://live.yichuntv.com/live/1501fae792774811b2cd1366a078e666?fmt=h264_800k_flv;{User-Agent@0151?zheild}
+鹤岗新闻综合,http://39.134.65.149/PLTV/88888888/224/3221225785/1.m3u8?zheild
+鹤岗新闻综合,http://39.134.65.151/PLTV/88888888/224/3221225785/1.m3u8?zheild
+鹤岗新闻综合,http://39.134.65.141/PLTV/88888888/224/3221225785/1.m3u8?zheild
+鹤岗新闻综合,http://39.134.65.145/PLTV/88888888/224/3221225785/1.m3u8?zheild
+鹤岗新闻综合,http://39.134.65.143/PLTV/88888888/224/3221225785/1.m3u8?zheild
+鹤岗新闻综合,rtmp://218.10.43.24/live/157ba509813644ea400e7c552b934d93_high;{User-Agent@0151?zheild}
+鹤岗公共频道,http://39.134.65.151/PLTV/88888888/224/3221225787/1.m3u8?zheild
+鹤岗公共频道,http://39.134.65.149/PLTV/88888888/224/3221225787/1.m3u8?zheild
+鹤岗公共频道,http://39.134.65.145/PLTV/88888888/224/3221225787/1.m3u8?zheild
+七台河新闻综合,http://39.134.65.149/PLTV/88888888/224/3221225783/1.m3u8?zheild
+七台河新闻综合,http://39.134.65.151/PLTV/88888888/224/3221225783/1.m3u8?zheild
+七台河公共,http://39.134.65.149/PLTV/88888888/224/3221225800/1.m3u8?zheild
+佳木斯新闻综合,http://39.134.65.151/PLTV/88888888/224/3221225993/1.m3u8?zheild
+佳木斯新闻综合,http://39.134.65.149/PLTV/88888888/224/3221225993/1.m3u8?zheild
+尚志新闻综合,http://m3.tplay.mlink.tv/mlmlink/90290726.m3u8?zheild
+尚志新闻综合,rtmp://m3.tplay.mlink.tv/mlmlink/90290726;{User-Agent@0151?zheild}
+萝北综合,http://juyunlive.juyun.tv/live/65887157.m3u8?zheild
+富裕综合,http://221.209.44.174:1980/hls/1001.m3u8?zheild
+甘南县综合,http://player.juyun.tv/camera/65362146.m3u8?zheild
+七台河矿区电视台,http://p4.weizan.cn/1275348489/398654743195260966/live.m3u8?zheild
 
 📽电影,#genre#
-星爷,http://sss.iptv8.top/live/huya.php?id=11342412
-英叔,http://sss.iptv8.top/live/huya.php?id=11342421
-发哥,http://sss.iptv8.top/live/huya.php?id=11342387
-成龙,http://sss.iptv8.top/live/huya.php?id=11342386
-王晶,http://sss.iptv8.top/live/huya.php?id=11602058
-沈腾,http://sss.iptv8.top/live/huya.php?id=11601968
-黄渤,http://sss.iptv8.top/live/huya.php?id=11352876
-强森,http://sss.iptv8.top/live/huya.php?id=21059581
-漫威,http://sss.iptv8.top/live/huya.php?id=11602034
-宇宙,http://sss.iptv8.top/live/huya.php?id=11342428
-怪兽,http://sss.iptv8.top/live/huya.php?id=21059577
-武侠,http://sss.iptv8.top/live/huya.php?id=11342427
-警匪,http://sss.iptv8.top/live/huya.php?id=11352886
-罪犯,http://sss.iptv8.top/live/huya.php?id=11352962
-枪战,http://sss.iptv8.top/live/huya.php?id=21059579
-海盗,http://sss.iptv8.top/live/huya.php?id=21059595
-赛车,http://sss.iptv8.top/live/huya.php?id=11279247
-推荐,http://sss.iptv8.top/live/huya.php?id=11602041
-救援,http://sss.iptv8.top/live/huya.php?id=21059594
-热血,http://sss.iptv8.top/live/huya.php?id=11352934
-盗墓,http://sss.iptv8.top/live/huya.php?id=21059552
-贺岁,http://sss.iptv8.top/live/huya.php?id=11601971
-玄幻,http://sss.iptv8.top/live/huya.php?id=11342414
-谍战,http://sss.iptv8.top/live/huya.php?id=21059585
-战争,http://sss.iptv8.top/live/huya.php?id=21059592
-喜剧,http://sss.iptv8.top/live/huya.php?id=11352877
-港片,http://sss.iptv8.top/live/huya.php?id=11602043
-国产,http://sss.iptv8.top/live/huya.php?id=11352973
-周星星,http://sss.iptv8.top/live/huya.php?id=11336587
-李连杰,http://sss.iptv8.top/live/huya.php?id=11342390
-洪金宝,http://sss.iptv8.top/live/huya.php?id=11279251
-梁家辉,http://sss.iptv8.top/live/huya.php?id=11342429
-许冠英,http://sss.iptv8.top/live/huya.php?id=11601972
-刘德华,http://sss.iptv8.top/live/huya.php?id=11342424
-斯坦森,http://sss.iptv8.top/live/huya.php?id=21059588
-小鬼头,http://sss.iptv8.top/live/huya.php?id=11352963
-八点档,http://sss.iptv8.top/live/huya.php?id=880261
-蜘蛛侠,http://sss.iptv8.top/live/huya.php?id=21059599
-贺岁片,http://sss.iptv8.top/live/huya.php?id=11601986
-功夫片,http://sss.iptv8.top/live/huya.php?id=11352941
-黑帮片,http://sss.iptv8.top/live/huya.php?id=11336719
-丧尸片,http://sss.iptv8.top/live/huya.php?id=21059578
-灾难片,http://sss.iptv8.top/live/huya.php?id=11602075
-谍战片,http://sss.iptv8.top/live/huya.php?id=21059587
-战争片,http://sss.iptv8.top/live/huya.php?id=21059574
-犯罪片,http://sss.iptv8.top/live/huya.php?id=11352974
-古装片,http://sss.iptv8.top/live/huya.php?id=11336590
-高分动作,http://sss.iptv8.top/live/huya.php?id=11352884
-动作电影,http://sss.iptv8.top/live/huya.php?id=11602077
-搞笑喜剧,http://sss.iptv8.top/live/huya.php?id=11342423
-喜剧专场,http://sss.iptv8.top/live/huya.php?id=11602044
-欢笑影院,http://sss.iptv8.top/live/huya.php?id=11352894
-不挤影院,http://sss.iptv8.top/live/huya.php?id=11352897
-国产悬疑,http://sss.iptv8.top/live/huya.php?id=11342395
-快意江湖,http://sss.iptv8.top/live/huya.php?id=11342435
-黑帮斗争,http://sss.iptv8.top/live/huya.php?id=11342419
-古墓系列,http://sss.iptv8.top/live/huya.php?id=11352913
-嫣然影厅,http://sss.iptv8.top/live/huya.php?id=11601977
-女神系列,http://sss.iptv8.top/live/huya.php?id=11336571
-经典女神,http://sss.iptv8.top/live/huya.php?id=11352909
-许氏三杰,http://sss.iptv8.top/live/huya.php?id=11602033
-经典港片,http://sss.iptv8.top/live/huya.php?id=11352965
-镖行天下,http://sss.iptv8.top/live/huya.php?id=11352969
-高能反转,http://sss.iptv8.top/live/huya.php?id=11352887
-喜乐影院,http://sss.iptv8.top/live/huya.php?id=21059580
-蘑菇影厅,http://sss.iptv8.top/live/huya.php?id=11601981
-搞笑恐怖,http://sss.iptv8.top/live/huya.php?id=11601960
-死神来了,http://sss.iptv8.top/live/huya.php?id=11352903
-变形金刚,http://sss.iptv8.top/live/huya.php?id=21059596
-怪兽系列,http://sss.iptv8.top/live/huya.php?id=21059554
-周星驰影院,http://jh.d7g.cn/mg.php?id=zxcyy
-刘德华影院,http://jh.d7g.cn/mg.php?id=ldhyy
-经典贺岁片,http://jh.d7g.cn/mg.php?id=jdhsp
-古天乐影院,http://jh.d7g.cn/mg.php?id=gtlyy
-刘亦菲影视,http://jh.d7g.cn/mg.php?id=lyfys
-古力娜扎影视,http://jh.d7g.cn/mg.php?id=glnz
-金庸频道,http://jh.d7g.cn/mg.php?id=jypd
-古龙作品集,http://jh.d7g.cn/mg.php?id=glzpj
-郭富城影院,http://jh.d7g.cn/mg.php?id=gfcyy
-张国荣影院,http://jh.d7g.cn/mg.php?id=zgryy
-林正英剧场,http://jh.d7g.cn/mg.php?id=lzyjc
-周润发影院,http://jh.d7g.cn/mg.php?id=zrf
+成龙,http://8.210.232.168/php/huya.php?id=11342386
+李连杰,http://8.210.232.168/php/huya.php?id=11342390
+星爷,http://8.210.232.168/php/huya.php?id=11342412
+星爷2,http://8.210.232.168/php/huya.php?id=11336587
+英叔,http://8.210.232.168/php/huya.php?id=11342421
+英叔2,http://8.210.232.168/php/huya.php?id=25256065
+发哥,http://8.210.232.168/php/huya.php?id=11342387
+洪金宝,http://8.210.232.168/php/huya.php?id=11279251
+梁家辉,http://8.210.232.168/php/huya.php?id=11342429
+许冠英,http://8.210.232.168/php/huya.php?id=11601972
+刘德华,http://8.210.232.168/php/huya.php?id=11342424
+甄子丹,http://8.210.232.168/php/huya.php?id=11352935
+王晶,http://8.210.232.168/php/huya.php?id=11602058
+沈腾,http://8.210.232.168/php/huya.php?id=11601968
+黄渤,http://8.210.232.168/php/huya.php?id=11352876
+强森,http://8.210.232.168/php/huya.php?id=21059581
+斯坦森,http://8.210.232.168/php/huya.php?id=21059588
+漫威,http://8.210.232.168/php/huya.php?id=11602034
+宇宙,http://8.210.232.168/php/huya.php?id=11342428
+怪兽,http://8.210.232.168/php/huya.php?id=21059577
+武侠,http://8.210.232.168/php/huya.php?id=11342427
+警匪,http://8.210.232.168/php/huya.php?id=11352886
+犯罪,http://8.210.232.168/php/huya.php?id=11352962
+枪战,http://8.210.232.168/php/huya.php?id=21059579
+海盗,http://8.210.232.168/php/huya.php?id=21059595
+赛车,http://8.210.232.168/php/huya.php?id=11279247
+推荐,http://8.210.232.168/php/huya.php?id=11602041
+救援,http://8.210.232.168/php/huya.php?id=21059594
+热血,http://8.210.232.168/php/huya.php?id=11352934
+盗墓,http://8.210.232.168/php/huya.php?id=21059552
+贺岁,http://8.210.232.168/php/huya.php?id=11601971
+玄幻,http://8.210.232.168/php/huya.php?id=11342414
+谍战,http://8.210.232.168/php/huya.php?id=21059585
+战争,http://8.210.232.168/php/huya.php?id=21059592
+喜剧,http://8.210.232.168/php/huya.php?id=11352877
+徐峥,http://8.210.232.168/php/huya.php?id=11602043
+国产,http://8.210.232.168/php/huya.php?id=11352973
+赌片,http://8.210.232.168/php/huya.php?id=618917
+小鬼头,http://8.210.232.168/php/huya.php?id=11352963
+八点档,http://8.210.232.168/php/huya.php?id=880261
+蜘蛛侠,http://8.210.232.168/php/huya.php?id=21059599
+贺岁片,http://8.210.232.168/php/huya.php?id=11601986
+功夫片,http://8.210.232.168/php/huya.php?id=11352941
+黑帮片,http://8.210.232.168/php/huya.php?id=11336719
+丧尸片,http://8.210.232.168/php/huya.php?id=21059578
+灾难片,http://8.210.232.168/php/huya.php?id=11602075
+谍战片,http://8.210.232.168/php/huya.php?id=21059587
+战争片,http://8.210.232.168/php/huya.php?id=21059574
+犯罪片,http://8.210.232.168/php/huya.php?id=11352974
+古装片,http://8.210.232.168/php/huya.php?id=11336590
+高分动作,http://8.210.232.168/php/huya.php?id=11352884
+动作电影,http://8.210.232.168/php/huya.php?id=11602077
+搞笑喜剧,http://8.210.232.168/php/huya.php?id=11342423
+喜剧专场,http://8.210.232.168/php/huya.php?id=11602044
+欢笑影院,http://8.210.232.168/php/huya.php?id=11352894
+不挤影院,http://8.210.232.168/php/huya.php?id=11352897
+国产悬疑,http://8.210.232.168/php/huya.php?id=11342395
+快意江湖,http://8.210.232.168/php/huya.php?id=11342435
+经典动作,http://8.210.232.168/php/huya.php?id=26182091
+黑帮斗争,http://8.210.232.168/php/huya.php?id=11342419
+古墓系列,http://8.210.232.168/php/huya.php?id=11352913
+嫣然影厅,http://8.210.232.168/php/huya.php?id=11601977
+女神系列,http://8.210.232.168/php/huya.php?id=11336571
+经典女神,http://8.210.232.168/php/huya.php?id=11352909
+许氏三杰,http://8.210.232.168/php/huya.php?id=11602033
+经典港片,http://8.210.232.168/php/huya.php?id=11352965
+镖行天下,http://8.210.232.168/php/huya.php?id=11352969
+高能反转,http://8.210.232.168/php/huya.php?id=11352887
+喜乐影院,http://8.210.232.168/php/huya.php?id=21059580
+蘑菇影厅,http://8.210.232.168/php/huya.php?id=11601981
+搞笑恐怖,http://8.210.232.168/php/huya.php?id=11601960
+死神来了,http://8.210.232.168/php/huya.php?id=11352903
+变形金刚,http://8.210.232.168/php/huya.php?id=21059596
+怪兽系列,http://8.210.232.168/php/huya.php?id=21059554
 
-📺剧场,#genre#
-金庸经典剧,https://epg.112114.xyz/huya/11602082
-庆余年,https://epg.112114.xyz/huya/11352960
-陈翔六点半,https://epg.112114.xyz/huya/11274154
-地下交通站,https://epg.112114.xyz/huya/11342433
-爱情公寓,https://epg.112114.xyz/huya/11336726
-倚天屠龙记,https://epg.112114.xyz/huya/11342403
-让子弹飞,https://epg.112114.xyz/huya/11259843
-家有儿女,https://epg.112114.xyz/huya/11352872
-最佳搭档,https://epg.112114.xyz/huya/11342397
-路飞,https://epg.112114.xyz/huya/16913382
-雍正王朝,https://epg.112114.xyz/huya/11342439
-神探狄仁杰,https://epg.112114.xyz/huya/11352958
-秀才遇到兵,https://epg.112114.xyz/huya/11352871
-新水浒,https://epg.112114.xyz/huya/11342384
-士兵突击,https://epg.112114.xyz/huya/11342430
-龙门镖局,https://epg.112114.xyz/huya/11352874
-网球王子,https://epg.112114.xyz/huya/11352882
-康熙王朝,https://epg.112114.xyz/huya/11352940
-康熙微服私访,https://epg.112114.xyz/huya/11342418
-极品新娘,https://epg.112114.xyz/huya/11342426
-三国演义,https://epg.112114.xyz/huya/11602081
-红海行动,https://epg.112114.xyz/huya/11601986
-麻雀,https://epg.112114.xyz/huya/11352881
-搞笑的一家人,https://epg.112114.xyz/huya/113
-朱雀青龙,https://epg.112114.xyz/huya/11352905
-神貂侠侣,https://epg.112114.xyz/huya/11352964
-我的团长我的团,https://epg.112114.xyz/huya/11342416
-天龙八部,https://epg.112114.xyz/huya/11352912
-小鲤鱼,https://epg.112114.xyz/huya/11601961
-中华小当家,https://epg.112114.xyz/huya/11342413
-新乌龙院之笑闹江湖,https://epg.112114.xyz/huya/15981239
-旋风球技,https://epg.112114.xyz/huya/11342400
-海贼王,https://epg.112114.xyz/huya/17941367
-大秦帝国,https://epg.112114.xyz/huya/11602074
-文成公主进藏,https://epg.112114.xyz/huya/11352974
-舒克和贝塔,https://epg.112114.xyz/huya/11352949
-镖行天下,https://epg.112114.xyz/huya/11352969
-谍战神剧,https://epg.112114.xyz/huya/11342436
-甄嬛传,https://epg.112114.xyz/huya/11601971
-孙悟空,https://epg.112114.xyz/huya/11342395
-太空混战,https://epg.112114.xyz/huya/21059579
-三国鼎立,https://epg.112114.xyz/huya/11602077
-宋提刑官,https://epg.112114.xyz/huya/11279251
-赘婿,https://epg.112114.xyz/huya/21059564
-笑傲帮,https://epg.112114.xyz/huya/11352908
-火影忍者,https://epg.112114.xyz/huya/20236200
-葛二蛋,https://epg.112114.xyz/huya/11602072
-神医喜来乐,https://epg.112114.xyz/huya/11601978
-医馆笑传,https://epg.112114.xyz/huya/11352891
-勇敢的心,https://epg.112114.xyz/huya/11602037
-隋唐英雄,https://epg.112114.xyz/huya/11352899
-海贼王,https://epg.112114.xyz/huya/16739452
-情深深雨濛濛,https://epg.112114.xyz/huya/11352885
-天龙八部,https://epg.112114.xyz/huya/11602041
-老三国,http://mmitv.top/pltv/huya.php?id=11602081
-新三国,http://mmitv.top/pltv/huya.php?id=11352944
-新水浒,http://mmitv.top/pltv/huya.php?id=11342384
-纪晓岚,https://epg.112114.xyz/huya/11342396
-纪晓岚,http://mmitv.top/pltv/huya.php?id=11342396
-庆余年,http://mmitv.top/pltv/huya.php?id=11352960
-雍正王朝,http://mmitv.top/pltv/huya.php?id=11342439
-士兵突击,http://mmitv.top/pltv/huya.php?id=11342430
-爱情公寓,http://mmitv.top/pltv/huya.php?id=11336726
-家有儿女,http://mmitv.top/pltv/huya.php?id=11352872
-武林外传,http://mmitv.top/pltv/huya.php?id=21059598
-地下交通站,http://mmitv.top/pltv/huya.php?id=11342433
-邻里一家亲,http://mmitv.top/pltv/huya.php?id=11342426
-芈月传,https://epg.112114.xyz/huya/11352975
-欢笑剧场,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-雍正王朝,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=26650882
-康熙微服私访记1,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.flv?
-鹿鼎记,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28265277
-新三国1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29216766
-家有儿女,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.flv?
-士兵突击1,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?
-燕双鹰专场,http://data.3g.yy.com/live/hls/1352227153/1352227153
-神探狄仁杰,http://data.3g.yy.com/live/hls/1351755386/1351755386
-神探狄仁杰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351755386
-地下交通站,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.flv?
-神雕侠侣倚天屠龙,http://data.3g.yy.com/live/hls/1351762426/1351762426
-爱情公寓1,http://epg.112114.xyz/douyu/6863367
+📺電視劇,#genre#
+正阳门下,https://live.metshop.top/yy/1354931580
+伪装者,https://live.metshop.top/yy/1354936244
+欢乐颂,https://live.metshop.top/yy/1382735624
+宫心计,https://live.metshop.top/yy/1354932429
+情满四合院,https://live.metshop.top/yy/1382736848
+公主嫁到,https://live.metshop.top/yy/1382736915
+来自星星的你,https://live.metshop.top/yy/1354930976
+我的前半生,https://live.metshop.top/yy/1382735564
+雪中悍刀行,https://live.metshop.top/yy/1382660835
+新世界,https://live.metshop.top/yy/1382736850
+大江大河,https://live.metshop.top/yy/1382736806
+知否,https://live.metshop.top/yy/1351537467
+娘亲舅大,https://live.metshop.top/yy/1354932360
+读心神探,https://live.metshop.top/yy/1382736875
+寻秦记,https://live.metshop.top/yy/1382749900
+小欢喜,https://live.metshop.top/yy/1382737888
+法外风云,https://live.metshop.top/yy/1382736805
+缺宅男女,https://live.metshop.top/yy/1382745088
+名媛望族,https://live.metshop.top/yy/1354932431
+溏心风暴之家好月圆,https://live.metshop.top/yy/1354888747
+叛逆者,https://live.metshop.top/yy/1382736868
+爱的迫降,https://live.metshop.top/yy/1354889042
+德鲁纳酒店,https://live.metshop.top/yy/1354931488
+oh我的鬼神大人,https://live.metshop.top/yy/1354936160
+男亲女爱,https://live.metshop.top/yy/1382736715
+无敌县令,https://live.metshop.top/yy/1354932390
+临界婚姻,https://live.metshop.top/yy/1354932365
+金婚,https://live.metshop.top/yy/1382828768
+平凡岁月,https://live.metshop.top/yy/1382745117
 
-🧧春晚小品,#genre#
-吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
-非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
-幸福密码,https://vd3.bdstatic.com/mda-kj9ispnax8gpirkf/hd/mda-kj9ispnax8gpirkf.mp4
-狭路相逢,https://vd3.bdstatic.com/mda-kanfj7h320ueqgkg/v1-cae/hd/mda-kanfj7h320ueqgkg.mp4
-最佳酒友,https://vd3.bdstatic.com/mda-jheqyidz841gwxpy/hd/mda-jheqyidz841gwxpy.mp4
-整容归来,https://vd3.bdstatic.com/mda-ji1xe9cmasuh0722/hd/mda-ji1xe9cmasuh0722.mp4
-老王卖瓜,https://vd3.bdstatic.com/mda-jkrk9bk95f9utr9r/hd/mda-jkrk9bk95f9utr9r.mp4
-策划,https://vd3.bdstatic.com/mda-ki60ag5ub193axs9/hd/mda-ki60ag5ub193axs9.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
-赵本山爆笑小品2,http://jh.d7g.cn/live/z/yy.php?id=1354936217
-爆笑小品,http://jh.d7g.cn/live/z/yy.php?id=1354931503
-宋小宝小品合集,http://jh.d7g.cn/live/z/yy.php?id=1354931577
-小沈阳春晚小品,http://jh.d7g.cn/live/z/yy.php?id=1382749941
-贾玲春晚小品,http://jh.d7g.cn/live/z/yy.php?id=1382736720
-宋小宝春晚小品合集,http://jh.d7g.cn/live/z/yy.php?id=1382736866
-春晚小品,http://jh.d7g.cn/live/z/yy.php?id=1382773708
-笑傲帮,http://jh.d7g.cn/live/z/yy.php?id=1382735555
-怀旧小品,http://jh.d7g.cn/live/z/yy.php?id=1382736821
-巩汉林春晚小品合集,http://jh.d7g.cn/live/z/yy.php?id=1354889035
-笑傲江湖 第1季,http://jh.d7g.cn/live/z/yy.php?id=1382749896
-花儿开心吧-小品,http://jh.d7g.cn/live/z/yy.php?id=1382736917
-笑傲江湖 第2季,http://jh.d7g.cn/live/z/yy.php?id=1382736914
-相声相声搜38528频道,http://jh.d7g.cn/live/z/yy.php?id=34025318
-赵本山《蓝光版》,http://jh.d7g.cn/live/z/yy.php?id=32160832
-本山快乐营2,http://jh.d7g.cn/live/z/yy.php?id=1382736718
-本山快乐营-爆笑小品,http://jh.d7g.cn/live/z/yy.php?id=1354930948
-本山快乐营1,http://jh.d7g.cn/live/z/yy.php?id=1354936209
-蔡明春晚小品,http://jh.d7g.cn/live/z/yy.php?id=1354936177
-历年春晚小品合集,http://jh.d7g.cn/live/z/yy.php?id=1382773717
-历年春晚小品合集,http://jh.d7g.cn/live/z/yy.php?id=1382773716
-不差钱,https://vdse.bdstatic.com//769f31778a85f33825c44a9b0c70ac37.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A24%3A57Z%2F-1%2Fhost%2F9d4a74ab09dc18c2f4d9b0b8f77c621471a15359ec3b77c186f51611f4712005
-就差钱,https://vdse.bdstatic.com//812d49e751aa31530ec39debfe54a359.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T08%3A49%3A09Z%2F-1%2Fhost%2Fa58bdb86d23b53b6909e8e19d85dad9fed3adeba4a664a22eef9a7d32ac2486a
-昨天今天明天,https://vd3.bdstatic.com/mda-ia4xz7n2s4hxbhby/logo/hd/mda-ia4xz7n2s4hxbhby.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
-捐助,https://vd3.bdstatic.com/mda-jaqz8g17b9cvryks/hd/mda-jaqz8g17b9cvryks.mp4?pd=19&vt=1
-捐助后传,https://vd3.bdstatic.com/mda-kbsrpz9zmbbvznjw/hd/mda-kbsrpz9zmbbvznjw.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
-小崔说事,https://vdse.bdstatic.com//2f54cd59170279f94c5b354179bda8c0.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-12T04%3A47%3A48Z%2F-1%2Fhost%2Fc0d35c8c0a00af3226ac1bc3a1510c1474d8054a30290740da4a2d567924f779
-小崔说事儿,https://vdse.bdstatic.com//0881642336164cb448c0d8addd2d22a6.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2022-05-28T07:29:10Z/-1/host/4c290e67925bf7954af616c290b337b52a840355f1184f78619d696a5da5c0bb
-中奖了,https://vd3.bdstatic.com/mda-kmkh9zy2b3gnx4bq/mda-kmkh9zy2b3gnx4bq.mp4?pd=19&vt=1
-卖拐,https://vd3.bdstatic.com/mda-mdgia7vnkscvxh6d/v1-hknm/hd/mda-mdgia7vnkscvxh6d.mp4?pd=19&vt=1
-功夫,https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4?pd=19&vt=1
-相亲1,https://vd3.bdstatic.com/mda-ki5quadqsdi1tk9e/mda-ki5quadqsdi1tk9e.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=3024484252&vid=10808391094376007907&auth_key=1655295624-0-0-6fb10727b6c3c195f08ff9bebe036cd0&bcevod_channel=searchbox_feed
-相亲2,https://vd3.bdstatic.com/mda-kipkytij74rnn9k3/hd/mda-kipkytij74rnn9k3.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
-钟点工,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c8e2e53c77ua6v88gk9g&ratio=720p&line=0
-火炬手,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c54t79jc77u7est4rcn0&ratio=720p&line=0
-火炬手,https://vd3.bdstatic.com/mda-jar0302925j1nwep/hd/mda-jar0302925j1nwep.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
-生日快乐,https://vd3.bdstatic.com/mda-mkskgzkzsgvgcntm/540p/h264_cae/1638023743815756700/mda-mkskgzkzsgvgcntm.mp4?pd=19&vt=1
-狭路相逢,https://vd3.bdstatic.com/mda-kd0mku18u3rui7gz/v1-cae/hd/mda-kd0mku18u3rui7gz.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
-赵本山小品128分钟,https://vd3.bdstatic.com/mda-mkskgzkzsgvgcntm/540p/h264_cae/1638023743815756700/mda-mkskgzkzsgvgcntm.mp4?pd=19&vt=1
-超级大明星,https://vd3.bdstatic.com/mda-ji3f9bxs1cxwmui7/hd/mda-ji3f9bxs1cxwmui7.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
-阳仔演笑会,https://vdse.bdstatic.com//cf06ee490cf69657ab9f333e067b348e.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A30%3A16Z%2F-1%2Fhost%2Fe3b07458bdfa3f2b9dd841f97ab3b32a73e1f5c3c55fec0e851f21054900b4a3
-阳仔演笑会2,https://vdse.bdstatic.com//b837548733e6bd32629f9134457ad811.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T12%3A24%3A48Z%2F-1%2Fhost%2F21b407cd58e7d2f39864128a9160659f1f4845e2cf4c01c6e2a3f30be1dbc557
-同桌的你,https://vd3.bdstatic.com/mda-kkfwqyn6sc4r5579/mda-kkfwqyn6sc4r5579.mp4?pd=19&vt=1
-中奖了,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c416nhbc77ueljqcfms0&ratio=720p&line=0
-有钱了,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c4mruerc77ua2hethfig&ratio=720p&line=0
-小草,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f580000bqvq5p2kgg1hr4fgtkng&ratio=720p&line=0
-小九老乐,https://vd3.bdstatic.com/mda-maqs355itqp221rx/v2-hknm/hd/mda-maqs355itqp221rx.mp4?pd=19&vt=1
-办班,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300f830000bqvq3vcssiod1f1acv10&ratio=720p&line=0
-年前年后,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300f250000br00c6t03hnekstiv2rg&ratio=720p&line=0
-卖梨,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f850000bqvq43ueankk4sopbea0&ratio=720p&line=0
-城市打工妹,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fb00000br0007k2v0nbugkvpqc0&ratio=720p&line=0
-如此竞争,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fe60000br000frls1kbc9rjapeg&ratio=720p&line=0
-儿子大了,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f020000bqvq3u89lgt8of4fk0tg&ratio=720p&line=0
-同学会,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f9c0000brabn8v70gfhplsfi78g&ratio=720p&line=0
-拜年,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000c83hhi3c77u01a8d7hp0&ratio=720p&line=0
-送水,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000c6maam3c77u27tbr0bm0&ratio=720p&line=0
-辽宁小品,http://epg.112114.xyz/douyu/9322175
-新虎口遐想,https://vd4.bdstatic.com/mda-jarfmdf8su7sckk3/hd/mda-jarfmdf8su7sckk3.mp4?auth_key=1655295819-0-0-df94f7531d93ff90ad12888c89a672ca&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3219421685&vid=8705230262897615568&abtest=all
-冯巩郭冬临狗不理包子,https://vd2.bdstatic.com/mda-jdqwqnk1xxszhw8c/mda-jdqwqnk1xxszhw8c.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2275698282&vid=17330773072848394300&auth_key=1655291275-0-0-73fe6c276ababcdb43b87a4fda6002df&bcevod_channel=searchbox_feed
-牛群冯巩领导冒号,https://vdse.bdstatic.com//123b1e01f5128d0e71b4f392ec1a971c.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-12T06%3A54%3A23Z%2F-1%2Fhost%2F6274ff464fd635b6108aacc556df42224f265e9b3f4bd3a37a74cbdbf985d0b8
-冯巩相声,https://vdse.bdstatic.com//65873c285f222c4cfeecf527f3e84259.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T09%3A55%3A46Z%2F-1%2Fhost%2F9119b3500a8e21fb21665d9576bbf410e5a0fa8904ccc1ce0d3aabde21c99c8a
-牛群冯巩我的儿子,https://vdse.bdstatic.com//f27179e048a85dd2f00d16f6a13ac370.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T08%3A43%3A23Z%2F-1%2Fhost%2F026eb7ddc17de37a053903ceb90523b0265d8e5c7ed8eb5b20f5cc0de186f27c
-牛群冯巩两个弄潮儿,https://vd3.bdstatic.com/mda-mkqdhm17rs7198m6/hd/cae_h264/1637859905115117938/mda-mkqdhm17rs7198m6.mp4?pd=19&vt=1
-要条件,https://vd2.bdstatic.com/mda-kgah4byryi8gsqk8/v1-cae/mda-kgah4byryi8gsqk8.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=1347013120&vid=11361264719745011699&auth_key=1655290347-0-0-5dfca4bc79fbe4b6685de35fd1e0a622&bcevod_channel=searchbox_feed
-岳云鹏相声给我个机会,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fab0000buf8p6s0srttfb9ulotg&ratio=720p&line=0
-孔云龙扒马褂,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c7la4l3c77u5vs0abgs0&ratio=720p&line=0
-经典小品[1920x1080],http://epg.112114.xyz/douyu/9067836
-经典小品[1920x1080],http://epg.112114.xyz/douyu/9067836
-相声小品[960x540],http://epg.112114.xyz/douyu/9286868
-yy小品,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354931503
-yy小品2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382741642
-yy小品3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936198
-经典小品,http://59.47.74.33:35455/douyu/9067836
-经典小品,http://epg.112114.xyz/douyu/9067836
-春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4	
-春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4	
-春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4	
-春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8	
-春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8	
-春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8	
-春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4	
-春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8	
-春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8	
-春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8	
-春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8	
-春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8	
-春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8	
-春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8	
-春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8	
-春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8	
-春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8	
-春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8	
-春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8	
-春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8	
-春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8	
-春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8	
-春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8	
-春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8	
-春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8	
-春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8	
-春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8	
-春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4	
-春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4	
-春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8	
-春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8	
-春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8	
-春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8	
-春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8	
-春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8	
-春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8	
-春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8	
-春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8	
-春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8	
-春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4	
+🧧春晚,#genre#
+1983年,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8 
+1984年,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8 
+1985年,http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8 
+1986年,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8 
+1987年,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+1988年,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+1989年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8 
+1991年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+1992年,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8 
+1993年,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8 
+1994年,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8 
+1995年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8 
+1996年,https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
+1997年,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+1998年,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+1999年,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+2000年,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+2001年,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8 
+2002年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8 
+2003年,https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8 
+2004年,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8 
+2005年,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+2006年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+2007年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+2008年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+2009年,https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
+2010年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
+2011年,https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8 
+2012年,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+2013年,https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8 
+2014年,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8 
+2015年,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+2016年,https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
+2017年,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
+2018年,https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
+2019年,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
+2020年,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+2021年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8 
+2022年,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 📹YouTube,#genre#
-三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-MOMO购物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-DWNEWS「德国」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-BREAKINGNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-ASIANETNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
-警世剧场「台剧」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-半岛新闻「阿拉伯」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+Bloomberg,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg,https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+CNBC,http://103.112.191.9:880/LAOSAT1086.m3u8
+CNBC,mitv://135.148.104.228:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
+
+台湾地震监视,http://bad-ass.site:35455/youtube/Owke6Quk7T0
+三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立iNews,http://bad-ass.site:35455/youtube/CKjSm5ZeehE
+三立News+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立News+,http://bad-ass.site:35455/youtube/oZdzzvxTfUY
 民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-CCTV4中文国际,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-未知新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-新唐人亚太「纪录」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-ABCNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-天才冲冲冲「综艺」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-ASTROAWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+民视新闻,http://bad-ass.site:35455/youtube/ylYJSBUgaMA
+镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+镜新闻,http://bad-ass.site:35455/youtube/5n0y6b0Q25o
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻,http://bad-ass.site:35455/youtube/B7Zp3d6xXWw
+寰宇新闻台湾台,http://bad-ass.site:35455/youtube/UcTIv4ZaE5Y
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-TokyoShibuya「东京涩谷」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-大爱,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+中天新闻,http://bad-ass.site:35455/youtube/oIgbl7t0S_w
+中天新闻2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中天新闻2,http://bad-ass.site:35455/youtube/WPfPjbOLNfE
 TVBS网路新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-CBNNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+TVBS网路新闻,http://bad-ass.site:35455/youtube/m_dhMSvUCIc
+东森新闻,http://bad-ass.site:35455/youtube/S5WOGu2HSes
+东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+东森财经新闻,http://bad-ass.site:35455/youtube/WHEPzbFA3hw
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+台视新闻,http://bad-ass.site:35455/youtube/xL0ch83RAK8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中视新闻,http://bad-ass.site:35455/youtube/TCnaIE_SAtM
+公视新闻,http://bad-ass.site:35455/youtube/quwqlazU-c8
+新唐人亚太,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+新唐人亚太,http://bad-ass.site:35455/youtube/WIhgU_mc05A
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+凤凰资讯,http://bad-ass.site:35455/youtube/if6yQq_JJyY
+凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+CCTV4中文国际,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+全球财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+ABC News,http://bad-ass.site:35455/youtube/w_Ma8oQLmSM
+CBN News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+NBC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+FRANCE24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+FRANCE24,http://bad-ass.site:35455/youtube/h3MuIUNCCzI
+DW News「德国」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+DW News「德国」,http://bad-ass.site:35455/youtube/pqabxBKzZ6M
+HABER,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+半岛新闻「阿拉伯」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+半岛新闻「英语」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+CNA「新加坡」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+CNA「新加坡」,http://bad-ass.site:35455/youtube/XWq5kBlakcQ
+ASTROAWANI「马来西亚」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+ANN News「日本」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+ANN News「日本」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+TBS News「日本」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+HTB News「日本」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+KANSAI News「日本」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+KBS News「韩国」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+INDIATODAY,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+BREAKING News「印度」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+ASIANET News「印度」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+NEWS18「印度」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+MEDIAONE「印度」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+SUPERFAST News「印度」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+LIVE News「印度」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+MOMO购物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO购物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+信大,http://bad-ass.site:35455/youtube/AQymzwl3uSk
+警世剧场「台剧」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+东森购物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+东森购物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+天才冲冲冲「综艺」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+TokyoShibuya「东京涩谷」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+TokyoShibuya「东京新宿」,http://bad-ass.site:35455/youtube/DjdUEyjx8GM
+大爱,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+大爱2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 欢喜玉玲珑「台剧」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 原住民电视台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-INDIATODAY,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-FRANCE24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-NBCNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-NEWS18,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
 幸福居家空间,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 MIT台湾志,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-MEDIAONE「印度」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-TBSNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-SUPERFASTNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
-大爱2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-ANNNEWS「日本」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-中天新闻「循环直播」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-LIVENEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
-CNA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-HTBNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+ViVa购物1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+ViVa购物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
 国会频道1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
 国会频道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 123GOLIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-半岛新闻「英语」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-全球财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
-KBSNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-KANSAINEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 东森幼幼歌曲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 小猪佩奇「动画」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
 动画1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
 动画2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
 儿童歌曲1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
 儿童歌曲2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 大陆寻奇「纪录」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 靖天电视台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
 猪哥会社「综艺」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 公主小妹「台剧」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+18禁不禁「台剧」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
 新玫瑰瞳铃眼「台剧」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-未知,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
+Coffee 音乐台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+Taiwan+,http://bad-ass.site:35455/youtube/dZp87qnWelE
+National Geographic,http://bad-ass.site:35455/youtube/306xLRnW3Cc
 
-🔞密碼18,#genre#
-成人AV(密碼:18),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4
-
-🔞成人AV_18,#genre#
-000/Angelababy,https://play3.laoyacdn.com/20221215/rlvvRsUR/index.m3u8
-001/性愛48式,https://t18.cdn2020.com:12342/video/m3u8/2022/05/06/e93e8027/index.m3u8
-002/海岛生活1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/f3/op/3a/ja/1bfcd36a631e400f9e673a66fbfb7385.m3u8
-003/海岛生活2,https://v4.cvhlscdn.com/20220807/thM7wsId/hls/index.m3u8
-004/海岛生活3,https://v4.cvhlscdn.com/20220823/sFbrS6lG/hls/index.m3u8
-005/维修工的心跳艳遇(上),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/gz/dp/pq/y9/acd55327c8504396a9ec4bf6050bd13a.m3u8
-006/维修工的心跳艳遇(下),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/60/iw/9o/jv/8f91843b009a4379bef6c824fcb3b22f.m3u8
-007/独自练习1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/i6/ic/gf/sz/5aae7ba090374eb89fa4cf650d8a8c27.m3u8
-008/独自练习2,https://v4.cvhlscdn.com/20220623/M51SpQDH/hls/index.m3u8
-009/香艳邻居姐妹,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ow/z3/5g/mg/90bb4af29a7c4e3c9d31fa75371c653d.m3u8
-010/照料色欲姐夫,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ip/w0/h7/mb/d2ec1ff487ec41208d35a93e3f391cf3.m3u8
-011/劫色清纯高校生,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/tc/fw/lp/in/94ca0d7766f14d6e980c05ad0df4c3e6.m3u8
-012/姐姐的性爱教室,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ip/sf/75/3m/d002252ad5b8498aa54af8880620715d.m3u8
-013/尤莉.透明人电车痴汉,https://t21.cdn2020.com/video/m3u8/2022/12/17/01706eee/index.m3u8
-014/心机拜金女,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/vp/k1/b5/2l/279f340b8c7c466a8dabdbe84d9e235a.m3u8
-015/乐奈子.混血女优的一日约会,https://t21.cdn2020.com/video/m3u8/2023/03/12/371e3530/index.m3u8
-016/强奸温柔嫂子,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/hk/j4/rf/hb/96198f63d1ff4f68ab0bbc31748df6e7.m3u8
-018/女神的秘密(上),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/8d/1t/5n/p5/e1d6f1edaf194f0bbbe62bffa2a93df5.m3u8
-019/女神的秘密(下),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/nv/sm/ah/n7/430f6ca997ed4755b97de404d789cea3.m3u8
-020/强奸暗恋同学,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/or/7b/8n/36/b5b8ee76c8fb4212854aed70080f7840.m3u8
-021/绝望的肉偿债款,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/1p/0d/vb/yr/9c438f5074594706ac140779b12f819d.m3u8
-022/大学的性福生活,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/2d/o0/13/7p/b07235b957a747c1afbf11910a256b2d.m3u8
-023/可爱女孩非亲妹,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/wl/to/ad/9f/dc39daa9de9b42598d40fb7ca3a74fc3.m3u8
-024/流量明星的爱,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qj/qg/c8/1f/a09e527b128740cc8c62f1052016f11d.m3u8
-025/赔罪.潜规则,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/jy/cn/1d/2q/cf4836c5c81c4fa5825e0687c0ea9fd0.m3u8
-026/奥运迷妹小少妇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/t7/k0/yd/wr/6af067b22d3a4fa293197c746c72c860.m3u8
-028/课后性爱辅导,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/5f/7o/to/mb/cdcebd2d1a7e4c948d5b83324fa8c383.m3u8
-029/淫乱加班维修工,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/2m/3e/e7/0o/e7b4f58df3b14284bd274b23a2d7455f.m3u8
-030/兽欲交欢女学员,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/xh/bf/3k/fp/a54ddc7e93c142658c99dbd7d4129389.m3u8
-031/午夜电话艳遇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/be/7q/wz/yz/59c93a2ef6824b798d569a02fb0c7c6e.m3u8
-032/少女的噩梦,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/lw/d0/98/rh/fe9a2b7f19684982afec97e2d25ccb94.m3u8
-033/人妻堕落之路-玷污篇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/fg/bp/qh/e7/5e26313114c046358132670e725bc624.m3u8
-034/人妻堕落之路-脱变篇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/g5/86/jp/2h/25bc0723329d47099fe5eb8dfbfebaf8.m3u8
-035/毒舌巨乳邻居,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/71/ck/5a/so/a571f9b1f42b4ac5b3e795c9f411857e.m3u8
-036/偷摄邻家淫妻,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/or/ns/ir/nm/ff8b839fc5244d119402d6951699dd80.m3u8
-037/空姐的飞淫之旅-困顿篇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/m3/gn/1u/fw/45429199cdce457ebccce932ac64d5c6.m3u8
-038/空姐的飞淫之旅-奢糜篇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/uk/41/i7/xt/8a50b81be9394dd3b03916bd37c7c89e.m3u8
-039/约会前出轨背叛,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/d8/4v/90/f4/78344d0527b04d8b8a939d7d0863ac9e.m3u8
-040/朋友以上恋人未满,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/lf/2a/on/ol/ce941bc5ab0041848620f614a95a8eaf.m3u8
-041/王以欣.球赛后爆操性感大奶小姨子,https://t21.cdn2020.com/video/m3u8/2023/04/14/5225e1a1/index.m3u8
-042/按摩师,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/8t/0r/9y/ho/5819556d96384d6f8b0db87e873e440a.m3u8
-043/青春盛宴,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/w8/2g/op/ee/94d65ada2d77477faf2df41469188390.m3u8
-044/顺从欲望之夜,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/71/8s/qb/29/160a6197bc9d4d06aa956077055d9ba7.m3u8
-045/女上司骚气反差,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/td/e8/d6/yb/4339d805dd084e9e9da578cb5b1a25b2.m3u8
-046/足浴小妹的性服务,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/nm/y0/13/x5/e9be0274701d4d58874ca6663f6bee99.m3u8
-047/强偷相奸OL,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/1i/55/za/e1/0318bfd04ad74137bd253eacd7b28cc0.m3u8
-048/人妻肉便器,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/0i/gm/jf/fm/22ddb1ee85dd49caa736899ffd4c9f6d.m3u8
-049/调教女仆美娇妻,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/yl/9t/f5/2m/32c0dab07a464ff7ad80b30d5e72c0fe.m3u8
-050/诱人女教师,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/tc/49/ms/op/e71acef0b5a646f180f6940e127313fd.m3u8
-051/春药试用女郎,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/0y/uc/d9/g0/73f07ec9093e4540bcc376dd30b88cf2.m3u8
-052/肉欲宣泄失恋女,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/h6/tp/mc/96/c3d66c25da564a6aaaba7b16580de302.m3u8
-053/敲诈性感人妻,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/cv/m0/r8/ud/8f4c0a5c71284fbe82e1ccbfc74a3662.m3u8
-054/出轨的妖艳少妇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/hh/y4/uz/4k/251dd61a40324cf19846bc58f1cbff12.m3u8
-055/许愿精灵,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/y3/ot/av/9k/b6aeb152486f4a4db98958148a7b86a8.m3u8
-056/莉娜.风骚后妈强上宿醉的我,https://t21.cdn2020.com/video/m3u8/2023/03/02/64ef87ee/index.m3u8
-057/小模特私房约炮,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/g3/gh/zk/yt/a20456ea59ef464b8f2fbc87adf5a680.m3u8
-058/催情迷幻药水,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/r6/he/r3/7i/57f718eb5bdd420ca5d26d367107f8d7.m3u8
-059/出差艳遇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/7x/xn/vl/o1/30cc6b1cfc7d46beb4d946f02c724794.m3u8
-060/威胁强上高冷女子,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/sz/7v/wo/yl/fa23ff941d04477cb8192d40ef1ee012.m3u8
-061/羞涩处女遭入侵,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ge/i5/3q/ce/d111c578dd7e44409229536f528263a4.m3u8
-064/淫荡的新邻居,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/tl/mg/mz/k1/59f6ab1fd5e04614bdbc35abbeb0a903.m3u8
-065/应酬潜规则,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/51/42/uz/c4/98fb9291181b4f7ab3df9fa22b6ffca6.m3u8
-068/外约对象是弟媳,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/xq/m8/6j/ah/9346d658c3814efbb414c4de599db54e.m3u8
-069/坏坏.淫荡小姨子的诱惑,https://t21.cdn2020.com/video/m3u8/2023/04/20/7743240d/index.m3u8
-070/人妻红杏出墙,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/lj/ve/2d/rn/c64b512189904112940b5b4888f4393a.m3u8
-071/少爷的乖女仆,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/3x/m7/vg/zv/d17a8774cb1140a5bfaf3fabde47900e.m3u8
-072/发小换错身,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/or/6p/qg/6e/bc55c595b94b4759b92cda6aacc71db6.m3u8
-078/纯爱恋歌,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ui/tv/b9/8t/77aff3eec0d24cd9acd60eb998b2f3ce.m3u8
-079/色气保险员,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/uq/vb/9o/3y/3d545bfa0a804c2a93b36e37147d27d0.m3u8
-080/老师...我还要,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/v6/9z/ct/96/b77f4f8befe24e4190fa5687ec935f08.m3u8
-081/黑道大哥操我逼,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/vt/xv/q6/er/368e295dd4a34303bac04a58bea5af53.m3u8
-085/最后的激情性爱,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/cs/qk/e8/jb/31d3a61348b94a97821c31c426427f79.m3u8
-087/今晚老公不在家,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/0j/n8/f6/cl/bcc0bb45102f46b0976a8f405a1229c9.m3u8
-088/表姐的诱惑,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/x9/ag/h0/pi/08093f19f76b428487e20398acc62011.m3u8
-089/鬼畜前任的威胁,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/tx/dr/qe/np/adcb9781dfaa4d6c9145780722df6a44.m3u8
-090/乐奈子.姐妹闹洞房.新婚初夜给老婆闺蜜,https://t22.cdn2020.com/video/m3u8/2023/06/16/de51489a/index.m3u8
-091/一日女友的漂亮姐姐(上),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/70/fm/e0/kc/f7beb303cedd40b2a3f0255889aa6360.m3u8
-092/一日女友的漂亮姐姐(中),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/75/da/ic/nq/654561e53a8f44d4b452ee45db1d5aaa.m3u8
-093/一日女友的漂亮姐姐(下),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8
-094/兔女郎,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/u2/ni/d4/7e/8b76511993614e2c84bcf6a7e2ead496.m3u8
-095/一日女友的漂亮姐姐 番外篇 热恋海岸线,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/yu/mt/0k/df/68768a0f7843400c91a65843e069f9fa.m3u8
-096/侵犯骚货亲姐,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/l8/ne/uj/lt/38632e4f63f54ae6ae03fa036a845b87.m3u8
-097/森林00-她的妄想,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/sz/rp/ga/df/d7cc96217cf5466d9f6fe08a328cee51.m3u8
-098/森林02-欺骗,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/jm/jr/pg/bh/03dd6e239b5c40ceb3b156344a64b372.m3u8
-099/森林03-碎裂,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/si/p3/76/69/ff14c7c54f1143ddaacac8810fdb8e90.m3u8
-100/森林04-吴可玖瑶(终),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qy/fi/ih/p7/dd522f6b3bd64097ba0e4350b9e65e1c.m3u8
-101/白丝诱惑,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/pc/pl/12/8b/e42a460570f24b01a74d96680dda0786.m3u8
-102/女秘书性爱商谈,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ea/4b/7l/8e/8b8ff4c880634b48abbbc21f60a5ab56.m3u8
-103/网瘾少女的日常,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/85/by/qb/w0/220c040a0b9347a6858fd341dfe4d833.m3u8
-104/诱人的家教老师,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/gf/ai/5g/hw/174350035e6843cf9e9af38ae2400bf6.m3u8
-105/黑脸王的淫行逆袭,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/fp/c7/yx/2t/7e1116b8df4940df836ca2e31b80e779.m3u8
-106/我的裸体室友,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/9f/75/sj/0g/0a7e3eac418c47cbbd8fb1061bc3ec28.m3u8
-107/丈夫当家,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/8c/hz/z5/xc/587c43e791b244559f5b66737d6ca870.m3u8
-108/吴文淇.外送员看上独居性感少妇,https://t21.cdn2020.com/video/m3u8/2023/03/09/2eb1ab19/index.m3u8
-109/晨钟/暮鼓,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qu/rw/07/7u/3f708cc50f054574b72074d960e31609.m3u8
-110/肉臀学姐上位榨精,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qk/2p/5h/s0/b14f9cce57684362ade1fd00c9833528.m3u8
-111/夏日时光,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/b3/tk/kw/y1/4cbb66dfcd884546994ebf0fe557635d.m3u8
-112/惹火上门按摩,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/9m/p7/v3/bo/b72ab2435d384fee9f620eb908911c51.m3u8
-113/爽操少妇喷白浆,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/9o/w7/qp/4a/4ec0964678e645ce89eef69903c719e1.m3u8
-114/口爆童颜巨乳嫩妹,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/yb/9e/kr/j1/28c0d9c657a74a5c8be6a799eac8b201.m3u8
-115/女房仲卖房送逼,https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/j0/7s/4p/vv/60ced8a0e5c24573a97d339e9efb38ea.m3u8
-116/甜美游戏陪玩1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/uu/7f/bg/b5/28ed051cdec84ccc98cb9a8a72b2a1aa.m3u8
-117/甜美游戏陪玩2,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ex/yn/el/3k/09f83fc673314e1c8fda7139737b4f1a.m3u8
-118/甜美游戏陪玩3,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/us/6e/s5/8s/72622236ce244252b9726a3530820f28.m3u8
-119/甜美游戏陪玩4,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/yf/kq/h5/62/0edc074baab140e1976e12e1099d70d2.m3u8
-120/青蛇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/2v/hl/ll/f0/ec17339c89b348b3a3d66edfeb412b24.m3u8
-121/乱伦迷情药,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8
-122/妇女的不论之恋,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/eg/oc/n7/57/fbb21f9d41d54e468b7657d66b6aa6e7.m3u8
-123/菜鸟特务,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/kn/99/yw/34/c3ac47258c9f4b7399c6a6543b80b8c1.m3u8
-124/疯狂的女主播,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/7s/37/y5/7m/714af6843aae4ff79ce7adc7980d0712.m3u8
-125/强上仙人跳渣女,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/al/72/bl/7v/ce8b0dbdbffb4d4d8f85c538ba35c4be.m3u8
-126/花语柔.色情公寓.第一集,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/4907f503/index.m3u8
-127/徐夜夜.色情公寓.第二集,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/a6b1d923/index.m3u8
-128/乐淆雪.色情公寓.第三集,https://cdn-bo3.mangguo-youku.com:5278/20211029/IZTiqK5H/index.m3u8
-129/徐夜夜.色情公寓.第四集,https://cdn-bo3.mangguo-youku.com:5278/20211029/d1fQsebK/index.m3u8
-130/尤莉.色情公寓.第五集,https://cdn-bo3.mangguo-youku.com:5278/20211109/wlRJZfc2/index.m3u8
-131/尤莉.色情公寓.第六集,https://cdn-bo3.mangguo-youku.com:5278/20211109/dcGiteGL/index.m3u8
-132/花语柔.色情公寓.第七集,https://bf1.semaobf1.com/20220503/6CE22268FDE269D3/hls/2000k/index.m3u8
-133/莫安安.背弃废物男友.上,https://data2.huakuibf3.com/20220729/50789395A03FFA99/hls/2000k/index.m3u8
-134/莫安安.背弃废物男友.下,https://data2.huakuibf3.com/20220730/1D94AC1A7D099AEA/hls/2000k/index.m3u8
-135/仙儿媛.老婆卖身缓债.上,https://data2.huakuibf3.com/20220801/2720146F9F75021B/hls/2000k/index.m3u8
-136/仙儿媛.老婆卖身缓债.下,https://data2.huakuibf3.com/20220728/06F992F98275C72B/hls/2000k/index.m3u8
-137/徐婕.32E小支马狐媚娘!.上,https://play1.sewocdn1.com/20220311/4hb6C0hb/index.m3u8
-138/徐婕.32E小支马狐媚娘!.下,https://data2.huakuibf3.com/20220730/ECC0EAE5B4408A69/hls/2000k/index.m3u8
-139/黄雅曼.路人湿身我给伞.上,https://data2.huakuibf3.com/20220728/3DC82E40F4778771/hls/2000k/index.m3u8
-140/黄雅曼.路人湿身我给伞.下,https://data2.huakuibf3.com/20220727/92F7AE38FD53F480/hls/2000k/index.m3u8
-141/夜夜.年节大解放.上,https://data2.huakuibf3.com/20220728/CFBA03C0CBCC0106/hls/2000k/index.m3u8
-142/夜夜.年节大解放.下,https://data2.huakuibf3.com/20220729/0DAA28DCD6C646F3/hls/2000k/index.m3u8
-143/乐奈子.性感老师家访操到床上,https://t20.cdn2020.com/video/m3u8/2022/12/06/ed0e5e13/index.m3u8
-144/乐奈子.挑战24小时不做爱,https://t20.cdn2020.com/video/m3u8/2022/11/28/1d93b72a/index.m3u8
-145/徐婕.逆时间停止器.,https://t20.cdn2020.com/video/m3u8/2022/12/14/3240c8a4/index.m3u8
-146/蒋佑怡.姐姐男友的屌,https://data2.huakuibf3.com/20220727/C5EF7C7044444877/hls/2000k/index.m3u8
-147/苏倩.酒后与表姐的故事,https://data2.huakuibf3.com/20220727/52E42045B30D0B62/hls/2000k/index.m3u8
-148/罗瑾萱.朋友妻可以骑,https://cdn-bo3.mangguo-youku.com:5278/20210724/UVAtsYjl/index.m3u8
-149/情人节特辑,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/gj/v2/mf/a8/77534e95584448e4a62d3205b260e398.m3u8
-150/徐夜夜.巨乳小姨子淫荡色诱,https://data2.huakuibf3.com/20221001/A844CAF08886D586/hls/2000k/index.m3u8
-151/徐婕.夜晚游艇趴,https://t20.cdn2020.com/video/m3u8/2022/10/16/bb704a55/index.m3u8
-152/佳芯.极品嫂子的诱惑,https://t21.cdn2020.com/video/m3u8/2023/03/27/36a3c2e2/index.m3u8
-153/黎娜.超会做爱的清纯女友,https://t20.cdn2020.com/video/m3u8/2022/10/22/2060e86b/index.m3u8
-154/乐奈子.四人海滩露营炮旅.擦枪走火淫欲四溢,https://t20.cdn2020.com/video/m3u8/2022/10/23/948322ad/index.m3u8
-155/尤莉.名人性爱故事.朋友熟睡后直接干,https://t20.cdn2020.com/video/m3u8/2022/10/27/0d03ed7b/index.m3u8
-156/林思妤.与知名女优温泉约会,https://t20.cdn2020.com/video/m3u8/2022/11/02/c5e89afe/index.m3u8
-157/韩倪希.四人海滩露营炮旅.野外骑乘连续高潮,https://t20.cdn2020.com/video/m3u8/2022/11/03/56d6cb18/index.m3u8
-158/尤莉.最难忘的夏夜与学长的纯爱日记,https://t20.cdn2020.com/video/m3u8/2022/11/03/7843caff/index.m3u8
-159/羽芮.人体水彩画大艺术家干上性感裸模,https://t20.cdn2020.com/video/m3u8/2022/11/10/c9506dda/index.m3u8
-160/沈湘妮.羽球场激烈性爱,https://t20.cdn2020.com/video/m3u8/2022/11/10/909f06c6/index.m3u8
-161/黎娜.偷窥淫欲女房客,https://t20.cdn2020.com/video/m3u8/2022/11/10/22b3da8b/index.m3u8
-162/玖玖.透明药丸之淫乱大学生的秘密,https://t20.cdn2020.com/video/m3u8/2022/11/14/f71ecbad/index.m3u8
-163/雨菲.女儿的特别礼物,https://tubetv.xyz/origin/mp4:path1/2023/14/0307/TMW067/TMW067-1200K.mp4/playlist.m3u8
-164/羽芮.上班自慰被抓包,https://tubetv.xyz/origin/mp4:path1/2023/14/0308/TMW068/TMW068-1200K.mp4/playlist.m3u8
-165/乐奈子.用蜜穴教训劈腿渣男,https://tubetv.xyz/origin/mp4:path1/2023/14/0310/TMW069/TMW069-1200K.mp4/playlist.m3u8
-166/尤莉.无良医师假诊疗真插入,https://tubetv.xyz/origin/mp4:path1/2023/14/0407/TMW070/TMW070-1200K.mp4/playlist.m3u8
-167/仙儿媛.融化姐姐的心,https://t21.cdn2020.com/video/m3u8/2022/12/23/a2dfd47e/index.m3u8
-168/仙儿媛.欲求不满的干妈,https://t20.cdn2020.com/video/m3u8/2022/09/09/e148c24c/index.m3u8
-169/声道与阴道的感官冲击,https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/a472ac73/index.m3u8
-170/可爱兔兔入狼口,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/380c3568/index.m3u8
-171/性玩具都滿足不了我,https://t4s.cdn2020.com/video/m3u8/2020/09/13/e155c2e9/index.m3u8
-172/性用品和我谁更爽,https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/5e24286d/index.m3u8
-173/性福情趣兔终极偷情体验,https://t12.cdn2020.com:12337/video/m3u8/2021/10/27/ab1f10a9/index.m3u8
-174/情欲马杀鸡干敏感爆乳人妻,https://t4s.cdn2020.com/video/m3u8/2020/09/15/f1eae48b/index.m3u8
-175/乐奈子.性感老师家访操到床上,https://t20.cdn2020.com/video/m3u8/2022/12/06/ed0e5e13/index.m3u8
-176/情趣内衣吊带配丝袜,https://t15.cdn2020.com:12339/video/m3u8/2021/12/28/02426f08/index.m3u8
-177/颜值不错的少妇奶子摸了真爽,https://t11.cdn2020.com:12336/video/m3u8/2021/09/02/bc4b602e/index.m3u8
-178/乐奈子.酒后乱性小叔乱伦刚怀孕的嫂子,https://t20.cdn2020.com/video/m3u8/2022/11/14/8baf1b6f/index.m3u8
-179/乐奈子.超会舔鸡巴的女仆表妹,https://t22.cdn2020.com/video/m3u8/2023/06/19/3f24e88c/index.m3u8
-180/性感女同事假装喝醉被脱衣服硬上,https://t7.cdn2020.com/video/m3u8/2021/05/16/ae6980ac/index.m3u8
-181/性感女邻居,https://t7.cdn2020.com/video/m3u8/2021/04/05/c1f65621/index.m3u8
-182/性感女邻居忘带钥匙,https://t7.cdn2020.com/video/m3u8/2021/03/31/230231fb/index.m3u8
-
-🔞吴梦梦_18,#genre#
-绑架人妻,https://t22.cdn2020.com/video/m3u8/2023/06/16/03b86de4/index.m3u8
-空降女优,https://t21.cdn2020.com/video/m3u8/2023/01/03/c93da914/index.m3u8
-中文骚话,https://t21.cdn2020.com/video/m3u8/2022/12/15/cf6d8077/index.m3u8
-人体寿司,https://t20.cdn2020.com/video/m3u8/2022/11/25/f922e4f4/index.m3u8
-性爱游览车,https://t20.cdn2020.com/video/m3u8/2022/11/10/87ed6052/index.m3u8
-巨乳女病患,https://t20.cdn2020.com/video/m3u8/2022/10/20/34a42e8a/index.m3u8
-百合温泉之旅,https://t20.cdn2020.com/video/m3u8/2022/10/06/9e55fb42/index.m3u8
-偷窥NTR全程,https://t20.cdn2020.com/video/m3u8/2022/09/21/884308d5/index.m3u8
-女教师时间暂停,https://t20.cdn2020.com/video/m3u8/2022/09/10/dc351dcb/index.m3u8
-跨越生死情欲夜,https://t19.cdn2020.com/video/m3u8/2022/08/12/f0f5a520/index.m3u8
-情色手游,https://t19.cdn2020.com/video/m3u8/2022/08/04/7f3a054d/index.m3u8
-公厕痴女,https://t19.cdn2020.com/video/m3u8/2022/07/25/1506b3c8/index.m3u8
-海岛特辑,https://t19.cdn2020.com/video/m3u8/2022/07/07/9ef2199e/index.m3u8
-更衣人偶坠入爱河,https://www.madoupj.com/index.php/&m=vodplay/mdapp25437-1-1.html
-性爱发廊,https://t18.cdn2020.com:12342/video/m3u8/2022/06/02/b17cd1a1/index.m3u8
-风骚女记者,https://t18.cdn2020.com:12342/video/m3u8/2022/05/19/2c3105da/index.m3u8
-性爱48式,https://t18.cdn2020.com:12342/video/m3u8/2022/05/06/e93e8027/index.m3u8
-野外露出,https://t18.cdn2020.com:12342/video/m3u8/2022/04/30/e75855ba/index.m3u8
-废墟强制射精,https://www.madoupj.com/index.php/&m=vodplay/mdapp24077-1-1.html
-巨乳义母,https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/a205d38c/index.m3u8
-土豪梭哈赌荷官,https://t7.cdn2020.com/video/m3u8/2021/04/25/08901690/index.m3u8
-搭不上末班车,https://t7.cdn2020.com/video/m3u8/2021/05/20/070d63d1/index.m3u8
-淫乱咖啡厅,https://t7.cdn2020.com/video/m3u8/2021/05/28/c2e83f84/index.m3u8
-淫荡魅魔,https://t7.cdn2020.com/video/m3u8/2021/06/08/a7968cc1/index.m3u8
-演艺圈潜规则,https://t7.cdn2020.com/video/m3u8/2021/06/15/109be071/index.m3u8
-人与人的连结,https://t7.cdn2020.com/video/m3u8/2021/07/09/ad6d6365/index.m3u8
-双穴齐插,https://t15.cdn2020.com:12339/video/m3u8/2022/01/25/6d513411/index.m3u8
-情色指油压,https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/ba8dd9b0/index.m3u8
-调情酒吧,https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/5287ad05/index.m3u8
-房东太太敲房客,https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/1a0e9801/index.m3u8
-裸体美术课,https://t15.cdn2020.com:12339/video/m3u8/2021/12/26/80cc8911/index.m3u8l
-风骚家政妇,https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/a0be9d24/index.m3u8
-女王SM调教,https://t12.cdn2020.com:12337/video/m3u8/2021/10/28/3f4c54bb/index.m3u8
-人妻NTR,https://t12.cdn2020.com:12337/video/m3u8/2021/10/14/22c31903/index.m3u8
-豪迈淫荡女上司,https://t12.cdn2020.com:12337/video/m3u8/2021/10/10/3fd1e7ce/index.m3u8
-OL误上痴汉地铁,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/8d28e964/index.m3u8
-巨乳表妹,https://t11.cdn2020.com:12336/video/m3u8/2021/09/10/e161cce4/index.m3u8
-情色早餐店,https://t11.cdn2020.com:12336/video/m3u8/2021/09/06/919669f6/index.m3u8
-游泳教练操干女学员,https://t4s.cdn2020.com/video/m3u8/2020/08/02/052a048c/index.m3u8
-情色泰国浴,https://t4s.cdn2020.com/video/m3u8/2020/10/08/09a3e4a3/index.m3u8
-赌债肉尝,https://t4s.cdn2020.com/video/m3u8/2020/10/08/9006de92/index.m3u8
-按摩师,https://t6s.cdn2020.com/video/m3u8/2021/01/23/140404e0/index.m3u8
-未亡人,https://t6s.cdn2020.com/video/m3u8/2021/01/17/70c8fcb1/index.m3u8
-淫荡女仲介,https://t6s.cdn2020.com/video/m3u8/2021/01/11/182e1931/index.m3u8
-街头搭讪,https://t6s.cdn2020.com/video/m3u8/2020/12/19/d4e2f2a6/index.m3u8
-酒店女公关,https://t5s.cdn2020.com/video/m3u8/2020/11/27/a5c7690b/index.m3u8
-伴郎强上准新娘,https://t5s.cdn2020.com/video/m3u8/2020/10/24/6e3a9fea/index.m3u8
-姊妹井,https://t5s.cdn2020.com/video/m3u8/2020/12/11/5a5d4d3e/index.m3u8
-新闻主播,https://t5s.cdn2020.com/video/m3u8/2020/11/15/9d2c42db/index.m3u8
-女奴翻身做女王,https://t6s.cdn2020.com/video/m3u8/2021/02/04/cb96e497/index.m3u8
-猥琐哥偷窥风骚妹,https://t6s.cdn2020.com/video/m3u8/2021/02/07/eab9b47a/index.m3u8
-槟榔西施,https://t7.cdn2020.com/video/m3u8/2021/05/07/448ebc80/index.m3u8
-欲求不满淫荡人妻,https://t7.cdn2020.com/video/m3u8/2021/05/03/4885b04d/index.m3u8
-淫荡护士偷吃,https://t7.cdn2020.com/video/m3u8/2021/04/18/7238eccd/index.m3u8
-计程车内大战,https://t7.cdn2020.com/video/m3u8/2021/04/05/a9703cb8/index.m3u8
-催眠巨乳大学生,https://t7.cdn2020.com/video/m3u8/2021/03/14/102aed9e/index.m3u8
-风骚老师家访,https://t6s.cdn2020.com/video/m3u8/2021/02/22/9f2bfa74/index.m3u8
-真实春药肛交解禁,https://t6s.cdn2020.com/video/m3u8/2021/02/14/2678fe68/index.m3u8
-樱花,https://t21.cdn2020.com/video/m3u8/2023/04/28/1b2334fe/index.m3u8
-曼谷,https://t22.cdn2020.com/video/m3u8/2023/07/18/1e2273b4/index.m3u8
-吉隆坡,https://t22.cdn2020.com/video/m3u8/2023/05/20/ba8c0027/index.m3u8
-韩国,https://t21.cdn2020.com/video/m3u8/2023/02/28/12c62d8b/index.m3u8
-新加坡,https://t21.cdn2020.com/video/m3u8/2023/01/27/a4bf6fe5/index.m3u8
-南投,https://t22.cdn2020.com/video/m3u8/2023/07/06/e4857c17/index.m3u8
-宜兰,https://t22.cdn2020.com/video/m3u8/2023/06/01/79c5058d/index.m3u8
-台北,https://t21.cdn2020.com/video/m3u8/2023/04/14/58f5420a/index.m3u8
-花莲,https://t21.cdn2020.com/video/m3u8/2023/03/09/167d8603/index.m3u8
+🚧測試中,#genre#
+中国风景,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1_md.m3u8
+中国风景,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
