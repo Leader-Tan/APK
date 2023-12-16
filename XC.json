@@ -1,7 +1,7 @@
 //感謝Yoursmile接口源碼┃2023/12/16
 
 {"spider":"https://github.com/Leader-Tan/APK/raw/main/Yoursmile.jar",
-"lives":[{"group":"redirect","channels": [{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mYW5taW5nbWluZy5jb20vdHh0P3VybD1odHRwOi8vMTc2ODY4LmNsb3VkL2MyYWE1ZDhiZjRmNDVhN2IxYzk2ZTI2YmJhYzgzMWZkLzVhMTU2Yjg3NjQ2YjljMWZhOTlmMjljN2Y1NGE0Yzk1LzM5ZDNhYjlhOWQ3OTRlYzA1NmYzOWIyMTBiNGMzMmFmL3BsYXlsaXN0Lm0zdQ=="]
+"lives":[{"group":"redirect","channels": [{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9sZWFkZXIyMDIyLm5lb2NpdGllcy5vcmcvY2hhbm5lbC9ldGh0di50eHQ="]
 }]
 }],
 	"sites":[
