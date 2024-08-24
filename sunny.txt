@@ -827,23 +827,3 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a4
 芒果13,http://zby.xjqxz.top/dzzypd3/live.m3u8
 
 👍NEWs,#genre#
-中天新闻,http://23.26.239.95:3599/xsj.php?id=cti-news
-TVBS 新闻台,http://23.26.239.95:3599/xsj.php?id=tvbs-news
-TVBS HD,http://23.26.239.95:3599/xsj.php?id=tvbs-hd
-东森新闻,http://23.26.239.95:3599/xsj.php?id=ebc-news
-东森财经新闻,http://23.26.239.95:3599/xsj.php?id=ebc-finance
-寰宇新闻台,http://23.26.239.95:3599/xsj.php?id=global-news
-寰宇财经台,http://23.26.239.95:3599/xsj.php?id=global-finance
-寰宇新闻台湾台,http://23.26.239.95:3599/xsj.php?id=global-news-tw
-壹新闻 HD,http://23.26.239.95:3599/xsj.php?id=nexttv
-三立新闻,http://23.26.239.95:3599/xsj.php?id=settv-news
-三立iNews,http://23.26.239.95:3599/xsj.php?id=settv-inews
-中视新闻,http://23.26.239.95:3599/xsj.php?id=ctv-news
-非凡新闻,http://23.26.239.95:3599/xsj.php?id=unique-business-news
-年代新闻,http://23.26.239.95:3599/xsj.php?id=era-news
-民视新闻台,http://23.26.239.95:3599/xsj.php?id=ftv-news
-台视新闻,http://23.26.239.95:3599/xsj.php?id=ttv-news
-镜电视新闻台,http://23.26.239.95:3599/xsj.php?id=mnews
-华视新闻,http://23.26.239.95:3599/xsj.php?id=cts-news
-半岛国际新闻台,http://23.26.239.95:3599/xsj.php?id=aljazeera
-SBN 全球财经台,http://23.26.239.95:3599/xsj.php?id=sbn
