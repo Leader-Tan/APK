@@ -826,94 +826,139 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a4
 芒果12,http://zby.xjqxz.top/dzzypd2/live.m3u8
 芒果13,http://zby.xjqxz.top/dzzypd3/live.m3u8
 
-👍LiTV,#genre#
-民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv001
-民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
-民视第一台,https://litv.zapi.us.kg/?id=4gtv-4gtv003
-民视综艺,https://litv.zapi.us.kg/?id=4gtv-4gtv004
-猪哥亮歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006
-中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-非凡新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv010
-影迷數位電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
-視納華仁紀實頻道,https://litv.zapi.us.kg/?id=4gtv-4gtv013
-时尚运动X,https://litv.zapi.us.kg/?id=4gtv-4gtv014
-GLOBETROTTER,https://litv.zapi.us.kg/?id=4gtv-4gtv016
-amc电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
-达文西频道,https://litv.zapi.us.kg/?id=4gtv-4gtv018
-八大精彩台,https://litv.zapi.us.kg/?id=4gtv-4gtv034
-八大综艺台,https://litv.zapi.us.kg/?id=4gtv-4gtv039
-中视,https://litv.zapi.us.kg/?id=4gtv-4gtv040
-华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
-公视戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv042
-客家电视台,https://litv.zapi.us.kg/?id=4gtv-4gtv043
-靖天卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv044
-靖洋戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv045
-靖天综合台,https://litv.zapi.us.kg/?id=4gtv-4gtv046
-靖天日本台,https://litv.zapi.us.kg/?id=4gtv-4gtv047
-非凡商业,https://litv.zapi.us.kg/?id=4gtv-4gtv048
-采昌影剧,https://litv.zapi.us.kg/?id=4gtv-4gtv049
-台视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv051
-华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052
-GinxTV,https://litv.zapi.us.kg/?id=4gtv-4gtv053
-靖天欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv054
-靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055
-台视财经,https://litv.zapi.us.kg/?id=4gtv-4gtv056
-靖洋卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv057
-靖天戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv058
-古典音乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv059
-靖天电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv061
-靖天育乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv062
-靖天国际台,https://litv.zapi.us.kg/?id=4gtv-4gtv063
-中视菁采,https://litv.zapi.us.kg/?id=4gtv-4gtv064
-靖天资讯台,https://litv.zapi.us.kg/?id=4gtv-4gtv065
-台视,https://litv.zapi.us.kg/?id=4gtv-4gtv066
-tvbs精采台,https://litv.zapi.us.kg/?id=4gtv-4gtv067
-tvbs欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv068
-爱尔达娱乐,https://litv.zapi.us.kg/?id=4gtv-4gtv070
-tvbs新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
-tvbs,https://litv.zapi.us.kg/?id=4gtv-4gtv073
-中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074
-镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
-CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
-TRACE SPORTS STARS,https://litv.zapi.us.kg/?id=4gtv-4gtv077
-阿里郎,https://litv.zapi.us.kg/?id=4gtv-4gtv079
-中视经典,https://litv.zapi.us.kg/?id=4gtv-4gtv080
-TRACE URBAN,https://litv.zapi.us.kg/?id=4gtv-4gtv082
-MEZZO LIVE,https://litv.zapi.us.kg/?id=4gtv-4gtv083
-国会频道1,https://litv.zapi.us.kg/?id=4gtv-4gtv084
-国会频道2,https://litv.zapi.us.kg/?id=4gtv-4gtv085
-智林体育台,https://litv.zapi.us.kg/?id=4gtv-4gtv101
-国际财经,https://litv.zapi.us.kg/?id=4gtv-4gtv104
-第1商業台,https://litv.zapi.us.kg/?id=4gtv-4gtv109
-东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
-东森财经新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv153
-民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155
-民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv156
-美国之音,https://litv.zapi.us.kg/?id=litv-ftv03
-民视旅游,https://litv.zapi.us.kg/?id=litv-ftv07
-民视影剧,https://litv.zapi.us.kg/?id=litv-ftv09
-半岛新闻,https://litv.zapi.us.kg/?id=litv-ftv10
-民视新闻台,https://litv.zapi.us.kg/?id=litv-ftv13
-爱放动漫,https://litv.zapi.us.kg/?id=litv-ftv15
-好消息,https://litv.zapi.us.kg/?id=litv-ftv16
-好消息2台,https://litv.zapi.us.kg/?id=litv-ftv17
-龙华卡通,https://litv.zapi.us.kg/?id=litv-longturn01
-龙华电影,https://litv.zapi.us.kg/?id=litv-longturn03
-博斯魅力,https://litv.zapi.us.kg/?id=litv-longturn04
-博斯高球1,https://litv.zapi.us.kg/?id=litv-longturn05
-博斯高球2,https://litv.zapi.us.kg/?id=litv-longturn06
-博斯运动1,https://litv.zapi.us.kg/?id=litv-longturn07
-博斯运动2,https://litv.zapi.us.kg/?id=litv-longturn08
-博斯网球,https://litv.zapi.us.kg/?id=litv-longturn09
-博斯无限,https://litv.zapi.us.kg/?id=litv-longturn10
-龙华日韩,https://litv.zapi.us.kg/?id=litv-longturn11
-龙华偶像,https://litv.zapi.us.kg/?id=litv-longturn12
-博斯无限2,https://litv.zapi.us.kg/?id=litv-longturn13
-寰宇新闻台,https://litv.zapi.us.kg/?id=litv-longturn14
-寰宇新闻台湾台,https://litv.zapi.us.kg/?id=litv-longturn15
-亚洲旅游台,https://litv.zapi.us.kg/?id=litv-longturn17
-龙华戏剧,https://litv.zapi.us.kg/?id=litv-longturn18
-Smart知识台,https://litv.zapi.us.kg/?id=litv-longturn19
-生活英语台,https://litv.zapi.us.kg/?id=litv-longturn20
-龙华经典,https://litv.zapi.us.kg/?id=litv-longturn21
-台湾戏剧台,https://litv.zapi.us.kg/?id=litv-longturn22
+👍4G-TV,#genre#
+amc电影台,http://95.179.139.113:5566/4gtv/39
+ARIRANG阿里郎频道,http://95.179.139.113:5566/4gtv/189
+Bloomberg TV,http://95.179.139.113:5566/4gtv/283
+CI 罪案侦查频道,http://95.179.139.113:5566/4gtv/215
+CinemaWorld,http://95.179.139.113:5566/4gtv/225
+CLASSICA 古典乐,http://95.179.139.113:5566/4gtv/80
+CNBC Asia 财经台,http://95.179.139.113:5566/4gtv/235
+DreamWorks 梦工厂动画,http://95.179.139.113:5566/4gtv/282
+DW德国之声,http://95.179.139.113:5566/4gtv/226
+ELTV生活英语台,http://95.179.139.113:5566/4gtv/106
+fun探索娱乐台,http://95.179.139.113:5566/4gtv/274
+GINX Esports TV,http://95.179.139.113:5566/4gtv/179
+Global Trekker,http://95.179.139.113:5566/4gtv/252
+Globetrotter 环游旅行家,http://95.179.139.113:5566/4gtv/288
+History 历史频道,http://95.179.139.113:5566/4gtv/214
+HITS频道,http://95.179.139.113:5566/4gtv/186
+i-Fun动漫台,http://95.179.139.113:5566/4gtv/60
+KLT-靖天国际台,http://95.179.139.113:5566/4gtv/84
+Lifetime 娱乐频道,http://95.179.139.113:5566/4gtv/217
+LiveABC互动英语频道,http://95.179.139.113:5566/4gtv/188
+Love Nature,http://95.179.139.113:5566/4gtv/139
+LUXE TV Channel,http://95.179.139.113:5566/4gtv/175
+Mezzo Live HD,http://95.179.139.113:5566/4gtv/79
+MOMO亲子台,http://95.179.139.113:5566/4gtv/231
+MTV Live HD 音乐频道,http://95.179.139.113:5566/4gtv/213
+My Cinema Europe HD 我的欧洲电,http://95.179.139.113:5566/4gtv/176
+Nice TV 靖天欢乐,http://95.179.139.113:5566/4gtv/119
+Nick Jr.儿童频道,http://95.179.139.113:5566/4gtv/219
+Pet Club TV,http://95.179.139.113:5566/4gtv/182
+ROCK Action,http://95.179.139.113:5566/4gtv/180
+ROCK Entertainment,http://95.179.139.113:5566/4gtv/275
+SBN全球财经台,http://95.179.139.113:5566/4gtv/224
+TechStorm,http://95.179.139.113:5566/4gtv/181
+TRACE Sport Stars,http://95.179.139.113:5566/4gtv/57
+TRACE Urban,http://95.179.139.113:5566/4gtv/78
+TV5MONDE STYLE HD 生活时尚,http://95.179.139.113:5566/4gtv/178
+TVBS,http://95.179.139.113:5566/4gtv/183
+TVBS台剧台,http://95.179.139.113:5566/4gtv/285
+TVBS欢乐台,http://95.179.139.113:5566/4gtv/184
+TVBS综艺台,http://95.179.139.113:5566/4gtv/284
+TVBS新闻台,http://95.179.139.113:5566/4gtv/291
+TVBS精采台,http://95.179.139.113:5566/4gtv/227
+VOA美国之音,http://95.179.139.113:5566/4gtv/86
+XTR亚太台,http://95.179.139.113:5566/4gtv/223
+人间卫视,http://95.179.139.113:5566/4gtv/210
+儿童卡通台,http://95.179.139.113:5566/4gtv/269
+八大综艺台,http://95.179.139.113:5566/4gtv/114
+八大精彩台,http://95.179.139.113:5566/4gtv/172
+三立综合台,http://95.179.139.113:5566/4gtv/169
+三立新闻iNEWS,http://95.179.139.113:5566/4gtv/229
+大爱二台,http://95.179.139.113:5566/4gtv/230
+大爱电视,http://95.179.139.113:5566/4gtv/209
+中天新闻台,http://95.179.139.113:5566/4gtv/260
+中天新闻台,http://95.179.139.113:5566/4gtv/30
+中视,http://95.179.139.113:5566/4gtv/4
+中视经典台,http://95.179.139.113:5566/4gtv/124
+中视菁采台,http://95.179.139.113:5566/4gtv/123
+中视新闻,http://95.179.139.113:5566/4gtv/258
+中视新闻,http://95.179.139.113:5566/4gtv/33
+公视戏剧,http://95.179.139.113:5566/4gtv/7
+凤梨直击台,http://95.179.139.113:5566/4gtv/93
+车迷TV,http://95.179.139.113:5566/4gtv/160
+东森财经新闻台,http://95.179.139.113:5566/4gtv/293
+东森购物一台,http://95.179.139.113:5566/4gtv/173
+东森购物二台,http://95.179.139.113:5566/4gtv/174
+东森购物三台,http://95.179.139.113:5566/4gtv/287
+东森购物四台,http://95.179.139.113:5566/4gtv/286
+东森新闻台,http://95.179.139.113:5566/4gtv/292
+半岛国际新闻台,http://95.179.139.113:5566/4gtv/85
+尼克儿童频道,http://95.179.139.113:5566/4gtv/185
+民视,http://95.179.139.113:5566/4gtv/246
+民视台湾台,http://95.179.139.113:5566/4gtv/2
+民视台湾台,http://95.179.139.113:5566/4gtv/255
+民视旅游台,http://95.179.139.113:5566/4gtv/61
+民视第一台,http://95.179.139.113:5566/4gtv/1
+民视第一台,http://95.179.139.113:5566/4gtv/254
+民视综艺台,http://95.179.139.113:5566/4gtv/16
+民视新闻台,http://95.179.139.113:5566/4gtv/257
+民视新闻台,http://95.179.139.113:5566/4gtv/31
+民视影剧台,http://95.179.139.113:5566/4gtv/24
+电影免费看 2台,http://95.179.139.113:5566/4gtv/245
+电影原声台CMusic,http://95.179.139.113:5566/4gtv/218
+龙华日韩台,http://95.179.139.113:5566/4gtv/28
+龙华电影台,http://95.179.139.113:5566/4gtv/121
+龙华戏剧台,http://95.179.139.113:5566/4gtv/23
+亚洲旅游台,http://95.179.139.113:5566/4gtv/250
+亚洲旅游台,http://95.179.139.113:5566/4gtv/261
+华视,http://95.179.139.113:5566/4gtv/6
+华视新闻,http://95.179.139.113:5566/4gtv/256
+华视新闻,http://95.179.139.113:5566/4gtv/34
+好消息,http://95.179.139.113:5566/4gtv/9
+好消息2台,http://95.179.139.113:5566/4gtv/8
+戏剧免费看 1台,http://95.179.139.113:5566/4gtv/270
+戏剧免费看 2台,http://95.179.139.113:5566/4gtv/244
+达文西频道,http://95.179.139.113:5566/4gtv/11
+时尚运动X,http://95.179.139.113:5566/4gtv/277
+时尚运动X,http://95.179.139.113:5566/4gtv/69
+花系列 经典剧场,http://95.179.139.113:5566/4gtv/279
+国会频道1,http://95.179.139.113:5566/4gtv/170
+国会频道2,http://95.179.139.113:5566/4gtv/171
+幸福空间居家台,http://95.179.139.113:5566/4gtv/168
+经典卡通台,http://95.179.139.113:5566/4gtv/202
+经典电影台,http://95.179.139.113:5566/4gtv/201
+视纳华仁纪实频道,http://95.179.139.113:5566/4gtv/38
+金光布袋戏,http://95.179.139.113:5566/4gtv/236
+客家电视台,http://95.179.139.113:5566/4gtv/107
+香蕉直击台,http://95.179.139.113:5566/4gtv/94
+原住民族电视台,http://95.179.139.113:5566/4gtv/273
+爱尔达生活旅游,http://95.179.139.113:5566/4gtv/237
+爱尔达娱乐台,http://95.179.139.113:5566/4gtv/19
+猪哥亮歌厅秀,http://95.179.139.113:5566/4gtv/113
+博斯无限台,http://95.179.139.113:5566/4gtv/51
+博斯网球台,http://95.179.139.113:5566/4gtv/52
+博斯运动一台,http://95.179.139.113:5566/4gtv/50
+博斯高球台,http://95.179.139.113:5566/4gtv/48
+智林体育台,http://95.179.139.113:5566/4gtv/58
+超人力霸王整套看,http://95.179.139.113:5566/4gtv/278
+滚动力rollor,http://95.179.139.113:5566/4gtv/249
+靖天日本台,http://95.179.139.113:5566/4gtv/22
+靖天卡通台,http://95.179.139.113:5566/4gtv/15
+靖天电影台,http://95.179.139.113:5566/4gtv/82
+靖天戏剧台,http://95.179.139.113:5566/4gtv/116
+靖天育乐台,http://95.179.139.113:5566/4gtv/83
+靖天映画,http://95.179.139.113:5566/4gtv/42
+靖天资讯台,http://95.179.139.113:5566/4gtv/88
+靖天综合台,http://95.179.139.113:5566/4gtv/21
+靖洋卡通Nice Bingo,http://95.179.139.113:5566/4gtv/59
+靖洋戏剧台,http://95.179.139.113:5566/4gtv/118
+精选动漫台,http://95.179.139.113:5566/4gtv/204
+影迷数位电影台,http://95.179.139.113:5566/4gtv/40
+影迷数位纪实台,http://95.179.139.113:5566/4gtv/212
+寰宇财经台,http://95.179.139.113:5566/4gtv/281
+寰宇新闻台,http://95.179.139.113:5566/4gtv/36
+寰宇新闻台湾台,http://95.179.139.113:5566/4gtv/280
+镜电视新闻台,http://95.179.139.113:5566/4gtv/268
